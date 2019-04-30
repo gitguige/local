@@ -1,2 +1,6 @@
 *********Hazards generated in this test run**********
+<<<<<<< HEAD
 HAZARD || H1 || Hyperglycemia || Time(sec)=116.000000
+=======
+HAZARD || H2 || Hypoglysimia || Time(sec)=27.000000
+>>>>>>> 95561c11c0e8490c81063903c3211d17452a0216

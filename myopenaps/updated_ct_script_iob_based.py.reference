@@ -116,8 +116,17 @@ for _ in range(iteration_num):
 
 # Fault_injection ############# permanent hardware fault injection #################################  
   #glucose:HOOK#
+<<<<<<< HEAD
   if _>=34:
     data_to_prepend["glucose"]=str(69)
+=======
+<<<<<<< HEAD
+  if float(loaded_glucose) < 110:
+=======
+  if _>=193:
+>>>>>>> 4858ebfead111b185a98342b62a5186d1f013430
+    data_to_prepend["glucose"]=str(299)
+>>>>>>> 95561c11c0e8490c81063903c3211d17452a0216
 
     fltTime=open('out/fault_times.txt','a+')
     fltTime.write(str(_)+'||')
