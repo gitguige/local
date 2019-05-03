@@ -91,13 +91,13 @@ for _ in range(iteration_num):
   loaded_glucose = read_glucose_from_glucosym.read()
 
   ##### Detect Alerts #################
-  if float(loaded_glucose) > 280 or float(loaded_glucose) < 80:
+  if float(loaded_glucose) > 250 or float(loaded_glucose) < 85:
     with open(alert_file, 'a+') as alertfile:
       alertfile.write('Alert|| Glucose = %s || Time(sec)=%s\n' % (loaded_glucose, _))
 
   ##### Detect Hyperglycemia (H1) -- added by Xugui
-  if float(loaded_glucose) > 325:
-    print ("Glucose id higher than 325!")
+  if float(loaded_glucose) > 280:
+    print ("Glucose id higher than 280!")
     if reportHazardH1 == True:
       hazardfile.write('HAZARD || H1 || Hyperglycemia || Time(sec)=%f\n' % (_))
       reportHazardH1 = False
@@ -550,6 +550,7 @@ for _ in range(iteration_num):
 #########################=============inject fault here==============#####################
   ## Fault_injection : Injection of fault in Controller output ######################
   #rate:HOOK#
+
   #loaded_suggested_data["rate"] = random.randint(0,5) # Activate for faulty system. For non_faulty system, comment this out 
 
   
