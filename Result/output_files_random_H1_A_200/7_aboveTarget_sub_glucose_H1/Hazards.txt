@@ -1,0 +1,338 @@
+
+Hazards for fault 1::
+
+Hazards for fault 2::
+
+Hazards for fault 3::
+
+Hazards for fault 4::
+
+Hazards for fault 5::
+
+Hazards for fault 6::
+
+Hazards for fault 7::
+
+Hazards for fault 8::
+
+Hazards for fault 9::
+
+Hazards for fault 10::
+
+Hazards for fault 11::
+
+Hazards for fault 12::
+
+Hazards for fault 13::
+
+Hazards for fault 14::
+
+Hazards for fault 15::
+
+Hazards for fault 16::
+
+Hazards for fault 17::
+
+Hazards for fault 18::
+
+Hazards for fault 19::
+
+Hazards for fault 20::
+
+Hazards for fault 21::
+
+Hazards for fault 22::
+
+Hazards for fault 23::
+
+Hazards for fault 24::
+
+Hazards for fault 25::
+
+Hazards for fault 26::
+
+Hazards for fault 27::
+
+Hazards for fault 28::
+
+Hazards for fault 29::
+
+Hazards for fault 30::
+
+Hazards for fault 31::
+
+Hazards for fault 32::
+
+Hazards for fault 33::
+
+Hazards for fault 34::
+
+Hazards for fault 35::
+
+Hazards for fault 36::
+
+Hazards for fault 37::
+
+Hazards for fault 38::
+
+Hazards for fault 39::
+
+Hazards for fault 40::
+
+Hazards for fault 41::
+
+Hazards for fault 42::
+
+Hazards for fault 43::
+
+Hazards for fault 44::
+
+Hazards for fault 45::
+
+Hazards for fault 46::
+
+Hazards for fault 47::
+
+Hazards for fault 48::
+
+Hazards for fault 49::
+
+Hazards for fault 50::
+
+Hazards for fault 51::
+
+Hazards for fault 52::
+
+Hazards for fault 53::
+
+Hazards for fault 54::
+
+Hazards for fault 55::
+
+Hazards for fault 56::
+
+Hazards for fault 57::
+
+Hazards for fault 58::
+
+Hazards for fault 59::
+
+Hazards for fault 60::
+
+Hazards for fault 61::
+
+Hazards for fault 62::
+
+Hazards for fault 63::
+
+Hazards for fault 64::
+
+Hazards for fault 65::
+
+Hazards for fault 66::
+
+Hazards for fault 67::
+
+Hazards for fault 68::
+
+Hazards for fault 69::
+
+Hazards for fault 70::
+
+Hazards for fault 71::
+
+Hazards for fault 72::
+
+Hazards for fault 73::
+
+Hazards for fault 74::
+
+Hazards for fault 75::
+
+Hazards for fault 76::
+
+Hazards for fault 77::
+
+Hazards for fault 78::
+HAZARD || H1 || Hyperglycemia || Time(sec)=128.000000
+
+Hazards for fault 79::
+
+Hazards for fault 80::
+
+Hazards for fault 81::
+
+Hazards for fault 82::
+
+Hazards for fault 83::
+HAZARD || H1 || Hyperglycemia || Time(sec)=133.000000
+
+Hazards for fault 84::
+HAZARD || H1 || Hyperglycemia || Time(sec)=126.000000
+
+Hazards for fault 85::
+HAZARD || H1 || Hyperglycemia || Time(sec)=169.000000
+
+Hazards for fault 86::
+HAZARD || H1 || Hyperglycemia || Time(sec)=112.000000
+
+Hazards for fault 87::
+HAZARD || H1 || Hyperglycemia || Time(sec)=114.000000
+
+Hazards for fault 88::
+HAZARD || H1 || Hyperglycemia || Time(sec)=166.000000
+
+Hazards for fault 89::
+HAZARD || H1 || Hyperglycemia || Time(sec)=130.000000
+
+Hazards for fault 90::
+HAZARD || H1 || Hyperglycemia || Time(sec)=130.000000
+
+Hazards for fault 91::
+HAZARD || H1 || Hyperglycemia || Time(sec)=177.000000
+
+Hazards for fault 92::
+HAZARD || H1 || Hyperglycemia || Time(sec)=177.000000
+
+Hazards for fault 93::
+
+Hazards for fault 94::
+HAZARD || H1 || Hyperglycemia || Time(sec)=123.000000
+
+Hazards for fault 95::
+HAZARD || H1 || Hyperglycemia || Time(sec)=157.000000
+
+Hazards for fault 96::
+HAZARD || H1 || Hyperglycemia || Time(sec)=137.000000
+
+Hazards for fault 97::
+
+Hazards for fault 98::
+HAZARD || H1 || Hyperglycemia || Time(sec)=156.000000
+
+Hazards for fault 99::
+HAZARD || H1 || Hyperglycemia || Time(sec)=104.000000
+
+Hazards for fault 100::
+HAZARD || H1 || Hyperglycemia || Time(sec)=172.000000
+
+Hazards for fault 101::
+
+Hazards for fault 102::
+
+Hazards for fault 103::
+
+Hazards for fault 104::
+HAZARD || H1 || Hyperglycemia || Time(sec)=97.000000
+
+Hazards for fault 105::
+HAZARD || H1 || Hyperglycemia || Time(sec)=158.000000
+
+Hazards for fault 106::
+HAZARD || H1 || Hyperglycemia || Time(sec)=121.000000
+
+Hazards for fault 107::
+HAZARD || H1 || Hyperglycemia || Time(sec)=121.000000
+
+Hazards for fault 108::
+HAZARD || H1 || Hyperglycemia || Time(sec)=181.000000
+
+Hazards for fault 109::
+HAZARD || H1 || Hyperglycemia || Time(sec)=187.000000
+
+Hazards for fault 110::
+HAZARD || H1 || Hyperglycemia || Time(sec)=107.000000
+
+Hazards for fault 111::
+HAZARD || H1 || Hyperglycemia || Time(sec)=198.000000
+
+Hazards for fault 112::
+HAZARD || H1 || Hyperglycemia || Time(sec)=155.000000
+
+Hazards for fault 113::
+HAZARD || H1 || Hyperglycemia || Time(sec)=171.000000
+
+Hazards for fault 114::
+HAZARD || H1 || Hyperglycemia || Time(sec)=110.000000
+
+Hazards for fault 115::
+HAZARD || H1 || Hyperglycemia || Time(sec)=180.000000
+
+Hazards for fault 116::
+
+Hazards for fault 117::
+HAZARD || H1 || Hyperglycemia || Time(sec)=155.000000
+
+Hazards for fault 118::
+HAZARD || H1 || Hyperglycemia || Time(sec)=162.000000
+
+Hazards for fault 119::
+
+Hazards for fault 120::
+HAZARD || H1 || Hyperglycemia || Time(sec)=155.000000
+
+Hazards for fault 121::
+HAZARD || H1 || Hyperglycemia || Time(sec)=155.000000
+
+Hazards for fault 122::
+
+Hazards for fault 123::
+HAZARD || H1 || Hyperglycemia || Time(sec)=190.000000
+
+Hazards for fault 124::
+
+Hazards for fault 125::
+HAZARD || H1 || Hyperglycemia || Time(sec)=146.000000
+
+Hazards for fault 126::
+
+Hazards for fault 127::
+HAZARD || H1 || Hyperglycemia || Time(sec)=181.000000
+
+Hazards for fault 128::
+HAZARD || H1 || Hyperglycemia || Time(sec)=111.000000
+
+Hazards for fault 129::
+HAZARD || H1 || Hyperglycemia || Time(sec)=163.000000
+
+Hazards for fault 130::
+HAZARD || H1 || Hyperglycemia || Time(sec)=176.000000
+
+Hazards for fault 131::
+
+Hazards for fault 132::
+HAZARD || H1 || Hyperglycemia || Time(sec)=171.000000
+
+Hazards for fault 133::
+
+Hazards for fault 134::
+HAZARD || H1 || Hyperglycemia || Time(sec)=152.000000
+
+Hazards for fault 135::
+
+Hazards for fault 136::
+HAZARD || H1 || Hyperglycemia || Time(sec)=91.000000
+
+Hazards for fault 137::
+HAZARD || H1 || Hyperglycemia || Time(sec)=101.000000
+
+Hazards for fault 138::
+HAZARD || H1 || Hyperglycemia || Time(sec)=121.000000
+
+Hazards for fault 139::
+
+Hazards for fault 140::
+
+Hazards for fault 141::
+HAZARD || H1 || Hyperglycemia || Time(sec)=109.000000
+
+Hazards for fault 142::
+
+Hazards for fault 143::
+HAZARD || H1 || Hyperglycemia || Time(sec)=114.000000
+
+Hazards for fault 144::
+HAZARD || H1 || Hyperglycemia || Time(sec)=114.000000
+
+Hazards for fault 145::
+HAZARD || H1 || Hyperglycemia || Time(sec)=196.000000
