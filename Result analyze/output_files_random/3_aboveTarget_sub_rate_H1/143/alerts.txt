@@ -1,0 +1,3 @@
+*********Alerts generated in this test run**********
+Alert|| Glucose = 252.75889853452767 || Time(sec)=198
+Alert|| Glucose = 255.6928452756024 || Time(sec)=199

@@ -1,0 +1,12 @@
+Total number of faults: 915
+Alerts: 61.86 % (total: 566)
+Hazards: 55.41 % (total: 507)
+Hazards (H1 only): 31.16 %
+Hazards (H2 only): 68.84 %
+Alerts showed up but no Hazard: 59 
+Alerts False Positive: 14.46 %
+Alerts did not show up but Hazards occurred: 0 
+Alerts False Negative: 0.00 %
+Average alert time: 38.7968s 
+Average time to hazard: 43.8540s 
+Total number of activated faults: 895

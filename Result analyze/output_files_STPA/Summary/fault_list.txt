@@ -1,0 +1,8 @@
+1_belowTarget_add_rate_H2
+2_belowTarget_stuck_rate_H2
+3_aboveTarget_sub_rate_H1
+4_aboveTarget_stuck_rate_H1
+5_belowTarget_add_glucose_H2
+6_belowTarget_stuck_glucose_H2
+7_aboveTarget_sub_glucose_H1
+8_aboveTarget_stuck_glucose_H1

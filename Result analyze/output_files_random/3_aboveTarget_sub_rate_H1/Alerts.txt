@@ -1,0 +1,3366 @@
+
+Alerts for fault 1::
+
+Alerts for fault 2::
+
+Alerts for fault 3::
+
+Alerts for fault 4::
+
+Alerts for fault 5::
+
+Alerts for fault 6::
+
+Alerts for fault 7::
+
+Alerts for fault 8::
+
+Alerts for fault 9::
+
+Alerts for fault 10::
+
+Alerts for fault 11::
+
+Alerts for fault 12::
+
+Alerts for fault 13::
+
+Alerts for fault 14::
+
+Alerts for fault 15::
+
+Alerts for fault 16::
+
+Alerts for fault 17::
+
+Alerts for fault 18::
+
+Alerts for fault 19::
+
+Alerts for fault 20::
+
+Alerts for fault 21::
+
+Alerts for fault 22::
+
+Alerts for fault 23::
+
+Alerts for fault 24::
+
+Alerts for fault 25::
+
+Alerts for fault 26::
+
+Alerts for fault 27::
+
+Alerts for fault 28::
+
+Alerts for fault 29::
+
+Alerts for fault 30::
+
+Alerts for fault 31::
+
+Alerts for fault 32::
+
+Alerts for fault 33::
+
+Alerts for fault 34::
+
+Alerts for fault 35::
+
+Alerts for fault 36::
+
+Alerts for fault 37::
+
+Alerts for fault 38::
+
+Alerts for fault 39::
+
+Alerts for fault 40::
+
+Alerts for fault 41::
+
+Alerts for fault 42::
+
+Alerts for fault 43::
+
+Alerts for fault 44::
+
+Alerts for fault 45::
+
+Alerts for fault 46::
+
+Alerts for fault 47::
+
+Alerts for fault 48::
+
+Alerts for fault 49::
+
+Alerts for fault 50::
+
+Alerts for fault 51::
+
+Alerts for fault 52::
+
+Alerts for fault 53::
+
+Alerts for fault 54::
+
+Alerts for fault 55::
+
+Alerts for fault 56::
+
+Alerts for fault 57::
+
+Alerts for fault 58::
+
+Alerts for fault 59::
+
+Alerts for fault 60::
+
+Alerts for fault 61::
+
+Alerts for fault 62::
+
+Alerts for fault 63::
+
+Alerts for fault 64::
+
+Alerts for fault 65::
+
+Alerts for fault 66::
+
+Alerts for fault 67::
+
+Alerts for fault 68::
+
+Alerts for fault 69::
+
+Alerts for fault 70::
+
+Alerts for fault 71::
+
+Alerts for fault 72::
+
+Alerts for fault 73::
+
+Alerts for fault 74::
+
+Alerts for fault 75::
+
+Alerts for fault 76::
+
+Alerts for fault 77::
+
+Alerts for fault 78::
+
+Alerts for fault 79::
+
+Alerts for fault 80::
+
+Alerts for fault 81::
+
+Alerts for fault 82::
+
+Alerts for fault 83::
+Alert|| Glucose = 250.70130370138673 || Time(sec)=154
+Alert|| Glucose = 251.56455205215656 || Time(sec)=155
+Alert|| Glucose = 252.4120289383254 || Time(sec)=156
+Alert|| Glucose = 253.24390861720073 || Time(sec)=157
+Alert|| Glucose = 254.060369675431 || Time(sec)=158
+Alert|| Glucose = 254.86159459540994 || Time(sec)=159
+Alert|| Glucose = 255.6477693422546 || Time(sec)=160
+Alert|| Glucose = 256.4190829707693 || Time(sec)=161
+Alert|| Glucose = 257.1757272518022 || Time(sec)=162
+Alert|| Glucose = 257.91789631739744 || Time(sec)=163
+Alert|| Glucose = 258.6457863241446 || Time(sec)=164
+Alert|| Glucose = 259.35959513412666 || Time(sec)=165
+Alert|| Glucose = 260.05952201287226 || Time(sec)=166
+Alert|| Glucose = 260.7457673437186 || Time(sec)=167
+Alert|| Glucose = 261.41853235799994 || Time(sec)=168
+Alert|| Glucose = 262.07801888048067 || Time(sec)=169
+Alert|| Glucose = 262.72442908946203 || Time(sec)=170
+Alert|| Glucose = 263.35796529099787 || Time(sec)=171
+Alert|| Glucose = 263.9788297066671 || Time(sec)=172
+Alert|| Glucose = 264.58722427435936 || Time(sec)=173
+Alert|| Glucose = 265.18335046154186 || Time(sec)=174
+Alert|| Glucose = 265.7674090904884 || Time(sec)=175
+Alert|| Glucose = 266.33960017496184 || Time(sec)=176
+Alert|| Glucose = 266.90012276785603 || Time(sec)=177
+Alert|| Glucose = 267.44917481931475 || Time(sec)=178
+Alert|| Glucose = 267.9869530448597 || Time(sec)=179
+Alert|| Glucose = 268.5136528030718 || Time(sec)=180
+Alert|| Glucose = 269.02946798238463 || Time(sec)=181
+Alert|| Glucose = 269.5345908965623 || Time(sec)=182
+Alert|| Glucose = 270.02921218844756 || Time(sec)=183
+Alert|| Glucose = 270.5135207415793 || Time(sec)=184
+Alert|| Glucose = 270.9877035992933 || Time(sec)=185
+Alert|| Glucose = 271.4519458909316 || Time(sec)=186
+Alert|| Glucose = 271.90643076480177 || Time(sec)=187
+Alert|| Glucose = 272.35133932753797 || Time(sec)=188
+Alert|| Glucose = 272.7868505895303 || Time(sec)=189
+Alert|| Glucose = 273.21314141610094 || Time(sec)=190
+Alert|| Glucose = 273.6303864841187 || Time(sec)=191
+Alert|| Glucose = 274.03875824375456 || Time(sec)=192
+Alert|| Glucose = 274.4384268850947 || Time(sec)=193
+Alert|| Glucose = 274.8295603093369 || Time(sec)=194
+Alert|| Glucose = 275.2123241043098 || Time(sec)=195
+Alert|| Glucose = 275.58688152406387 || Time(sec)=196
+Alert|| Glucose = 275.95339347229475 || Time(sec)=197
+Alert|| Glucose = 276.3120184893697 || Time(sec)=198
+Alert|| Glucose = 276.6629127427376 || Time(sec)=199
+
+Alerts for fault 84::
+Alert|| Glucose = 250.01335419310868 || Time(sec)=165
+Alert|| Glucose = 250.9577115149801 || Time(sec)=166
+Alert|| Glucose = 251.8856426528932 || Time(sec)=167
+Alert|| Glucose = 252.79729286649845 || Time(sec)=168
+Alert|| Glucose = 253.69281393565322 || Time(sec)=169
+Alert|| Glucose = 254.57236363755115 || Time(sec)=170
+Alert|| Glucose = 255.43610524615877 || Time(sec)=171
+Alert|| Glucose = 256.2842070534778 || Time(sec)=172
+Alert|| Glucose = 257.11684191213004 || Time(sec)=173
+Alert|| Glucose = 257.93418679874344 || Time(sec)=174
+Alert|| Glucose = 258.73642239760335 || Time(sec)=175
+Alert|| Glucose = 259.52373270401995 || Time(sec)=176
+Alert|| Glucose = 260.29630464685533 || Time(sec)=177
+Alert|| Glucose = 261.05432772964525 || Time(sec)=178
+Alert|| Glucose = 261.79799368974767 || Time(sec)=179
+Alert|| Glucose = 262.5274961749474 || Time(sec)=180
+Alert|| Glucose = 263.24303043694596 || Time(sec)=181
+Alert|| Glucose = 263.94479304116794 || Time(sec)=182
+Alert|| Glucose = 264.63298159231766 || Time(sec)=183
+Alert|| Glucose = 265.30779447512543 || Time(sec)=184
+Alert|| Glucose = 265.96943060972825 || Time(sec)=185
+Alert|| Glucose = 266.6180892211369 || Time(sec)=186
+Alert|| Glucose = 267.2539696222503 || Time(sec)=187
+Alert|| Glucose = 267.8772710098862 || Time(sec)=188
+Alert|| Glucose = 268.4881922733086 || Time(sec)=189
+Alert|| Glucose = 269.0869318147409 || Time(sec)=190
+Alert|| Glucose = 269.6736873813677 || Time(sec)=191
+Alert|| Glucose = 270.24865590833673 || Time(sec)=192
+Alert|| Glucose = 270.81203337228806 || Time(sec)=193
+Alert|| Glucose = 271.36401465494674 || Time(sec)=194
+Alert|| Glucose = 271.90479341633034 || Time(sec)=195
+Alert|| Glucose = 272.4345619771344 || Time(sec)=196
+Alert|| Glucose = 272.9535112098724 || Time(sec)=197
+Alert|| Glucose = 273.4618304383591 || Time(sec)=198
+Alert|| Glucose = 273.959707345141 || Time(sec)=199
+
+Alerts for fault 85::
+Alert|| Glucose = 250.94225821528778 || Time(sec)=134
+Alert|| Glucose = 252.01231948272357 || Time(sec)=135
+Alert|| Glucose = 253.0648894644806 || Time(sec)=136
+Alert|| Glucose = 254.10008019164363 || Time(sec)=137
+Alert|| Glucose = 255.11801282813164 || Time(sec)=138
+Alert|| Glucose = 256.1188170374547 || Time(sec)=139
+Alert|| Glucose = 257.10263037489307 || Time(sec)=140
+Alert|| Glucose = 258.0695977045912 || Time(sec)=141
+Alert|| Glucose = 259.01987064103514 || Time(sec)=142
+Alert|| Glucose = 259.9536070143632 || Time(sec)=143
+Alert|| Glucose = 260.87097035894055 || Time(sec)=144
+Alert|| Glucose = 261.77212942461597 || Time(sec)=145
+Alert|| Glucose = 262.6572577100654 || Time(sec)=146
+Alert|| Glucose = 263.5265330176197 || Time(sec)=147
+Alert|| Glucose = 264.3801370289664 || Time(sec)=148
+Alert|| Glucose = 265.2182549011104 || Time(sec)=149
+Alert|| Glucose = 266.04107488197843 || Time(sec)=150
+Alert|| Glucose = 266.8487879450477 || Time(sec)=151
+Alert|| Glucose = 267.6415874423858 || Time(sec)=152
+Alert|| Glucose = 268.4196687754867 || Time(sec)=153
+Alert|| Glucose = 269.1832290832962 || Time(sec)=154
+Alert|| Glucose = 269.9324669468241 || Time(sec)=155
+Alert|| Glucose = 270.667582109747 || Time(sec)=156
+Alert|| Glucose = 271.38877521441617 || Time(sec)=157
+Alert|| Glucose = 272.0962475526909 || Time(sec)=158
+Alert|| Glucose = 272.79020083103046 || Time(sec)=159
+Alert|| Glucose = 273.4708369492869 || Time(sec)=160
+Alert|| Glucose = 274.13835779265287 || Time(sec)=161
+Alert|| Glucose = 274.7929650362309 || Time(sec)=162
+Alert|| Glucose = 275.43485996170216 || Time(sec)=163
+Alert|| Glucose = 276.06424328558654 || Time(sec)=164
+Alert|| Glucose = 276.6813149985984 || Time(sec)=165
+Alert|| Glucose = 277.2862742156154 || Time(sec)=166
+Alert|| Glucose = 277.8793190357928 || Time(sec)=167
+Alert|| Glucose = 278.4606464123673 || Time(sec)=168
+Alert|| Glucose = 279.0304520317102 || Time(sec)=169
+Alert|| Glucose = 279.58893020120166 || Time(sec)=170
+Alert|| Glucose = 280.1362737455133 || Time(sec)=171
+Alert|| Glucose = 280.67267391089814 || Time(sec)=172
+Alert|| Glucose = 281.19832027710294 || Time(sec)=173
+Alert|| Glucose = 281.71340067652824 || Time(sec)=174
+Alert|| Glucose = 282.2181011202781 || Time(sec)=175
+Alert|| Glucose = 282.71260573075165 || Time(sec)=176
+Alert|| Glucose = 283.1970966804436 || Time(sec)=177
+Alert|| Glucose = 283.67175413663216 || Time(sec)=178
+Alert|| Glucose = 284.1367562116455 || Time(sec)=179
+Alert|| Glucose = 284.592278918411 || Time(sec)=180
+Alert|| Glucose = 285.03849613100147 || Time(sec)=181
+Alert|| Glucose = 285.4755795499057 || Time(sec)=182
+Alert|| Glucose = 285.4755795499057 || Time(sec)=183
+Alert|| Glucose = 285.4755795499057 || Time(sec)=184
+Alert|| Glucose = 285.4755795499057 || Time(sec)=185
+Alert|| Glucose = 285.4755795499057 || Time(sec)=186
+Alert|| Glucose = 267.2539696222503 || Time(sec)=187
+Alert|| Glucose = 267.8772710098862 || Time(sec)=188
+Alert|| Glucose = 268.4881922733086 || Time(sec)=189
+Alert|| Glucose = 269.0870356920468 || Time(sec)=190
+Alert|| Glucose = 269.67584388140637 || Time(sec)=191
+Alert|| Glucose = 270.2562474097074 || Time(sec)=192
+Alert|| Glucose = 270.82952966062396 || Time(sec)=193
+Alert|| Glucose = 271.3966828270734 || Time(sec)=194
+Alert|| Glucose = 271.95845612722024 || Time(sec)=195
+Alert|| Glucose = 272.5153972178436 || Time(sec)=196
+Alert|| Glucose = 273.067887672664 || Time(sec)=197
+Alert|| Glucose = 273.6161732941437 || Time(sec)=198
+Alert|| Glucose = 274.1603899370566 || Time(sec)=199
+
+Alerts for fault 86::
+
+Alerts for fault 87::
+Alert|| Glucose = 251.09114858475095 || Time(sec)=140
+Alert|| Glucose = 252.43090891037735 || Time(sec)=141
+Alert|| Glucose = 253.75200616180666 || Time(sec)=142
+Alert|| Glucose = 255.0544353976356 || Time(sec)=143
+Alert|| Glucose = 256.3382072356291 || Time(sec)=144
+Alert|| Glucose = 257.60334703673885 || Time(sec)=145
+Alert|| Glucose = 258.84989411301734 || Time(sec)=146
+Alert|| Glucose = 260.07790095955716 || Time(sec)=147
+Alert|| Glucose = 261.2874325105103 || Time(sec)=148
+Alert|| Glucose = 262.4785654191771 || Time(sec)=149
+Alert|| Glucose = 263.65138736208905 || Time(sec)=150
+Alert|| Glucose = 264.80599636695473 || Time(sec)=151
+Alert|| Glucose = 265.9425001642815 || Time(sec)=152
+Alert|| Glucose = 267.0610155624409 || Time(sec)=153
+Alert|| Glucose = 268.16166784589785 || Time(sec)=154
+Alert|| Glucose = 269.2445901962864 || Time(sec)=155
+Alert|| Glucose = 270.3099231359779 || Time(sec)=156
+Alert|| Glucose = 271.35781399375514 || Time(sec)=157
+Alert|| Glucose = 272.38841639217964 || Time(sec)=158
+Alert|| Glucose = 273.40188975621174 || Time(sec)=159
+Alert|| Glucose = 274.39839884262506 || Time(sec)=160
+Alert|| Glucose = 275.3781132897357 || Time(sec)=161
+Alert|| Glucose = 276.34120718695357 || Time(sec)=162
+Alert|| Glucose = 277.2878586636495 || Time(sec)=163
+Alert|| Glucose = 278.2182494968222 || Time(sec)=164
+Alert|| Glucose = 279.13256473704166 || Time(sec)=165
+Alert|| Glucose = 280.0309923521404 || Time(sec)=166
+Alert|| Glucose = 280.9137228881198 || Time(sec)=167
+Alert|| Glucose = 281.7809491467389 || Time(sec)=168
+Alert|| Glucose = 282.63286587925137 || Time(sec)=169
+Alert|| Glucose = 283.46966949576034 || Time(sec)=170
+Alert|| Glucose = 284.2915577896621 || Time(sec)=171
+Alert|| Glucose = 285.0987296766552 || Time(sec)=172
+Alert|| Glucose = 285.8913849477976 || Time(sec)=173
+Alert|| Glucose = 286.66972403609975 || Time(sec)=174
+Alert|| Glucose = 287.43394779615085 || Time(sec)=175
+Alert|| Glucose = 288.18425729628257 || Time(sec)=176
+Alert|| Glucose = 288.9208536227846 || Time(sec)=177
+Alert|| Glucose = 289.6439376956955 || Time(sec)=178
+Alert|| Glucose = 290.3537100957032 || Time(sec)=179
+Alert|| Glucose = 291.0503709016992 || Time(sec)=180
+Alert|| Glucose = 291.73411953854287 || Time(sec)=181
+Alert|| Glucose = 292.40515463460304 || Time(sec)=182
+Alert|| Glucose = 293.06367388865476 || Time(sec)=183
+Alert|| Glucose = 293.7098739457226 || Time(sec)=184
+Alert|| Glucose = 294.34395028147236 || Time(sec)=185
+Alert|| Glucose = 294.96609709476553 || Time(sec)=186
+Alert|| Glucose = 295.5765072080029 || Time(sec)=187
+Alert|| Glucose = 296.17537197489537 || Time(sec)=188
+Alert|| Glucose = 296.7628811953118 || Time(sec)=189
+Alert|| Glucose = 297.3392230368666 || Time(sec)=190
+Alert|| Glucose = 297.90458396291933 || Time(sec)=191
+Alert|| Glucose = 298.4591486666727 || Time(sec)=192
+Alert|| Glucose = 299.0031000110648 || Time(sec)=193
+Alert|| Glucose = 299.53661897416305 || Time(sec)=194
+Alert|| Glucose = 300.0598845997791 || Time(sec)=195
+Alert|| Glucose = 300.5730739530339 || Time(sec)=196
+Alert|| Glucose = 301.0763620806129 || Time(sec)=197
+Alert|| Glucose = 301.5699219754617 || Time(sec)=198
+Alert|| Glucose = 302.0539245456823 || Time(sec)=199
+
+Alerts for fault 88::
+Alert|| Glucose = 250.9066887123108 || Time(sec)=166
+Alert|| Glucose = 252.43307920230203 || Time(sec)=167
+Alert|| Glucose = 253.94155945756813 || Time(sec)=168
+Alert|| Glucose = 255.43197659244268 || Time(sec)=169
+Alert|| Glucose = 256.90419935776674 || Time(sec)=170
+Alert|| Glucose = 258.35811721771216 || Time(sec)=171
+Alert|| Glucose = 259.79363944378247 || Time(sec)=172
+Alert|| Glucose = 261.2106942269792 || Time(sec)=173
+Alert|| Glucose = 262.6092278089986 || Time(sec)=174
+Alert|| Glucose = 263.9892036332069 || Time(sec)=175
+Alert|| Glucose = 265.3506015160295 || Time(sec)=176
+Alert|| Glucose = 266.69341683928667 || Time(sec)=177
+Alert|| Glucose = 268.01765976390783 || Time(sec)=178
+Alert|| Glucose = 269.3233544653646 || Time(sec)=179
+Alert|| Glucose = 270.61053839107564 || Time(sec)=180
+Alert|| Glucose = 271.8792615399554 || Time(sec)=181
+Alert|| Glucose = 273.12958576420465 || Time(sec)=182
+Alert|| Glucose = 274.3615840933692 || Time(sec)=183
+Alert|| Glucose = 275.5753400806315 || Time(sec)=184
+Alert|| Glucose = 276.7709471712394 || Time(sec)=185
+Alert|| Glucose = 277.9485080929225 || Time(sec)=186
+Alert|| Glucose = 279.1081342680994 || Time(sec)=187
+Alert|| Glucose = 280.249945247632 || Time(sec)=188
+Alert|| Glucose = 281.37406816584644 || Time(sec)=189
+Alert|| Glucose = 282.4806372165014 || Time(sec)=190
+Alert|| Glucose = 283.5697931493555 || Time(sec)=191
+Alert|| Glucose = 284.64168278695604 || Time(sec)=192
+Alert|| Glucose = 285.69645856124737 || Time(sec)=193
+Alert|| Glucose = 286.7342780695766 || Time(sec)=194
+Alert|| Glucose = 287.7553036496556 || Time(sec)=195
+Alert|| Glucose = 288.7597019730243 || Time(sec)=196
+Alert|| Glucose = 289.7476436565467 || Time(sec)=197
+Alert|| Glucose = 290.71930289146286 || Time(sec)=198
+Alert|| Glucose = 291.67485708951074 || Time(sec)=199
+
+Alerts for fault 89::
+Alert|| Glucose = 291.67485708951074 || Time(sec)=199
+
+Alerts for fault 90::
+Alert|| Glucose = 250.64214270311203 || Time(sec)=135
+Alert|| Glucose = 252.37769508599206 || Time(sec)=136
+Alert|| Glucose = 254.0950411847347 || Time(sec)=137
+Alert|| Glucose = 255.79394375560383 || Time(sec)=138
+Alert|| Glucose = 257.47419040968697 || Time(sec)=139
+Alert|| Glucose = 259.1355926546574 || Time(sec)=140
+Alert|| Glucose = 260.7779849497118 || Time(sec)=141
+Alert|| Glucose = 262.40122377495084 || Time(sec)=142
+Alert|| Glucose = 264.00518671635035 || Time(sec)=143
+Alert|| Glucose = 265.589771567358 || Time(sec)=144
+Alert|| Glucose = 267.1548954480349 || Time(sec)=145
+Alert|| Glucose = 268.7004939425562 || Time(sec)=146
+Alert|| Glucose = 270.2265202557801 || Time(sec)=147
+Alert|| Glucose = 271.73294438949375 || Time(sec)=148
+Alert|| Glucose = 273.21975233885246 || Time(sec)=149
+Alert|| Glucose = 274.6869453094358 || Time(sec)=150
+Alert|| Glucose = 276.13453895526135 || Time(sec)=151
+Alert|| Glucose = 277.56256263801424 || Time(sec)=152
+Alert|| Glucose = 278.97105870767814 || Time(sec)=153
+Alert|| Glucose = 280.36008180468 || Time(sec)=154
+Alert|| Glucose = 281.72969818359746 || Time(sec)=155
+Alert|| Glucose = 283.0799850584156 || Time(sec)=156
+Alert|| Glucose = 284.41102996926463 || Time(sec)=157
+Alert|| Glucose = 285.72293017051726 || Time(sec)=158
+Alert|| Glucose = 287.0157920400783 || Time(sec)=159
+Alert|| Glucose = 288.289730509655 || Time(sec)=160
+Alert|| Glucose = 289.54486851575854 || Time(sec)=161
+Alert|| Glucose = 290.7813364711512 || Time(sec)=162
+Alert|| Glucose = 291.9992717564222 || Time(sec)=163
+Alert|| Glucose = 293.19881823134864 || Time(sec)=164
+Alert|| Glucose = 294.3801257656708 || Time(sec)=165
+Alert|| Glucose = 295.54334978889295 || Time(sec)=166
+Alert|| Glucose = 296.68865085869885 || Time(sec)=167
+Alert|| Glucose = 297.81619424755826 || Time(sec)=168
+Alert|| Glucose = 298.92614954708574 || Time(sec)=169
+Alert|| Glucose = 300.01869028970356 || Time(sec)=170
+Alert|| Glucose = 301.093993587151 || Time(sec)=171
+Alert|| Glucose = 302.15223978537705 || Time(sec)=172
+Alert|| Glucose = 303.19361213534836 || Time(sec)=173
+Alert|| Glucose = 304.2182964793014 || Time(sec)=174
+Alert|| Glucose = 305.22648095196786 || Time(sec)=175
+Alert|| Glucose = 306.2183556963013 || Time(sec)=176
+Alert|| Glucose = 307.19411259323607 || Time(sec)=177
+Alert|| Glucose = 308.1539450050118 || Time(sec)=178
+Alert|| Glucose = 309.09804753160086 || Time(sec)=179
+Alert|| Glucose = 310.026615779782 || Time(sec)=180
+Alert|| Glucose = 310.9398461444082 || Time(sec)=181
+Alert|| Glucose = 311.83793560142476 || Time(sec)=182
+Alert|| Glucose = 312.72108151219993 || Time(sec)=183
+Alert|| Glucose = 313.5894814387392 || Time(sec)=184
+Alert|| Glucose = 314.44333296936304 || Time(sec)=185
+Alert|| Glucose = 315.28283355443574 || Time(sec)=186
+Alert|| Glucose = 316.1081803517437 || Time(sec)=187
+Alert|| Glucose = 316.9195700811309 || Time(sec)=188
+Alert|| Glucose = 317.71719888800794 || Time(sec)=189
+Alert|| Glucose = 318.5012622153633 || Time(sec)=190
+Alert|| Glucose = 319.27195468391386 || Time(sec)=191
+Alert|| Glucose = 320.0294699800432 || Time(sec)=192
+Alert|| Glucose = 320.7740007511858 || Time(sec)=193
+Alert|| Glucose = 321.5057385083265 || Time(sec)=194
+Alert|| Glucose = 322.22487353529436 || Time(sec)=195
+Alert|| Glucose = 322.9315948045408 || Time(sec)=196
+Alert|| Glucose = 323.62608989910143 || Time(sec)=197
+Alert|| Glucose = 324.30854494045303 || Time(sec)=198
+Alert|| Glucose = 324.9791445219841 || Time(sec)=199
+
+Alerts for fault 91::
+
+Alerts for fault 92::
+Alert|| Glucose = 250.2933208030015 || Time(sec)=159
+Alert|| Glucose = 252.30957908249908 || Time(sec)=160
+Alert|| Glucose = 254.31168605297165 || Time(sec)=161
+Alert|| Glucose = 256.29911426791136 || Time(sec)=162
+Alert|| Glucose = 258.2713691551867 || Time(sec)=163
+Alert|| Glucose = 260.2279881023734 || Time(sec)=164
+Alert|| Glucose = 262.1685395340479 || Time(sec)=165
+Alert|| Glucose = 264.09262198370567 || Time(sec)=166
+Alert|| Glucose = 265.9998631628176 || Time(sec)=167
+Alert|| Glucose = 267.8899190293868 || Time(sec)=168
+Alert|| Glucose = 269.76247285821836 || Time(sec)=169
+Alert|| Glucose = 271.6172343149664 || Time(sec)=170
+Alert|| Glucose = 273.453938535879 || Time(sec)=171
+Alert|| Glucose = 275.27234521501526 || Time(sec)=172
+Alert|| Glucose = 277.0722377005723 || Time(sec)=173
+Alert|| Glucose = 278.85342210182034 || Time(sec)=174
+Alert|| Glucose = 280.61572640801376 || Time(sec)=175
+Alert|| Glucose = 282.3589996205171 || Time(sec)=176
+Alert|| Glucose = 284.0831108992614 || Time(sec)=177
+Alert|| Glucose = 285.7879487245275 || Time(sec)=178
+Alert|| Glucose = 287.47342007493995 || Time(sec)=179
+Alert|| Glucose = 289.1394496224458 || Time(sec)=180
+Alert|| Glucose = 290.78597894495005 || Time(sec)=181
+Alert|| Glucose = 292.41296575718127 || Time(sec)=182
+Alert|| Glucose = 294.0203831602691 || Time(sec)=183
+Alert|| Glucose = 295.60821891042747 || Time(sec)=184
+Alert|| Glucose = 297.1764747070561 || Time(sec)=185
+Alert|| Glucose = 298.7251655004961 || Time(sec)=186
+Alert|| Glucose = 300.2543188196045 || Time(sec)=187
+Alert|| Glucose = 301.7639741192462 || Time(sec)=188
+Alert|| Glucose = 303.25418214773896 || Time(sec)=189
+Alert|| Glucose = 304.7250043342338 || Time(sec)=190
+Alert|| Glucose = 306.1765121959567 || Time(sec)=191
+Alert|| Glucose = 307.60878676519417 || Time(sec)=192
+Alert|| Glucose = 309.0219180358581 || Time(sec)=193
+Alert|| Glucose = 310.4160044294293 || Time(sec)=194
+Alert|| Glucose = 311.7911522800409 || Time(sec)=195
+Alert|| Glucose = 313.14747533843325 || Time(sec)=196
+Alert|| Glucose = 314.48509429448166 || Time(sec)=197
+Alert|| Glucose = 315.804136317975 || Time(sec)=198
+Alert|| Glucose = 317.1047346173003 || Time(sec)=199
+
+Alerts for fault 93::
+Alert|| Glucose = 250.2131849416968 || Time(sec)=136
+Alert|| Glucose = 252.36123317842157 || Time(sec)=137
+Alert|| Glucose = 252.36123317842157 || Time(sec)=138
+Alert|| Glucose = 252.36123317842157 || Time(sec)=139
+Alert|| Glucose = 252.36123317842157 || Time(sec)=140
+Alert|| Glucose = 252.36123317842157 || Time(sec)=141
+Alert|| Glucose = 252.36123317842157 || Time(sec)=142
+Alert|| Glucose = 252.36123317842157 || Time(sec)=143
+Alert|| Glucose = 250.59631084049823 || Time(sec)=159
+Alert|| Glucose = 252.67372260229794 || Time(sec)=160
+Alert|| Glucose = 254.74244437988554 || Time(sec)=161
+Alert|| Glucose = 256.8017456252285 || Time(sec)=162
+Alert|| Glucose = 258.8509082680432 || Time(sec)=163
+Alert|| Glucose = 260.88923145672123 || Time(sec)=164
+Alert|| Glucose = 262.9160353991571 || Time(sec)=165
+Alert|| Glucose = 264.9306644263298 || Time(sec)=166
+Alert|| Glucose = 266.93248938613704 || Time(sec)=167
+Alert|| Glucose = 268.92090946150756 || Time(sec)=168
+Alert|| Glucose = 270.89535349499084 || Time(sec)=169
+Alert|| Glucose = 272.85528089164427 || Time(sec)=170
+Alert|| Glucose = 274.80018216293325 || Time(sec)=171
+Alert|| Glucose = 276.72957916636716 || Time(sec)=172
+Alert|| Glucose = 278.64302508858293 || Time(sec)=173
+Alert|| Glucose = 280.540104213433 || Time(sec)=174
+Alert|| Glucose = 282.4204315112337 || Time(sec)=175
+Alert|| Glucose = 284.28365208059074 || Time(sec)=176
+Alert|| Glucose = 286.1294404700583 || Time(sec)=177
+Alert|| Glucose = 287.95749990323816 || Time(sec)=178
+Alert|| Glucose = 289.7675614277243 || Time(sec)=179
+Alert|| Glucose = 291.55938300548763 || Time(sec)=180
+Alert|| Glucose = 293.3327485598363 || Time(sec)=181
+Alert|| Glucose = 295.0874669919254 || Time(sec)=182
+Alert|| Glucose = 296.82337117790297 || Time(sec)=183
+Alert|| Glucose = 298.540316956124 || Time(sec)=184
+Alert|| Glucose = 300.23818211241706 || Time(sec)=185
+Alert|| Glucose = 301.91686537012595 || Time(sec)=186
+Alert|| Glucose = 303.57628539054565 || Time(sec)=187
+Alert|| Glucose = 305.21637978841136 || Time(sec)=188
+Alert|| Glucose = 306.83710416626394 || Time(sec)=189
+Alert|| Glucose = 308.4384311707892 || Time(sec)=190
+Alert|| Glucose = 310.0203495736001 || Time(sec)=191
+Alert|| Glucose = 311.582863378386 || Time(sec)=192
+Alert|| Glucose = 313.1259909558865 || Time(sec)=193
+Alert|| Glucose = 314.6497642077415 || Time(sec)=194
+Alert|| Glucose = 316.1542277599264 || Time(sec)=195
+Alert|| Glucose = 317.6394381861854 || Time(sec)=196
+Alert|| Glucose = 319.10546326162614 || Time(sec)=197
+Alert|| Glucose = 320.55238124642784 || Time(sec)=198
+Alert|| Glucose = 321.98028019943706 || Time(sec)=199
+
+Alerts for fault 94::
+Alert|| Glucose = 252.19832302115114 || Time(sec)=105
+Alert|| Glucose = 254.43832339753993 || Time(sec)=106
+Alert|| Glucose = 256.66674672069087 || Time(sec)=107
+Alert|| Glucose = 258.8828918796308 || Time(sec)=108
+Alert|| Glucose = 261.0860959637585 || Time(sec)=109
+Alert|| Glucose = 263.27573321360387 || Time(sec)=110
+Alert|| Glucose = 265.45121397170993 || Time(sec)=111
+Alert|| Glucose = 267.611983635104 || Time(sec)=112
+Alert|| Glucose = 269.757521610828 || Time(sec)=113
+Alert|| Glucose = 271.8873402759841 || Time(sec)=114
+Alert|| Glucose = 274.0009839437287 || Time(sec)=115
+Alert|| Glucose = 276.0980278366071 || Time(sec)=116
+Alert|| Glucose = 278.17807706857644 || Time(sec)=117
+Alert|| Glucose = 280.24076563700754 || Time(sec)=118
+Alert|| Glucose = 282.2857554258934 || Time(sec)=119
+Alert|| Glucose = 284.31273522142476 || Time(sec)=120
+Alert|| Glucose = 286.3214197410203 || Time(sec)=121
+Alert|| Glucose = 288.3115486768235 || Time(sec)=122
+Alert|| Glucose = 290.28288575460084 || Time(sec)=123
+Alert|| Glucose = 292.2352178088966 || Time(sec)=124
+Alert|| Glucose = 294.16835387522116 || Time(sec)=125
+Alert|| Glucose = 296.0821242999697 || Time(sec)=126
+Alert|| Glucose = 297.9763798686912 || Time(sec)=127
+Alert|| Glucose = 299.85099095325046 || Time(sec)=128
+Alert|| Glucose = 301.70584667835107 || Time(sec)=129
+Alert|| Glucose = 303.5408541078156 || Time(sec)=130
+Alert|| Glucose = 305.3559374509491 || Time(sec)=131
+Alert|| Glucose = 307.1510372892447 || Time(sec)=132
+Alert|| Glucose = 308.92610982362737 || Time(sec)=133
+Alert|| Glucose = 310.6811261423703 || Time(sec)=134
+Alert|| Glucose = 312.4160715097616 || Time(sec)=135
+Alert|| Glucose = 314.1309446755447 || Time(sec)=136
+Alert|| Glucose = 315.8257572051063 || Time(sec)=137
+Alert|| Glucose = 317.50053283033736 || Time(sec)=138
+Alert|| Glucose = 319.15530682104986 || Time(sec)=139
+Alert|| Glucose = 320.7901253767919 || Time(sec)=140
+Alert|| Glucose = 322.40504503886575 || Time(sec)=141
+Alert|| Glucose = 324.0001321223208 || Time(sec)=142
+Alert|| Glucose = 325.57546216766144 || Time(sec)=143
+Alert|| Glucose = 327.13111941198355 || Time(sec)=144
+Alert|| Glucose = 328.6671962792269 || Time(sec)=145
+Alert|| Glucose = 330.1837928892103 || Time(sec)=146
+Alert|| Glucose = 331.68101658509516 || Time(sec)=147
+Alert|| Glucose = 333.15898147890766 || Time(sec)=148
+Alert|| Glucose = 334.617808014734 || Time(sec)=149
+Alert|| Glucose = 336.05762254919125 || Time(sec)=150
+Alert|| Glucose = 337.4785569487664 || Time(sec)=151
+Alert|| Glucose = 338.88074820360674 || Time(sec)=152
+Alert|| Glucose = 340.26433805733933 || Time(sec)=153
+Alert|| Glucose = 341.62947265249164 || Time(sec)=154
+Alert|| Glucose = 342.976302191083 || Time(sec)=155
+Alert|| Glucose = 344.30498060995325 || Time(sec)=156
+Alert|| Glucose = 345.6156652703965 || Time(sec)=157
+Alert|| Glucose = 346.90851666166697 || Time(sec)=158
+Alert|| Glucose = 348.18369811792616 || Time(sec)=159
+Alert|| Glucose = 349.4413755482044 || Time(sec)=160
+Alert|| Glucose = 350.6817171789523 || Time(sec)=161
+Alert|| Glucose = 351.90489330876267 || Time(sec)=162
+Alert|| Glucose = 353.11107607485025 || Time(sec)=163
+Alert|| Glucose = 354.30043923087965 || Time(sec)=164
+Alert|| Glucose = 355.47315793574165 || Time(sec)=165
+Alert|| Glucose = 356.6294085528832 || Time(sec)=166
+Alert|| Glucose = 357.76936845980464 || Time(sec)=167
+Alert|| Glucose = 358.8932158673455 || Time(sec)=168
+Alert|| Glucose = 360.0011296483887 || Time(sec)=169
+Alert|| Glucose = 361.09328917562163 || Time(sec)=170
+Alert|| Glucose = 362.16987416800015 || Time(sec)=171
+Alert|| Glucose = 363.2310645455725 || Time(sec)=172
+Alert|| Glucose = 364.27704029232797 || Time(sec)=173
+Alert|| Glucose = 365.3079813267434 || Time(sec)=174
+Alert|| Glucose = 366.3240673797125 || Time(sec)=175
+Alert|| Glucose = 367.32547787954906 || Time(sec)=176
+Alert|| Glucose = 368.3123918437669 || Time(sec)=177
+Alert|| Glucose = 369.28498777734677 || Time(sec)=178
+Alert|| Glucose = 370.2434435772112 || Time(sec)=179
+Alert|| Glucose = 371.18793644263536 || Time(sec)=180
+Alert|| Glucose = 372.11864279133306 || Time(sec)=181
+Alert|| Glucose = 373.03573818096413 || Time(sec)=182
+Alert|| Glucose = 373.93939723581946 || Time(sec)=183
+Alert|| Glucose = 374.8297935784472 || Time(sec)=184
+Alert|| Glucose = 375.7070997659935 || Time(sec)=185
+Alert|| Glucose = 376.5714872310381 || Time(sec)=186
+Alert|| Glucose = 377.42312622671375 || Time(sec)=187
+Alert|| Glucose = 378.2621857759071 || Time(sec)=188
+Alert|| Glucose = 379.08883362434415 || Time(sec)=189
+Alert|| Glucose = 379.90323619737376 || Time(sec)=190
+Alert|| Glucose = 380.70555856026743 || Time(sec)=191
+Alert|| Glucose = 381.4959643818627 || Time(sec)=192
+Alert|| Glucose = 382.274615901383 || Time(sec)=193
+Alert|| Glucose = 383.04167389827455 || Time(sec)=194
+Alert|| Glucose = 383.7972976649063 || Time(sec)=195
+Alert|| Glucose = 384.54164498198656 || Time(sec)=196
+Alert|| Glucose = 385.27487209655544 || Time(sec)=197
+Alert|| Glucose = 385.99713370241716 || Time(sec)=198
+Alert|| Glucose = 386.70858292288443 || Time(sec)=199
+
+Alerts for fault 95::
+
+Alerts for fault 96::
+
+Alerts for fault 97::
+Alert|| Glucose = 252.06369806692604 || Time(sec)=151
+Alert|| Glucose = 254.64606772162514 || Time(sec)=152
+Alert|| Glucose = 257.2226030911347 || Time(sec)=153
+Alert|| Glucose = 259.792367226408 || Time(sec)=154
+Alert|| Glucose = 262.3544618147252 || Time(sec)=155
+Alert|| Glucose = 264.9080266127783 || Time(sec)=156
+Alert|| Glucose = 267.452238842198 || Time(sec)=157
+Alert|| Glucose = 269.98631255068955 || Time(sec)=158
+Alert|| Glucose = 272.5094979419003 || Time(sec)=159
+Alert|| Glucose = 275.02108067708787 || Time(sec)=160
+Alert|| Glucose = 277.52038115159115 || Time(sec)=161
+Alert|| Glucose = 280.0067537490344 || Time(sec)=162
+Alert|| Glucose = 282.4795860761092 || Time(sec)=163
+Alert|| Glucose = 284.93829818068946 || Time(sec)=164
+Alert|| Glucose = 287.382341755936 || Time(sec)=165
+Alert|| Glucose = 289.8111993329426 || Time(sec)=166
+Alert|| Glucose = 292.22438346436746 || Time(sec)=167
+Alert|| Glucose = 294.6214359013806 || Time(sec)=168
+Alert|| Glucose = 297.0019267661407 || Time(sec)=169
+Alert|| Glucose = 299.3654537218983 || Time(sec)=170
+Alert|| Glucose = 301.7116411427012 || Time(sec)=171
+Alert|| Glucose = 304.04013928455896 || Time(sec)=172
+Alert|| Glucose = 306.3506234598031 || Time(sec)=173
+Alert|| Glucose = 308.6427932162604 || Time(sec)=174
+Alert|| Glucose = 310.91637152274063 || Time(sec)=175
+Alert|| Glucose = 313.1711039622235 || Time(sec)=176
+Alert|| Glucose = 315.4067579340171 || Time(sec)=177
+Alert|| Glucose = 317.62312186605124 || Time(sec)=178
+Alert|| Glucose = 319.8200044383621 || Time(sec)=179
+Alert|| Glucose = 321.9972338187214 || Time(sec)=180
+Alert|| Glucose = 324.15465691126514 || Time(sec)=181
+Alert|| Glucose = 326.29213861888184 || Time(sec)=182
+Alert|| Glucose = 328.4095611200296 || Time(sec)=183
+Alert|| Glucose = 330.5068231605645 || Time(sec)=184
+Alert|| Glucose = 332.58383936108225 || Time(sec)=185
+Alert|| Glucose = 334.64053954019545 || Time(sec)=186
+Alert|| Glucose = 336.67686805409807 || Time(sec)=187
+Alert|| Glucose = 338.6927831526979 || Time(sec)=188
+Alert|| Glucose = 340.6882563525352 || Time(sec)=189
+Alert|| Glucose = 342.6632718266436 || Time(sec)=190
+Alert|| Glucose = 344.6178258114564 || Time(sec)=191
+Alert|| Glucose = 346.5519260308053 || Time(sec)=192
+Alert|| Glucose = 348.46559113701574 || Time(sec)=193
+Alert|| Glucose = 350.35885016905365 || Time(sec)=194
+Alert|| Glucose = 352.23174202764255 || Time(sec)=195
+Alert|| Glucose = 354.0843149672296 || Time(sec)=196
+Alert|| Glucose = 355.91662610464783 || Time(sec)=197
+Alert|| Glucose = 357.7287409442899 || Time(sec)=198
+Alert|| Glucose = 359.5207329195825 || Time(sec)=199
+
+Alerts for fault 98::
+Alert|| Glucose = 250.79714386808382 || Time(sec)=113
+Alert|| Glucose = 253.51011689762964 || Time(sec)=114
+Alert|| Glucose = 256.2192474087848 || Time(sec)=115
+Alert|| Glucose = 258.92351637953647 || Time(sec)=116
+Alert|| Glucose = 261.62194476653923 || Time(sec)=117
+Alert|| Glucose = 264.3135929255133 || Time(sec)=118
+Alert|| Glucose = 266.99755999967863 || Time(sec)=119
+Alert|| Glucose = 269.672983278287 || Time(sec)=120
+Alert|| Glucose = 272.3390375274056 || Time(sec)=121
+Alert|| Glucose = 274.99493429517236 || Time(sec)=122
+Alert|| Glucose = 277.63992119378923 || Time(sec)=123
+Alert|| Glucose = 280.27328116054343 || Time(sec)=124
+Alert|| Glucose = 282.8943317001538 || Time(sec)=125
+Alert|| Glucose = 285.50242411072776 || Time(sec)=126
+Alert|| Glucose = 288.0969426955882 || Time(sec)=127
+Alert|| Glucose = 290.6773039631908 || Time(sec)=128
+Alert|| Glucose = 293.24295581729893 || Time(sec)=129
+Alert|| Glucose = 295.7933767395227 || Time(sec)=130
+Alert|| Glucose = 298.328074966257 || Time(sec)=131
+Alert|| Glucose = 300.84658766197487 || Time(sec)=132
+Alert|| Glucose = 303.3484800907491 || Time(sec)=133
+Alert|| Glucose = 305.83334478778437 || Time(sec)=134
+Alert|| Glucose = 308.30080073265015 || Time(sec)=135
+Alert|| Glucose = 310.7504925258081 || Time(sec)=136
+Alert|| Glucose = 313.18208956993203 || Time(sec)=137
+Alert|| Glucose = 315.5952852574174 || Time(sec)=138
+Alert|| Glucose = 317.9897961653826 || Time(sec)=139
+Alert|| Glucose = 320.36536125936345 || Time(sec)=140
+Alert|| Glucose = 322.7217411068084 || Time(sec)=141
+Alert|| Glucose = 325.05871710138535 || Time(sec)=142
+Alert|| Glucose = 327.37609069902015 || Time(sec)=143
+Alert|| Glucose = 329.67368266649595 || Time(sec)=144
+Alert|| Glucose = 331.9513323433561 || Time(sec)=145
+Alert|| Glucose = 334.20889691776966 || Time(sec)=146
+Alert|| Glucose = 336.4462507169376 || Time(sec)=147
+Alert|| Glucose = 338.66328451254185 || Time(sec)=148
+Alert|| Glucose = 340.8599048416659 || Time(sec)=149
+Alert|| Glucose = 343.03603334354534 || Time(sec)=150
+Alert|| Glucose = 345.19160611244297 || Time(sec)=151
+Alert|| Glucose = 347.3265730668798 || Time(sec)=152
+Alert|| Glucose = 349.44089733539573 || Time(sec)=153
+Alert|| Glucose = 351.53455465895985 || Time(sec)=154
+Alert|| Glucose = 353.6075328100991 || Time(sec)=155
+Alert|| Glucose = 355.6598310287674 || Time(sec)=156
+Alert|| Glucose = 357.69145947493433 || Time(sec)=157
+Alert|| Glucose = 359.70243869783127 || Time(sec)=158
+Alert|| Glucose = 361.6927991217576 || Time(sec)=159
+Alert|| Glucose = 363.66258054831513 || Time(sec)=160
+Alert|| Glucose = 365.6118316749084 || Time(sec)=161
+Alert|| Glucose = 367.5406096293213 || Time(sec)=162
+Alert|| Glucose = 369.4489795201558 || Time(sec)=163
+Alert|| Glucose = 371.33701400289516 || Time(sec)=164
+Alert|| Glucose = 373.2047928613364 || Time(sec)=165
+Alert|| Glucose = 375.0524026041168 || Time(sec)=166
+Alert|| Glucose = 376.87993607604693 || Time(sec)=167
+Alert|| Glucose = 378.687492083947 || Time(sec)=168
+Alert|| Glucose = 380.4751750366743 || Time(sec)=169
+Alert|| Glucose = 382.2430945990188 || Time(sec)=170
+Alert|| Glucose = 383.99136535913726 || Time(sec)=171
+Alert|| Glucose = 385.72010650918975 || Time(sec)=172
+Alert|| Glucose = 387.4294415388376 || Time(sec)=173
+Alert|| Glucose = 389.1194979412597 || Time(sec)=174
+Alert|| Glucose = 390.79040693134095 || Time(sec)=175
+Alert|| Glucose = 392.4423031756858 || Time(sec)=176
+Alert|| Glucose = 394.0753245341112 || Time(sec)=177
+Alert|| Glucose = 395.6896118122727 || Time(sec)=178
+Alert|| Glucose = 397.2853085250812 || Time(sec)=179
+Alert|| Glucose = 398.8625606705685 || Time(sec)=180
+Alert|| Glucose = 400.4215165138657 || Time(sec)=181
+Alert|| Glucose = 401.96232638096006 || Time(sec)=182
+Alert|| Glucose = 403.4851424619024 || Time(sec)=183
+Alert|| Glucose = 404.9901186231412 || Time(sec)=184
+Alert|| Glucose = 406.4774102286657 || Time(sec)=185
+Alert|| Glucose = 407.94717396964535 || Time(sec)=186
+Alert|| Glucose = 409.39956770226024 || Time(sec)=187
+Alert|| Glucose = 410.8347502934225 || Time(sec)=188
+Alert|| Glucose = 412.25288147409617 || Time(sec)=189
+Alert|| Glucose = 413.65412169993004 || Time(sec)=190
+Alert|| Glucose = 415.03863201892364 || Time(sec)=191
+Alert|| Glucose = 416.4065739458555 || Time(sec)=192
+Alert|| Glucose = 417.75810934320873 || Time(sec)=193
+Alert|| Glucose = 419.09340030833715 || Time(sec)=194
+Alert|| Glucose = 420.41260906662137 || Time(sec)=195
+Alert|| Glucose = 421.7158978703726 || Time(sec)=196
+Alert|| Glucose = 423.0034289032491 || Time(sec)=197
+Alert|| Glucose = 424.2753641899563 || Time(sec)=198
+Alert|| Glucose = 425.5318655110106 || Time(sec)=199
+
+Alerts for fault 99::
+Alert|| Glucose = 250.12654074895002 || Time(sec)=137
+Alert|| Glucose = 252.92976672744527 || Time(sec)=138
+Alert|| Glucose = 255.73266871288843 || Time(sec)=139
+Alert|| Glucose = 258.53413079230353 || Time(sec)=140
+Alert|| Glucose = 261.33307581298726 || Time(sec)=141
+Alert|| Glucose = 264.1284650980365 || Time(sec)=142
+Alert|| Glucose = 266.91929810958936 || Time(sec)=143
+Alert|| Glucose = 269.7046120628573 || Time(sec)=144
+Alert|| Glucose = 272.48348149404694 || Time(sec)=145
+Alert|| Glucose = 275.2550177852815 || Time(sec)=146
+Alert|| Glucose = 278.01836864962564 || Time(sec)=147
+Alert|| Glucose = 280.7727175793036 || Time(sec)=148
+Alert|| Glucose = 283.51728326016894 || Time(sec)=149
+Alert|| Glucose = 286.2513189554443 || Time(sec)=150
+Alert|| Glucose = 288.9741118616952 || Time(sec)=151
+Alert|| Glucose = 291.68498243993866 || Time(sec)=152
+Alert|| Glucose = 294.38328372471346 || Time(sec)=153
+Alert|| Glucose = 297.06840061385617 || Time(sec)=154
+Alert|| Glucose = 299.73974914163745 || Time(sec)=155
+Alert|| Glucose = 302.39677573781574 || Time(sec)=156
+Alert|| Glucose = 305.03895647506334 || Time(sec)=157
+Alert|| Glucose = 307.66579630711277 || Time(sec)=158
+Alert|| Glucose = 310.27682829986077 || Time(sec)=159
+Alert|| Glucose = 312.8716128575542 || Time(sec)=160
+Alert|| Glucose = 315.4497369460672 || Time(sec)=161
+Alert|| Glucose = 318.0108133151629 || Time(sec)=162
+Alert|| Glucose = 320.5544797215177 || Time(sec)=163
+Alert|| Glucose = 323.08039815416953 || Time(sec)=164
+Alert|| Glucose = 325.58825406393925 || Time(sec)=165
+Alert|| Glucose = 328.07775559825905 || Time(sec)=166
+Alert|| Glucose = 330.54863284273443 || Time(sec)=167
+Alert|| Glucose = 333.0006370706563 || Time(sec)=168
+Alert|| Glucose = 335.43354000157694 || Time(sec)=169
+Alert|| Glucose = 337.84713306996105 || Time(sec)=170
+Alert|| Glucose = 340.24122670482575 || Time(sec)=171
+Alert|| Glucose = 342.6156496211908 || Time(sec)=172
+Alert|| Glucose = 344.97024812406795 || Time(sec)=173
+Alert|| Glucose = 347.3048854256351 || Time(sec)=174
+Alert|| Glucose = 349.61944097615793 || Time(sec)=175
+Alert|| Glucose = 351.91380980914414 || Time(sec)=176
+Alert|| Glucose = 354.1879019011434 || Time(sec)=177
+Alert|| Glucose = 356.4416415465357 || Time(sec)=178
+Alert|| Glucose = 358.6749667475876 || Time(sec)=179
+Alert|| Glucose = 360.8878286199931 || Time(sec)=180
+Alert|| Glucose = 363.0801908140625 || Time(sec)=181
+Alert|| Glucose = 365.25202895166547 || Time(sec)=182
+Alert|| Glucose = 367.40333007899 || Time(sec)=183
+Alert|| Glucose = 369.534092135131 || Time(sec)=184
+Alert|| Glucose = 371.64432343648207 || Time(sec)=185
+Alert|| Glucose = 373.7340421768644 || Time(sec)=186
+Alert|| Glucose = 375.80327594329424 || Time(sec)=187
+Alert|| Glucose = 377.85206124725596 || Time(sec)=188
+Alert|| Glucose = 379.8804430713211 || Time(sec)=189
+Alert|| Glucose = 381.88847443092703 || Time(sec)=190
+Alert|| Glucose = 383.87621595110545 || Time(sec)=191
+Alert|| Glucose = 385.84373545793136 || Time(sec)=192
+Alert|| Glucose = 387.79110758444403 || Time(sec)=193
+Alert|| Glucose = 389.7184133907756 || Time(sec)=194
+Alert|| Glucose = 391.62573999820955 || Time(sec)=195
+Alert|| Glucose = 393.51318023687975 || Time(sec)=196
+Alert|| Glucose = 395.38083230680905 || Time(sec)=197
+Alert|| Glucose = 397.2287994519808 || Time(sec)=198
+Alert|| Glucose = 399.0571896471275 || Time(sec)=199
+
+Alerts for fault 100::
+Alert|| Glucose = 250.42197756212786 || Time(sec)=130
+Alert|| Glucose = 253.3306985072296 || Time(sec)=131
+Alert|| Glucose = 256.24167341369224 || Time(sec)=132
+Alert|| Glucose = 259.15371791431687 || Time(sec)=133
+Alert|| Glucose = 262.0656860135789 || Time(sec)=134
+Alert|| Glucose = 264.9764699154591 || Time(sec)=135
+Alert|| Glucose = 267.88499979530656 || Time(sec)=136
+Alert|| Glucose = 270.79024351855537 || Time(sec)=137
+Alert|| Glucose = 273.69120630917894 || Time(sec)=138
+Alert|| Glucose = 276.58693037080934 || Time(sec)=139
+Alert|| Glucose = 279.47649446348487 || Time(sec)=140
+Alert|| Glucose = 282.35901343900457 || Time(sec)=141
+Alert|| Glucose = 285.23363773787264 || Time(sec)=142
+Alert|| Glucose = 288.0995528508048 || Time(sec)=143
+Alert|| Glucose = 290.9559787477429 || Time(sec)=144
+Alert|| Glucose = 293.80216927728816 || Time(sec)=145
+Alert|| Glucose = 296.63741153941135 || Time(sec)=146
+Alert|| Glucose = 299.46102523423946 || Time(sec)=147
+Alert|| Glucose = 302.2723619896465 || Time(sec)=148
+Alert|| Glucose = 305.07080467029726 || Time(sec)=149
+Alert|| Glucose = 307.8557666707042 || Time(sec)=150
+Alert|| Glucose = 310.62669119476635 || Time(sec)=151
+Alert|| Glucose = 313.3830505241566 || Time(sec)=152
+Alert|| Glucose = 316.1243452778225 || Time(sec)=153
+Alert|| Glucose = 318.8501036647575 || Time(sec)=154
+Alert|| Glucose = 321.55988073208914 || Time(sec)=155
+Alert|| Glucose = 324.25325761042075 || Time(sec)=156
+Alert|| Glucose = 326.92984075825024 || Time(sec)=157
+Alert|| Glucose = 329.5892612071767 || Time(sec)=158
+Alert|| Glucose = 332.23117380949583 || Time(sec)=159
+Alert|| Glucose = 334.8552564896721 || Time(sec)=160
+Alert|| Glucose = 337.46120950107 || Time(sec)=161
+Alert|| Glucose = 340.0487546892171 || Time(sec)=162
+Alert|| Glucose = 342.6176347627704 || Time(sec)=163
+Alert|| Glucose = 345.1676125732554 || Time(sec)=164
+Alert|| Glucose = 347.6984704045493 || Time(sec)=165
+Alert|| Glucose = 350.2100092729877 || Time(sec)=166
+Alert|| Glucose = 352.70204823888105 || Time(sec)=167
+Alert|| Glucose = 355.1744237301433 || Time(sec)=168
+Alert|| Glucose = 357.6269888786508 || Time(sec)=169
+Alert|| Glucose = 360.0596128698726 || Time(sec)=170
+Alert|| Glucose = 362.4721803062371 || Time(sec)=171
+Alert|| Glucose = 364.8645905846322 || Time(sec)=172
+Alert|| Glucose = 367.2367572883672 || Time(sec)=173
+Alert|| Glucose = 369.5886075938647 || Time(sec)=174
+Alert|| Glucose = 371.9200816922916 || Time(sec)=175
+Alert|| Glucose = 374.23113222628376 || Time(sec)=176
+Alert|| Glucose = 376.521723741869 || Time(sec)=177
+Alert|| Glucose = 378.79183215564586 || Time(sec)=178
+Alert|| Glucose = 378.79183215564586 || Time(sec)=179
+Alert|| Glucose = 378.79183215564586 || Time(sec)=180
+Alert|| Glucose = 378.79183215564586 || Time(sec)=181
+Alert|| Glucose = 378.79183215564586 || Time(sec)=182
+Alert|| Glucose = 378.79183215564586 || Time(sec)=183
+Alert|| Glucose = 369.534092135131 || Time(sec)=184
+Alert|| Glucose = 371.64432343648207 || Time(sec)=185
+Alert|| Glucose = 373.7340421768644 || Time(sec)=186
+Alert|| Glucose = 375.8034205399154 || Time(sec)=187
+Alert|| Glucose = 377.8527476522103 || Time(sec)=188
+Alert|| Glucose = 379.88239868326815 || Time(sec)=189
+Alert|| Glucose = 381.89280923750164 || Time(sec)=190
+Alert|| Glucose = 383.88445429060937 || Time(sec)=191
+Alert|| Glucose = 385.8578310173375 || Time(sec)=192
+Alert|| Glucose = 387.8134449406772 || Time(sec)=193
+Alert|| Glucose = 389.7517989058329 || Time(sec)=194
+Alert|| Glucose = 391.6733844468838 || Time(sec)=195
+Alert|| Glucose = 393.57867517098305 || Time(sec)=196
+Alert|| Glucose = 395.4681218350702 || Time(sec)=197
+Alert|| Glucose = 397.3421488341781 || Time(sec)=198
+Alert|| Glucose = 399.2011518591686 || Time(sec)=199
+
+Alerts for fault 101::
+Alert|| Glucose = 252.47258039696214 || Time(sec)=122
+Alert|| Glucose = 255.45041260688672 || Time(sec)=123
+Alert|| Glucose = 258.4304279559207 || Time(sec)=124
+Alert|| Glucose = 261.4114500640165 || Time(sec)=125
+Alert|| Glucose = 264.392340692937 || Time(sec)=126
+Alert|| Glucose = 267.3719995412925 || Time(sec)=127
+Alert|| Glucose = 270.3493639883808 || Time(sec)=128
+Alert|| Glucose = 273.32340878919393 || Time(sec)=129
+Alert|| Glucose = 276.293145723063 || Time(sec)=130
+Alert|| Glucose = 279.2576231985005 || Time(sec)=131
+Alert|| Glucose = 282.21592581686997 || Time(sec)=132
+Alert|| Glucose = 285.1671738975608 || Time(sec)=133
+Alert|| Glucose = 288.11052296737876 || Time(sec)=134
+Alert|| Glucose = 291.0451632168747 || Time(sec)=135
+Alert|| Glucose = 293.97031892633237 || Time(sec)=136
+Alert|| Glucose = 296.8852478641159 || Time(sec)=137
+Alert|| Glucose = 299.78924066004663 || Time(sec)=138
+Alert|| Glucose = 302.6816201564316 || Time(sec)=139
+Alert|| Glucose = 305.5617407393103 || Time(sec)=140
+Alert|| Glucose = 308.4289876524182 || Time(sec)=141
+Alert|| Glucose = 311.28277629628997 || Time(sec)=142
+Alert|| Glucose = 314.1225515148419 || Time(sec)=143
+Alert|| Glucose = 316.9477868716823 || Time(sec)=144
+Alert|| Glucose = 319.7579839183041 || Time(sec)=145
+Alert|| Glucose = 322.55267145621514 || Time(sec)=146
+Alert|| Glucose = 325.3314047949581 || Time(sec)=147
+Alert|| Glucose = 328.0937650078689 || Time(sec)=148
+Alert|| Glucose = 330.83935818731635 || Time(sec)=149
+Alert|| Glucose = 333.5678147010591 || Time(sec)=150
+Alert|| Glucose = 336.2787884512513 || Time(sec)=151
+Alert|| Glucose = 338.97195613752234 || Time(sec)=152
+Alert|| Glucose = 341.6470165254532 || Time(sec)=153
+Alert|| Glucose = 344.3036897216698 || Time(sec)=154
+Alert|| Glucose = 346.9417164566752 || Time(sec)=155
+Alert|| Glucose = 349.5608573764449 || Time(sec)=156
+Alert|| Glucose = 352.16089234371776 || Time(sec)=157
+Alert|| Glucose = 354.7416197498225 || Time(sec)=158
+Alert|| Glucose = 357.3028558377957 || Time(sec)=159
+Alert|| Glucose = 359.8444340374616 || Time(sec)=160
+Alert|| Glucose = 362.3662043130676 || Time(sec)=161
+Alert|| Glucose = 364.8680325239903 || Time(sec)=162
+Alert|| Glucose = 367.3497997989593 || Time(sec)=163
+Alert|| Glucose = 369.8114019241754 || Time(sec)=164
+Alert|| Glucose = 372.25274874563786 || Time(sec)=165
+Alert|| Glucose = 374.67376358593384 || Time(sec)=166
+Alert|| Glucose = 377.0743826756897 || Time(sec)=167
+Alert|| Glucose = 379.45455459982827 || Time(sec)=168
+Alert|| Glucose = 381.81423975873 || Time(sec)=169
+Alert|| Glucose = 384.15340984435016 || Time(sec)=170
+Alert|| Glucose = 386.47204733130076 || Time(sec)=171
+Alert|| Glucose = 388.7701449828708 || Time(sec)=172
+Alert|| Glucose = 391.0477053719198 || Time(sec)=173
+Alert|| Glucose = 393.30474041654924 || Time(sec)=174
+Alert|| Glucose = 395.5412709304273 || Time(sec)=175
+Alert|| Glucose = 397.7573261876142 || Time(sec)=176
+Alert|| Glucose = 399.95294350171383 || Time(sec)=177
+Alert|| Glucose = 402.12816781915353 || Time(sec)=178
+Alert|| Glucose = 404.28305132637655 || Time(sec)=179
+Alert|| Glucose = 406.4176530707145 || Time(sec)=180
+Alert|| Glucose = 408.5320385946914 || Time(sec)=181
+Alert|| Glucose = 410.6262795834997 || Time(sec)=182
+Alert|| Glucose = 412.700453525376 || Time(sec)=183
+Alert|| Glucose = 414.7546433845968 || Time(sec)=184
+Alert|| Glucose = 416.7889372868046 || Time(sec)=185
+Alert|| Glucose = 418.80342821637083 || Time(sec)=186
+Alert|| Glucose = 420.7982137254959 || Time(sec)=187
+Alert|| Glucose = 422.7733956547424 || Time(sec)=188
+Alert|| Glucose = 424.72907986469755 || Time(sec)=189
+Alert|| Glucose = 426.6653759784567 || Time(sec)=190
+Alert|| Glucose = 428.5823971346211 || Time(sec)=191
+Alert|| Glucose = 430.48025975050285 || Time(sec)=192
+Alert|| Glucose = 432.35908329523227 || Time(sec)=193
+Alert|| Glucose = 434.21899007246276 || Time(sec)=194
+Alert|| Glucose = 436.06010501237364 || Time(sec)=195
+Alert|| Glucose = 437.8825554726722 || Time(sec)=196
+Alert|| Glucose = 439.68647104830177 || Time(sec)=197
+Alert|| Glucose = 441.47198338956554 || Time(sec)=198
+Alert|| Glucose = 443.2392260283816 || Time(sec)=199
+
+Alerts for fault 102::
+
+Alerts for fault 103::
+
+Alerts for fault 104::
+Alert|| Glucose = 250.9788922714188 || Time(sec)=103
+Alert|| Glucose = 253.94803873617164 || Time(sec)=104
+Alert|| Glucose = 256.9205757621336 || Time(sec)=105
+Alert|| Glucose = 259.89526133439546 || Time(sec)=106
+Alert|| Glucose = 262.87089524840286 || Time(sec)=107
+Alert|| Glucose = 265.8463186514841 || Time(sec)=108
+Alert|| Glucose = 268.82041355441896 || Time(sec)=109
+Alert|| Glucose = 271.7921023134759 || Time(sec)=110
+Alert|| Glucose = 274.7603470836331 || Time(sec)=111
+Alert|| Glucose = 277.7241492439482 || Time(sec)=112
+Alert|| Glucose = 280.6825487962577 || Time(sec)=113
+Alert|| Glucose = 283.6346237385726 || Time(sec)=114
+Alert|| Glucose = 286.57948941468675 || Time(sec)=115
+Alert|| Glucose = 289.5162978416414 || Time(sec)=116
+Alert|| Glucose = 292.4442370167847 || Time(sec)=117
+Alert|| Glucose = 295.3625302062382 || Time(sec)=118
+Alert|| Glucose = 298.2704352166327 || Time(sec)=119
+Alert|| Glucose = 301.167243652005 || Time(sec)=120
+Alert|| Glucose = 304.05228015775884 || Time(sec)=121
+Alert|| Glucose = 306.92490165358623 || Time(sec)=122
+Alert|| Glucose = 309.78449655722864 || Time(sec)=123
+Alert|| Glucose = 312.6304840009217 || Time(sec)=124
+Alert|| Glucose = 315.46231304232487 || Time(sec)=125
+Alert|| Glucose = 318.2794618716844 || Time(sec)=126
+Alert|| Glucose = 321.08143701691574 || Time(sec)=127
+Alert|| Glucose = 323.8677725482247 || Time(sec)=128
+Alert|| Glucose = 326.6380292838128 || Time(sec)=129
+Alert|| Glucose = 329.39179399813503 || Time(sec)=130
+Alert|| Glucose = 332.12867863409804 || Time(sec)=131
+Alert|| Glucose = 334.8483195205032 || Time(sec)=132
+Alert|| Glucose = 337.5503765959563 || Time(sec)=133
+Alert|| Glucose = 340.23453264037994 || Time(sec)=134
+Alert|| Glucose = 342.9004925151804 || Time(sec)=135
+Alert|| Glucose = 345.54798241303814 || Time(sec)=136
+Alert|| Glucose = 348.17674911820694 || Time(sec)=137
+Alert|| Glucose = 350.7865592781275 || Time(sec)=138
+Alert|| Glucose = 353.3771986870813 || Time(sec)=139
+Alert|| Glucose = 355.94847158253526 || Time(sec)=140
+Alert|| Glucose = 358.5001999547536 || Time(sec)=141
+Alert|| Glucose = 361.0322228701823 || Time(sec)=142
+Alert|| Glucose = 363.54439580904403 || Time(sec)=143
+Alert|| Glucose = 366.0365900175174 || Time(sec)=144
+Alert|| Glucose = 368.50869187481146 || Time(sec)=145
+Alert|| Glucose = 370.9606022753896 || Time(sec)=146
+Alert|| Glucose = 373.3922360265423 || Time(sec)=147
+Alert|| Glucose = 375.8035212614555 || Time(sec)=148
+Alert|| Glucose = 378.19439886787376 || Time(sec)=149
+Alert|| Glucose = 380.56482193241357 || Time(sec)=150
+Alert|| Glucose = 382.91475520053785 || Time(sec)=151
+Alert|| Glucose = 385.2441745521667 || Time(sec)=152
+Alert|| Glucose = 387.55306649286166 || Time(sec)=153
+Alert|| Glucose = 389.84142766048893 || Time(sec)=154
+Alert|| Glucose = 392.1092643472377 || Time(sec)=155
+Alert|| Glucose = 394.35659203684 || Time(sec)=156
+Alert|| Glucose = 396.5834349568174 || Time(sec)=157
+Alert|| Glucose = 398.7898256455538 || Time(sec)=158
+Alert|| Glucose = 400.97580453397654 || Time(sec)=159
+Alert|| Glucose = 403.14141954160954 || Time(sec)=160
+Alert|| Glucose = 405.2867256867449 || Time(sec)=161
+Alert|| Glucose = 407.41178471046885 || Time(sec)=162
+Alert|| Glucose = 409.5166647142637 || Time(sec)=163
+Alert|| Glucose = 411.6014398108979 || Time(sec)=164
+Alert|| Glucose = 413.6661897883087 || Time(sec)=165
+Alert|| Glucose = 415.7109997861748 || Time(sec)=166
+Alert|| Glucose = 417.7359599848692 || Time(sec)=167
+Alert|| Glucose = 419.7411653064816 || Time(sec)=168
+Alert|| Glucose = 421.7267151275929 || Time(sec)=169
+Alert|| Glucose = 423.6927130034858 || Time(sec)=170
+Alert|| Glucose = 425.63926640347177 || Time(sec)=171
+Alert|| Glucose = 427.5664864570178 || Time(sec)=172
+Alert|| Glucose = 429.47448771035357 || Time(sec)=173
+Alert|| Glucose = 431.36338789324554 || Time(sec)=174
+Alert|| Glucose = 433.2333076956227 || Time(sec)=175
+Alert|| Glucose = 435.08437055374526 || Time(sec)=176
+Alert|| Glucose = 436.91670244560856 || Time(sec)=177
+Alert|| Glucose = 438.7304316952804 || Time(sec)=178
+Alert|| Glucose = 440.5256887858731 || Time(sec)=179
+Alert|| Glucose = 442.3026061808577 || Time(sec)=180
+Alert|| Glucose = 444.06131815343167 || Time(sec)=181
+Alert|| Glucose = 445.80196062365883 || Time(sec)=182
+Alert|| Glucose = 447.52467100310406 || Time(sec)=183
+Alert|| Glucose = 449.2295880466927 || Time(sec)=184
+Alert|| Glucose = 450.91685171153 || Time(sec)=185
+Alert|| Glucose = 452.5866030224232 || Time(sec)=186
+Alert|| Glucose = 454.2389839438542 || Time(sec)=187
+Alert|| Glucose = 455.87413725815736 || Time(sec)=188
+Alert|| Glucose = 457.49220644966545 || Time(sec)=189
+Alert|| Glucose = 459.0933355945897 || Time(sec)=190
+Alert|| Glucose = 460.67766925641075 || Time(sec)=191
+Alert|| Glucose = 462.2453523865602 || Time(sec)=192
+Alert|| Glucose = 463.7965302301818 || Time(sec)=193
+Alert|| Glucose = 465.3313482367655 || Time(sec)=194
+Alert|| Glucose = 466.8499519754566 || Time(sec)=195
+Alert|| Glucose = 468.35248705484565 || Time(sec)=196
+Alert|| Glucose = 469.83909904705416 || Time(sec)=197
+Alert|| Glucose = 471.30993341593444 || Time(sec)=198
+Alert|| Glucose = 472.76513544921033 || Time(sec)=199
+
+Alerts for fault 105::
+Alert|| Glucose = 250.44389447407377 || Time(sec)=170
+Alert|| Glucose = 253.37071107658386 || Time(sec)=171
+Alert|| Glucose = 256.3027849902576 || Time(sec)=172
+Alert|| Glucose = 259.23884506946007 || Time(sec)=173
+Alert|| Glucose = 262.17765928867385 || Time(sec)=174
+Alert|| Glucose = 265.1180346419925 || Time(sec)=175
+Alert|| Glucose = 268.0588169826428 || Time(sec)=176
+Alert|| Glucose = 270.99889080541504 || Time(sec)=177
+Alert|| Glucose = 273.93717897491916 || Time(sec)=178
+Alert|| Glucose = 276.8726424026197 || Time(sec)=179
+Alert|| Glucose = 279.80427967562906 || Time(sec)=180
+Alert|| Glucose = 282.73112664025683 || Time(sec)=181
+Alert|| Glucose = 285.6522559433198 || Time(sec)=182
+Alert|| Glucose = 288.56677653421303 || Time(sec)=183
+Alert|| Glucose = 291.4738331307265 || Time(sec)=184
+Alert|| Glucose = 294.3726056515644 || Time(sec)=185
+Alert|| Glucose = 297.26230861848495 || Time(sec)=186
+Alert|| Glucose = 300.1421905309288 || Time(sec)=187
+Alert|| Glucose = 303.01153321594467 || Time(sec)=188
+Alert|| Glucose = 305.86965115615055 || Time(sec)=189
+Alert|| Glucose = 308.7158907983929 || Time(sec)=190
+Alert|| Glucose = 311.54962984567896 || Time(sec)=191
+Alert|| Glucose = 314.37027653486825 || Time(sec)=192
+Alert|| Glucose = 317.1772689025098 || Time(sec)=193
+Alert|| Glucose = 319.970074041112 || Time(sec)=194
+Alert|| Glucose = 322.74818734802585 || Time(sec)=195
+Alert|| Glucose = 325.5111317690147 || Time(sec)=196
+Alert|| Glucose = 328.2584570384741 || Time(sec)=197
+Alert|| Glucose = 330.9897389181546 || Time(sec)=198
+Alert|| Glucose = 333.70457843612877 || Time(sec)=199
+
+Alerts for fault 106::
+Alert|| Glucose = 250.29867706136227 || Time(sec)=199
+
+Alerts for fault 107::
+
+Alerts for fault 108::
+Alert|| Glucose = 251.68352223273757 || Time(sec)=119
+Alert|| Glucose = 254.6585234384842 || Time(sec)=120
+Alert|| Glucose = 257.6361497281099 || Time(sec)=121
+Alert|| Glucose = 260.6152078227339 || Time(sec)=122
+Alert|| Glucose = 263.594543035966 || Time(sec)=123
+Alert|| Glucose = 266.5730390547245 || Time(sec)=124
+Alert|| Glucose = 269.54961767047536 || Time(sec)=125
+Alert|| Glucose = 272.5232384630345 || Time(sec)=126
+Alert|| Glucose = 275.4928984392065 || Time(sec)=127
+Alert|| Glucose = 278.45763162863983 || Time(sec)=128
+Alert|| Glucose = 281.41650863936854 || Time(sec)=129
+Alert|| Glucose = 284.3686361755763 || Time(sec)=130
+Alert|| Glucose = 287.31315652016673 || Time(sec)=131
+Alert|| Glucose = 290.2492469847522 || Time(sec)=132
+Alert|| Glucose = 293.1761193296838 || Time(sec)=133
+Alert|| Glucose = 296.09301915673973 || Time(sec)=134
+Alert|| Glucose = 298.99922527706707 || Time(sec)=135
+Alert|| Glucose = 301.89404905693823 || Time(sec)=136
+Alert|| Glucose = 304.77683374383423 || Time(sec)=137
+Alert|| Glucose = 307.6469537753099 || Time(sec)=138
+Alert|| Glucose = 310.50381407302586 || Time(sec)=139
+Alert|| Glucose = 313.34684932425745 || Time(sec)=140
+Alert|| Glucose = 316.17552325310515 || Time(sec)=141
+Alert|| Glucose = 318.9893278835425 || Time(sec)=142
+Alert|| Glucose = 321.78778279634207 || Time(sec)=143
+Alert|| Glucose = 324.57043438182353 || Time(sec)=144
+Alert|| Glucose = 327.33685509026486 || Time(sec)=145
+Alert|| Glucose = 330.08664268171765 || Time(sec)=146
+Alert|| Glucose = 332.81941947686164 || Time(sec)=147
+Alert|| Glucose = 335.5348316104324 || Time(sec)=148
+Alert|| Glucose = 338.2325482886507 || Time(sec)=149
+Alert|| Glucose = 340.91226105198245 || Time(sec)=150
+Alert|| Glucose = 343.5736830444549 || Time(sec)=151
+Alert|| Glucose = 346.2165482906601 || Time(sec)=152
+Alert|| Glucose = 348.84061098147725 || Time(sec)=153
+Alert|| Glucose = 351.4456447694555 || Time(sec)=154
+Alert|| Glucose = 354.0314420747071 || Time(sec)=155
+Alert|| Glucose = 356.5978134020756 || Time(sec)=156
+Alert|| Glucose = 359.1445866702596 || Time(sec)=157
+Alert|| Glucose = 361.67160655349477 || Time(sec)=158
+Alert|| Glucose = 364.17873383631905 || Time(sec)=159
+Alert|| Glucose = 366.6658447818774 || Time(sec)=160
+Alert|| Glucose = 369.13283051415107 || Time(sec)=161
+Alert|| Glucose = 371.57959641443466 || Time(sec)=162
+Alert|| Glucose = 374.00606153232314 || Time(sec)=163
+Alert|| Glucose = 376.4121580114146 || Time(sec)=164
+Alert|| Glucose = 378.79783052988125 || Time(sec)=165
+Alert|| Glucose = 381.1630357560133 || Time(sec)=166
+Alert|| Glucose = 383.5077418187925 || Time(sec)=167
+Alert|| Glucose = 385.83192779351276 || Time(sec)=168
+Alert|| Glucose = 388.13558320242305 || Time(sec)=169
+Alert|| Glucose = 390.4187075303352 || Time(sec)=170
+Alert|| Glucose = 392.6813097551042 || Time(sec)=171
+Alert|| Glucose = 394.92340789285976 || Time(sec)=172
+Alert|| Glucose = 397.145028557841 || Time(sec)=173
+Alert|| Glucose = 399.3462065366612 || Time(sec)=174
+Alert|| Glucose = 401.52698437680857 || Time(sec)=175
+Alert|| Glucose = 403.6874119891682 || Time(sec)=176
+Alert|| Glucose = 405.8275462643346 || Time(sec)=177
+Alert|| Glucose = 407.9474507024685 || Time(sec)=178
+Alert|| Glucose = 410.04719505643703 || Time(sec)=179
+Alert|| Glucose = 412.1268549879688 || Time(sec)=180
+Alert|| Glucose = 414.18651173654064 || Time(sec)=181
+Alert|| Glucose = 416.22625180071 || Time(sec)=182
+Alert|| Glucose = 418.24616663159617 || Time(sec)=183
+Alert|| Glucose = 420.2463523382122 || Time(sec)=184
+Alert|| Glucose = 422.2269094043418 || Time(sec)=185
+Alert|| Glucose = 424.1879424166563 || Time(sec)=186
+Alert|| Glucose = 426.1295598037625 || Time(sec)=187
+Alert|| Glucose = 428.0518735858738 || Time(sec)=188
+Alert|| Glucose = 429.9549991347952 || Time(sec)=189
+Alert|| Glucose = 431.83905494391604 || Time(sec)=190
+Alert|| Glucose = 433.7041624079047 || Time(sec)=191
+Alert|| Glucose = 435.5504456118019 || Time(sec)=192
+Alert|| Glucose = 437.37803112921455 || Time(sec)=193
+Alert|| Glucose = 439.1870478293126 || Time(sec)=194
+Alert|| Glucose = 440.9776266923377 || Time(sec)=195
+Alert|| Glucose = 442.7499006333372 || Time(sec)=196
+Alert|| Glucose = 444.5040043338393 || Time(sec)=197
+Alert|| Glucose = 446.2400740811948 || Time(sec)=198
+Alert|| Glucose = 447.9582476153113 || Time(sec)=199
+
+Alerts for fault 109::
+
+Alerts for fault 110::
+
+Alerts for fault 111::
+
+Alerts for fault 112::
+Alert|| Glucose = 251.03934349144737 || Time(sec)=114
+Alert|| Glucose = 254.01587733328438 || Time(sec)=115
+Alert|| Glucose = 256.99524381025293 || Time(sec)=116
+Alert|| Glucose = 259.97623799656316 || Time(sec)=117
+Alert|| Glucose = 262.9576941762048 || Time(sec)=118
+Alert|| Glucose = 265.9384855795282 || Time(sec)=119
+Alert|| Glucose = 268.9175240743599 || Time(sec)=120
+Alert|| Glucose = 271.8937598133856 || Time(sec)=121
+Alert|| Glucose = 274.8661808397014 || Time(sec)=122
+Alert|| Glucose = 277.8338126525806 || Time(sec)=123
+Alert|| Glucose = 280.7957177356237 || Time(sec)=124
+Alert|| Glucose = 283.7509950495576 || Time(sec)=125
+Alert|| Glucose = 286.6987794920223 || Time(sec)=126
+Alert|| Glucose = 289.63824132673875 || Time(sec)=127
+Alert|| Glucose = 292.5685855844816 || Time(sec)=128
+Alert|| Glucose = 295.4890514382969 || Time(sec)=129
+Alert|| Glucose = 298.39891155539976 || Time(sec)=130
+Alert|| Glucose = 301.2974714281693 || Time(sec)=131
+Alert|| Glucose = 304.1840686866241 || Time(sec)=132
+Alert|| Glucose = 307.0580723947174 || Time(sec)=133
+Alert|| Glucose = 309.91888233273374 || Time(sec)=134
+Alert|| Glucose = 312.7659282680026 || Time(sec)=135
+Alert|| Glucose = 315.59866921607136 || Time(sec)=136
+Alert|| Glucose = 318.41659269439833 || Time(sec)=137
+Alert|| Glucose = 321.2192139705402 || Time(sec)=138
+Alert|| Glucose = 324.0060753067164 || Time(sec)=139
+Alert|| Glucose = 326.7767452025406 || Time(sec)=140
+Alert|| Glucose = 329.5308176376097 || Time(sec)=141
+Alert|| Glucose = 332.26791131554495 || Time(sec)=142
+Alert|| Glucose = 334.98766891098023 || Time(sec)=143
+Alert|| Glucose = 337.6897563208921 || Time(sec)=144
+Alert|| Glucose = 340.37386192157 || Time(sec)=145
+Alert|| Glucose = 343.0396958324264 || Time(sec)=146
+Alert|| Glucose = 345.68698918775283 || Time(sec)=147
+Alert|| Glucose = 348.3154934174326 || Time(sec)=148
+Alert|| Glucose = 350.9249795375327 || Time(sec)=149
+Alert|| Glucose = 353.5152374516082 || Time(sec)=150
+Alert|| Glucose = 356.08607526346816 || Time(sec)=151
+Alert|| Glucose = 358.6373186020711 || Time(sec)=152
+Alert|| Glucose = 361.16880995913976 || Time(sec)=153
+Alert|| Glucose = 363.6804080400112 || Time(sec)=154
+Alert|| Glucose = 366.17198712816696 || Time(sec)=155
+Alert|| Glucose = 368.6434364638222 || Time(sec)=156
+Alert|| Glucose = 371.0946596368875 || Time(sec)=157
+Alert|| Glucose = 373.5255739945609 || Time(sec)=158
+Alert|| Glucose = 375.9361100637477 || Time(sec)=159
+Alert|| Glucose = 378.3262109884577 || Time(sec)=160
+Alert|| Glucose = 380.69583198227707 || Time(sec)=161
+Alert|| Glucose = 383.0449397959697 || Time(sec)=162
+Alert|| Glucose = 385.3735122002197 || Time(sec)=163
+Alert|| Glucose = 387.68153748348783 || Time(sec)=164
+Alert|| Glucose = 389.96901396492075 || Time(sec)=165
+Alert|| Glucose = 392.23594952221725 || Time(sec)=166
+Alert|| Glucose = 394.4823611343288 || Time(sec)=167
+Alert|| Glucose = 396.70827443884235 || Time(sec)=168
+Alert|| Glucose = 398.9137233038706 || Time(sec)=169
+Alert|| Glucose = 401.09874941425346 || Time(sec)=170
+Alert|| Glucose = 403.26340187185394 || Time(sec)=171
+Alert|| Glucose = 405.40773680971546 || Time(sec)=172
+Alert|| Glucose = 407.53181701983215 || Time(sec)=173
+Alert|| Glucose = 409.63571159427113 || Time(sec)=174
+Alert|| Glucose = 411.7194955793738 || Time(sec)=175
+Alert|| Glucose = 413.7832496427543 || Time(sec)=176
+Alert|| Glucose = 415.8270597528046 || Time(sec)=177
+Alert|| Glucose = 417.85101687041066 || Time(sec)=178
+Alert|| Glucose = 419.8552166525772 || Time(sec)=179
+Alert|| Glucose = 421.83975916765644 || Time(sec)=180
+Alert|| Glucose = 423.80474862187214 || Time(sec)=181
+Alert|| Glucose = 425.75029309683066 || Time(sec)=182
+Alert|| Glucose = 427.6765042977076 || Time(sec)=183
+Alert|| Glucose = 429.58349731180147 || Time(sec)=184
+Alert|| Glucose = 431.4713903771451 || Time(sec)=185
+Alert|| Glucose = 433.3403046608686 || Time(sec)=186
+Alert|| Glucose = 435.19036404700944 || Time(sec)=187
+Alert|| Glucose = 437.0216949334693 || Time(sec)=188
+Alert|| Glucose = 438.83442603781936 || Time(sec)=189
+Alert|| Glucose = 440.62868821166245 || Time(sec)=190
+Alert|| Glucose = 442.40461426326226 || Time(sec)=191
+Alert|| Glucose = 444.16233878815655 || Time(sec)=192
+Alert|| Glucose = 445.90199800747655 || Time(sec)=193
+Alert|| Glucose = 447.6237296136988 || Time(sec)=194
+Alert|| Glucose = 449.32767262356356 || Time(sec)=195
+Alert|| Glucose = 451.01396723789776 || Time(sec)=196
+Alert|| Glucose = 452.68275470808845 || Time(sec)=197
+Alert|| Glucose = 454.3341772089575 || Time(sec)=198
+Alert|| Glucose = 455.9683777177953 || Time(sec)=199
+
+Alerts for fault 113::
+Alert|| Glucose = 252.18704590307178 || Time(sec)=85
+Alert|| Glucose = 255.0266150562737 || Time(sec)=86
+Alert|| Glucose = 257.8755177761414 || Time(sec)=87
+Alert|| Glucose = 260.73228930824274 || Time(sec)=88
+Alert|| Glucose = 263.59551421829553 || Time(sec)=89
+Alert|| Glucose = 266.4638256446031 || Time(sec)=90
+Alert|| Glucose = 269.33590453939996 || Time(sec)=91
+Alert|| Glucose = 272.21047889803197 || Time(sec)=92
+Alert|| Glucose = 275.0863229752362 || Time(sec)=93
+Alert|| Glucose = 277.96225648810525 || Time(sec)=94
+Alert|| Glucose = 280.8371438056148 || Time(sec)=95
+Alert|| Glucose = 283.70989312485875 || Time(sec)=96
+Alert|| Glucose = 286.57945563437573 || Time(sec)=97
+Alert|| Glucose = 289.44482466516115 || Time(sec)=98
+Alert|| Glucose = 292.30503483014184 || Time(sec)=99
+Alert|| Glucose = 295.15916115304844 || Time(sec)=100
+Alert|| Glucose = 298.00631818775014 || Time(sec)=101
+Alert|| Glucose = 300.8456591292247 || Time(sec)=102
+Alert|| Glucose = 303.67637491742164 || Time(sec)=103
+Alert|| Glucose = 306.49769333533817 || Time(sec)=104
+Alert|| Glucose = 309.30887810267467 || Time(sec)=105
+Alert|| Glucose = 312.1092279664607 || Time(sec)=106
+Alert|| Glucose = 314.89807579005577 || Time(sec)=107
+Alert|| Glucose = 317.6747876419243 || Time(sec)=108
+Alert|| Glucose = 320.43876188556993 || Time(sec)=109
+Alert|| Glucose = 323.189428271987 || Time(sec)=110
+Alert|| Glucose = 325.9262470359508 || Time(sec)=111
+Alert|| Glucose = 328.6487079974244 || Time(sec)=112
+Alert|| Glucose = 331.35632966930973 || Time(sec)=113
+Alert|| Glucose = 334.04865837271046 || Time(sec)=114
+Alert|| Glucose = 336.7252673608186 || Time(sec)=115
+Alert|| Glucose = 339.3857559524665 || Time(sec)=116
+Alert|| Glucose = 342.0297486763232 || Time(sec)=117
+Alert|| Glucose = 344.65689442664177 || Time(sec)=118
+Alert|| Glucose = 347.2668656313972 || Time(sec)=119
+Alert|| Glucose = 349.8593574335824 || Time(sec)=120
+Alert|| Glucose = 352.4340868863601 || Time(sec)=121
+Alert|| Glucose = 354.9907921627006 || Time(sec)=122
+Alert|| Glucose = 357.5292317800657 || Time(sec)=123
+Alert|| Glucose = 360.049183840634 || Time(sec)=124
+Alert|| Glucose = 362.5504452874982 || Time(sec)=125
+Alert|| Glucose = 365.0328311772023 || Time(sec)=126
+Alert|| Glucose = 367.4961739689275 || Time(sec)=127
+Alert|| Glucose = 369.9403228305781 || Time(sec)=128
+Alert|| Glucose = 372.36514296196424 || Time(sec)=129
+Alert|| Glucose = 374.77051493522663 || Time(sec)=130
+Alert|| Glucose = 377.1563340525997 || Time(sec)=131
+Alert|| Glucose = 379.52250972156384 || Time(sec)=132
+Alert|| Glucose = 381.86896484739395 || Time(sec)=133
+Alert|| Glucose = 384.19563524307193 || Time(sec)=134
+Alert|| Glucose = 386.5024690564931 || Time(sec)=135
+Alert|| Glucose = 388.7894262148624 || Time(sec)=136
+Alert|| Glucose = 391.0564778861442 || Time(sec)=137
+Alert|| Glucose = 393.303605957401 || Time(sec)=138
+Alert|| Glucose = 395.53080252982915 || Time(sec)=139
+Alert|| Glucose = 397.73806943027654 || Time(sec)=140
+Alert|| Glucose = 399.9254177390046 || Time(sec)=141
+Alert|| Glucose = 402.092867333439 || Time(sec)=142
+Alert|| Glucose = 404.240446447635 || Time(sec)=143
+Alert|| Glucose = 406.36819124716885 || Time(sec)=144
+Alert|| Glucose = 408.47614541915385 || Time(sec)=145
+Alert|| Glucose = 410.5643597770678 || Time(sec)=146
+Alert|| Glucose = 412.63289188006945 || Time(sec)=147
+Alert|| Glucose = 414.681805666473 || Time(sec)=148
+Alert|| Glucose = 416.7111711010445 || Time(sec)=149
+Alert|| Glucose = 418.7210638357775 || Time(sec)=150
+Alert|| Glucose = 420.71156488380285 || Time(sec)=151
+Alert|| Glucose = 422.6827603060841 || Time(sec)=152
+Alert|| Glucose = 424.6347409105497 || Time(sec)=153
+Alert|| Glucose = 426.5676019633114 || Time(sec)=154
+Alert|| Glucose = 428.4814429116208 || Time(sec)=155
+Alert|| Glucose = 430.37636711821506 || Time(sec)=156
+Alert|| Glucose = 432.25248160670805 || Time(sec)=157
+Alert|| Glucose = 434.10989681768274 || Time(sec)=158
+Alert|| Glucose = 435.94872637514766 || Time(sec)=159
+Alert|| Glucose = 437.76908686302176 || Time(sec)=160
+Alert|| Glucose = 439.5710976113185 || Time(sec)=161
+Alert|| Glucose = 441.35488049170397 || Time(sec)=162
+Alert|| Glucose = 443.1205597221099 || Time(sec)=163
+Alert|| Glucose = 444.8682616800889 || Time(sec)=164
+Alert|| Glucose = 446.59811472460405 || Time(sec)=165
+Alert|| Glucose = 448.31024902595254 || Time(sec)=166
+Alert|| Glucose = 450.00479640352944 || Time(sec)=167
+Alert|| Glucose = 451.6818901711446 || Time(sec)=168
+Alert|| Glucose = 453.3416649896117 || Time(sec)=169
+Alert|| Glucose = 454.98425672633755 || Time(sec)=170
+Alert|| Glucose = 456.6098023216447 || Time(sec)=171
+Alert|| Glucose = 458.21843966156865 || Time(sec)=172
+Alert|| Glucose = 459.8103074568788 || Time(sec)=173
+Alert|| Glucose = 461.3855451280777 || Time(sec)=174
+Alert|| Glucose = 462.9442926961429 || Time(sec)=175
+Alert|| Glucose = 464.4866906787795 || Time(sec)=176
+Alert|| Glucose = 466.0128799919622 || Time(sec)=177
+Alert|| Glucose = 467.52300185655037 || Time(sec)=178
+Alert|| Glucose = 469.0171977097663 || Time(sec)=179
+Alert|| Glucose = 470.4956091213366 || Time(sec)=180
+Alert|| Glucose = 471.958377714099 || Time(sec)=181
+Alert|| Glucose = 473.405645088888 || Time(sec)=182
+Alert|| Glucose = 474.83755275351535 || Time(sec)=183
+Alert|| Glucose = 476.25424205567134 || Time(sec)=184
+Alert|| Glucose = 477.6558541195755 || Time(sec)=185
+Alert|| Glucose = 479.04252978621463 || Time(sec)=186
+Alert|| Glucose = 480.4144095570102 || Time(sec)=187
+Alert|| Glucose = 481.7716335407628 || Time(sec)=188
+Alert|| Glucose = 483.1143414037292 || Time(sec)=189
+Alert|| Glucose = 484.44267232268936 || Time(sec)=190
+Alert|| Glucose = 485.75676494087014 || Time(sec)=191
+Alert|| Glucose = 487.0567573265949 || Time(sec)=192
+Alert|| Glucose = 488.342786934534 || Time(sec)=193
+Alert|| Glucose = 489.6149905694367 || Time(sec)=194
+Alert|| Glucose = 490.87350435222913 || Time(sec)=195
+Alert|| Glucose = 492.11846368836746 || Time(sec)=196
+Alert|| Glucose = 493.35000323834055 || Time(sec)=197
+Alert|| Glucose = 494.56825689021997 || Time(sec)=198
+Alert|| Glucose = 495.7733577341602 || Time(sec)=199
+
+Alerts for fault 114::
+
+Alerts for fault 115::
+
+Alerts for fault 116::
+
+Alerts for fault 117::
+
+Alerts for fault 118::
+
+Alerts for fault 119::
+
+Alerts for fault 120::
+Alert|| Glucose = 250.63826087947558 || Time(sec)=172
+Alert|| Glucose = 253.56532519599156 || Time(sec)=173
+Alert|| Glucose = 256.4975705057615 || Time(sec)=174
+Alert|| Glucose = 259.4337276849207 || Time(sec)=175
+Alert|| Glucose = 262.37256676391377 || Time(sec)=176
+Alert|| Glucose = 265.3128968200308 || Time(sec)=177
+Alert|| Glucose = 268.25356581039273 || Time(sec)=178
+Alert|| Glucose = 271.19346034824804 || Time(sec)=179
+Alert|| Glucose = 274.13150542548385 || Time(sec)=180
+Alert|| Glucose = 277.0666640842899 || Time(sec)=181
+Alert|| Glucose = 279.9979370409423 || Time(sec)=182
+Alert|| Glucose = 282.9243622646912 || Time(sec)=183
+Alert|| Glucose = 285.84501451474557 || Time(sec)=184
+Alert|| Glucose = 288.7590048383436 || Time(sec)=185
+Alert|| Glucose = 291.6654800328809 || Time(sec)=186
+Alert|| Glucose = 294.5636220750419 || Time(sec)=187
+Alert|| Glucose = 297.45264751984183 || Time(sec)=188
+Alert|| Glucose = 300.3318068724345 || Time(sec)=189
+Alert|| Glucose = 303.2003839354837 || Time(sec)=190
+Alert|| Glucose = 306.0576951348251 || Time(sec)=191
+Alert|| Glucose = 308.90308882606917 || Time(sec)=192
+Alert|| Glucose = 311.7359445847095 || Time(sec)=193
+Alert|| Glucose = 314.5556724822103 || Time(sec)=194
+Alert|| Glucose = 317.3617123504493 || Time(sec)=195
+Alert|| Glucose = 320.1535330367913 || Time(sec)=196
+Alert|| Glucose = 322.9306316519623 || Time(sec)=197
+Alert|| Glucose = 325.6925328127863 || Time(sec)=198
+Alert|| Glucose = 328.43878788173794 || Time(sec)=199
+
+Alerts for fault 121::
+Alert|| Glucose = 252.41601976138188 || Time(sec)=121
+Alert|| Glucose = 255.38996521650012 || Time(sec)=122
+Alert|| Glucose = 258.3663076903831 || Time(sec)=123
+Alert|| Glucose = 261.343862787129 || Time(sec)=124
+Alert|| Glucose = 264.3214845024646 || Time(sec)=125
+Alert|| Glucose = 267.2980650101968 || Time(sec)=126
+Alert|| Glucose = 270.27253439809255 || Time(sec)=127
+Alert|| Glucose = 273.24386035548554 || Time(sec)=128
+Alert|| Glucose = 276.21104781502123 || Time(sec)=129
+Alert|| Glucose = 279.17313855104504 || Time(sec)=130
+Alert|| Glucose = 282.1292107372124 || Time(sec)=131
+Alert|| Glucose = 285.0783784659534 || Time(sec)=132
+Alert|| Glucose = 288.0197912324596 || Time(sec)=133
+Alert|| Glucose = 290.9526333858807 || Time(sec)=134
+Alert|| Glucose = 293.87612355041495 || Time(sec)=135
+Alert|| Glucose = 296.78951401896785 || Time(sec)=136
+Alert|| Glucose = 299.69209012201947 || Time(sec)=137
+Alert|| Glucose = 302.58316957430094 || Time(sec)=138
+Alert|| Glucose = 305.46210180182635 || Time(sec)=139
+Alert|| Glucose = 308.3282672517606 || Time(sec)=140
+Alert|| Glucose = 311.18107668753163 || Time(sec)=141
+Alert|| Glucose = 314.01997047151235 || Time(sec)=142
+Alert|| Glucose = 316.8444178375118 || Time(sec)=143
+Alert|| Glucose = 319.6539161552194 || Time(sec)=144
+Alert|| Glucose = 322.4479901886507 || Time(sec)=145
+Alert|| Glucose = 325.22619135054055 || Time(sec)=146
+Alert|| Glucose = 327.98809695452735 || Time(sec)=147
+Alert|| Glucose = 330.73330946686775 || Time(sec)=148
+Alert|| Glucose = 333.4614557593149 || Time(sec)=149
+Alert|| Glucose = 336.1721863646894 || Time(sec)=150
+Alert|| Glucose = 338.8651747365678 || Time(sec)=151
+Alert|| Glucose = 341.54011651440914 || Time(sec)=152
+Alert|| Glucose = 344.19672879534147 || Time(sec)=153
+Alert|| Glucose = 346.8347494137287 || Time(sec)=154
+Alert|| Glucose = 349.4539362295435 || Time(sec)=155
+Alert|| Glucose = 352.05406642647955 || Time(sec)=156
+Alert|| Glucose = 354.63493582064353 || Time(sec)=157
+Alert|| Glucose = 357.19635818058435 || Time(sec)=158
+Alert|| Glucose = 359.7381645593311 || Time(sec)=159
+Alert|| Glucose = 362.2602026390341 || Time(sec)=160
+Alert|| Glucose = 364.7623360887266 || Time(sec)=161
+Alert|| Glucose = 367.24444393565415 || Time(sec)=162
+Alert|| Glucose = 369.70641995055036 || Time(sec)=163
+Alert|| Glucose = 372.1481720471743 || Time(sec)=164
+Alert|| Glucose = 374.5696216963647 || Time(sec)=165
+Alert|| Glucose = 376.9707033548101 || Time(sec)=166
+Alert|| Glucose = 379.35136390868115 || Time(sec)=167
+Alert|| Glucose = 381.7115621322237 || Time(sec)=168
+Alert|| Glucose = 384.05126816136436 || Time(sec)=169
+Alert|| Glucose = 386.37046298233946 || Time(sec)=170
+Alert|| Glucose = 388.66913793531984 || Time(sec)=171
+Alert|| Glucose = 390.9472942329676 || Time(sec)=172
+Alert|| Glucose = 393.2049424938297 || Time(sec)=173
+Alert|| Glucose = 395.4421022904434 || Time(sec)=174
+Alert|| Glucose = 397.65880171200104 || Time(sec)=175
+Alert|| Glucose = 399.85507694139943 || Time(sec)=176
+Alert|| Glucose = 402.0309718464763 || Time(sec)=177
+Alert|| Glucose = 404.18653758521697 || Time(sec)=178
+Alert|| Glucose = 406.3218322246985 || Time(sec)=179
+Alert|| Glucose = 408.43692037352287 || Time(sec)=180
+Alert|| Glucose = 410.5318728274781 || Time(sec)=181
+Alert|| Glucose = 412.6067662281552 || Time(sec)=182
+Alert|| Glucose = 414.6616827342398 || Time(sec)=183
+Alert|| Glucose = 416.6967097051885 || Time(sec)=184
+Alert|| Glucose = 418.7119393969956 || Time(sec)=185
+Alert|| Glucose = 420.70746866974883 || Time(sec)=186
+Alert|| Glucose = 422.6833987066704 || Time(sec)=187
+Alert|| Glucose = 424.6398347443372 || Time(sec)=188
+Alert|| Glucose = 426.5768858137715 || Time(sec)=189
+Alert|| Glucose = 428.49466449209507 || Time(sec)=190
+Alert|| Glucose = 430.3932866644368 || Time(sec)=191
+Alert|| Glucose = 432.2728712957895 || Time(sec)=192
+Alert|| Glucose = 434.13354021250933 || Time(sec)=193
+Alert|| Glucose = 435.97541789315676 || Time(sec)=194
+Alert|| Glucose = 437.79863126838 || Time(sec)=195
+Alert|| Glucose = 439.60330952954587 || Time(sec)=196
+Alert|| Glucose = 441.38958394582716 || Time(sec)=197
+Alert|| Glucose = 443.15758768946034 || Time(sec)=198
+Alert|| Glucose = 444.90745566889234 || Time(sec)=199
+
+Alerts for fault 122::
+Alert|| Glucose = 252.0967983932909 || Time(sec)=142
+Alert|| Glucose = 255.03420295434353 || Time(sec)=143
+Alert|| Glucose = 257.97573726803125 || Time(sec)=144
+Alert|| Glucose = 260.9201707962714 || Time(sec)=145
+Alert|| Glucose = 263.8663111905259 || Time(sec)=146
+Alert|| Glucose = 266.8130042078007 || Time(sec)=147
+Alert|| Glucose = 269.7591335646589 || Time(sec)=148
+Alert|| Glucose = 272.7036207324289 || Time(sec)=149
+Alert|| Glucose = 275.64542467680894 || Time(sec)=150
+Alert|| Glucose = 278.5835415450813 || Time(sec)=151
+Alert|| Glucose = 281.5170043041519 || Time(sec)=152
+Alert|| Glucose = 284.44488233263 || Time(sec)=153
+Alert|| Glucose = 287.3662809701434 || Time(sec)=154
+Alert|| Glucose = 290.28034102706164 || Time(sec)=155
+Alert|| Glucose = 293.18623825776234 || Time(sec)=156
+Alert|| Glucose = 296.08318280052714 || Time(sec)=157
+Alert|| Glucose = 298.97041858709844 || Time(sec)=158
+Alert|| Glucose = 301.84722272485925 || Time(sec)=159
+Alert|| Glucose = 304.7129048545231 || Time(sec)=160
+Alert|| Glucose = 307.5668064861374 || Time(sec)=161
+Alert|| Glucose = 310.40830031611165 || Time(sec)=162
+Alert|| Glucose = 313.2367895278854 || Time(sec)=163
+Alert|| Glucose = 316.0517070787477 || Time(sec)=164
+Alert|| Glucose = 318.8525149752135 || Time(sec)=165
+Alert|| Glucose = 321.63870353925176 || Time(sec)=166
+Alert|| Glucose = 324.409790667547 || Time(sec)=167
+Alert|| Glucose = 327.16532108586273 || Time(sec)=168
+Alert|| Glucose = 329.90486560045844 || Time(sec)=169
+Alert|| Glucose = 332.6280203483969 || Time(sec)=170
+Alert|| Glucose = 335.3344060484635 || Time(sec)=171
+Alert|| Glucose = 338.0236672543053 || Time(sec)=172
+Alert|| Glucose = 340.69547161128463 || Time(sec)=173
+Alert|| Glucose = 343.34950911843305 || Time(sec)=174
+Alert|| Glucose = 345.98549139678164 || Time(sec)=175
+Alert|| Glucose = 348.6031509652413 || Time(sec)=176
+Alert|| Glucose = 351.2022405251028 || Time(sec)=177
+Alert|| Glucose = 353.78253225413016 || Time(sec)=178
+Alert|| Glucose = 356.3438171111247 || Time(sec)=179
+Alert|| Glucose = 358.885904151748 || Time(sec)=180
+Alert|| Glucose = 361.4086198563046 || Time(sec)=181
+Alert|| Glucose = 363.9118074701026 || Time(sec)=182
+Alert|| Glucose = 366.3953263569325 || Time(sec)=183
+Alert|| Glucose = 368.8590513661303 || Time(sec)=184
+Alert|| Glucose = 371.30287221361965 || Time(sec)=185
+Alert|| Glucose = 373.7266928772636 || Time(sec)=186
+Alert|| Glucose = 376.130431006793 || Time(sec)=187
+Alert|| Glucose = 378.5140173485215 || Time(sec)=188
+Alert|| Glucose = 380.87739518500257 || Time(sec)=189
+Alert|| Glucose = 383.2205197897338 || Time(sec)=190
+Alert|| Glucose = 385.5433578969676 || Time(sec)=191
+Alert|| Glucose = 387.8458871866432 || Time(sec)=192
+Alert|| Glucose = 390.1280957844166 || Time(sec)=193
+Alert|| Glucose = 392.3899817767277 || Time(sec)=194
+Alert|| Glucose = 394.6315527408116 || Time(sec)=195
+Alert|| Glucose = 396.8528252895298 || Time(sec)=196
+Alert|| Glucose = 399.0538246308706 || Time(sec)=197
+Alert|| Glucose = 401.23458414194334 || Time(sec)=198
+Alert|| Glucose = 403.3951449572681 || Time(sec)=199
+
+Alerts for fault 123::
+Alert|| Glucose = 251.1524965778244 || Time(sec)=140
+Alert|| Glucose = 254.09642790588006 || Time(sec)=141
+Alert|| Glucose = 257.0445198574286 || Time(sec)=142
+Alert|| Glucose = 259.99554091447277 || Time(sec)=143
+Alert|| Glucose = 262.94829762282706 || Time(sec)=144
+Alert|| Glucose = 265.90163451746275 || Time(sec)=145
+Alert|| Glucose = 268.85443398598466 || Time(sec)=146
+Alert|| Glucose = 271.80561607332703 || Time(sec)=147
+Alert|| Glucose = 274.7541382307881 || Time(sec)=148
+Alert|| Glucose = 277.6989950125455 || Time(sec)=149
+Alert|| Glucose = 280.6392177228113 || Time(sec)=150
+Alert|| Glucose = 283.5738740167893 || Time(sec)=151
+Alert|| Glucose = 286.50206745859134 || Time(sec)=152
+Alert|| Glucose = 289.4229370392494 || Time(sec)=153
+Alert|| Glucose = 292.33565665793384 || Time(sec)=154
+Alert|| Glucose = 295.2394345694427 || Time(sec)=155
+Alert|| Glucose = 298.13351280097834 || Time(sec)=156
+Alert|| Glucose = 301.01716654116285 || Time(sec)=157
+Alert|| Glucose = 303.88970350417384 || Time(sec)=158
+Alert|| Glucose = 306.75046327179973 || Time(sec)=159
+Alert|| Glucose = 309.5988166161278 || Time(sec)=160
+Alert|| Glucose = 312.4341648054821 || Time(sec)=161
+Alert|| Glucose = 315.2559388961292 || Time(sec)=162
+Alert|| Glucose = 318.06359901216376 || Time(sec)=163
+Alert|| Glucose = 320.856633615879 || Time(sec)=164
+Alert|| Glucose = 323.63455877081356 || Time(sec)=165
+Alert|| Glucose = 326.3969173995551 || Time(sec)=166
+Alert|| Glucose = 329.143278538265 || Time(sec)=167
+Alert|| Glucose = 331.87323658977425 || Time(sec)=168
+Alert|| Glucose = 334.5864105769861 || Time(sec)=169
+Alert|| Glucose = 337.28244339820736 || Time(sec)=170
+Alert|| Glucose = 339.96100108591764 || Time(sec)=171
+Alert|| Glucose = 342.6217720703765 || Time(sec)=172
+Alert|| Glucose = 345.2644664493601 || Time(sec)=173
+Alert|| Glucose = 347.88881526521413 || Time(sec)=174
+Alert|| Glucose = 350.4945697903082 || Time(sec)=175
+Alert|| Glucose = 353.0815008218782 || Time(sec)=176
+Alert|| Glucose = 355.6493979871485 || Time(sec)=177
+Alert|| Glucose = 358.1980690595353 || Time(sec)=178
+Alert|| Glucose = 360.7273392866447 || Time(sec)=179
+Alert|| Glucose = 363.237050730696 || Time(sec)=180
+Alert|| Glucose = 365.7270616219239 || Time(sec)=181
+Alert|| Glucose = 368.19724572543464 || Time(sec)=182
+Alert|| Glucose = 370.64749172192495 || Time(sec)=183
+Alert|| Glucose = 373.07770260260236 || Time(sec)=184
+Alert|| Glucose = 375.4877950785855 || Time(sec)=185
+Alert|| Glucose = 377.87769900500336 || Time(sec)=186
+Alert|| Glucose = 380.2473568199578 || Time(sec)=187
+Alert|| Glucose = 382.59672299846386 || Time(sec)=188
+Alert|| Glucose = 384.92576352143374 || Time(sec)=189
+Alert|| Glucose = 387.2344553597284 || Time(sec)=190
+Alert|| Glucose = 389.5227859732592 || Time(sec)=191
+Alert|| Glucose = 391.79075282508694 || Time(sec)=192
+Alert|| Glucose = 394.0383629104293 || Time(sec)=193
+Alert|| Glucose = 396.2656323004608 || Time(sec)=194
+Alert|| Glucose = 398.47258570075786 || Time(sec)=195
+Alert|| Glucose = 400.6592560242194 || Time(sec)=196
+Alert|| Glucose = 402.8256839782697 || Time(sec)=197
+Alert|| Glucose = 404.97191766612997 || Time(sec)=198
+Alert|| Glucose = 407.0980122019289 || Time(sec)=199
+
+Alerts for fault 124::
+Alert|| Glucose = 358.1980690595353 || Time(sec)=178
+Alert|| Glucose = 360.7273392866447 || Time(sec)=179
+Alert|| Glucose = 363.237050730696 || Time(sec)=180
+Alert|| Glucose = 365.7270616219239 || Time(sec)=181
+Alert|| Glucose = 368.19724572543464 || Time(sec)=182
+Alert|| Glucose = 370.64749172192495 || Time(sec)=183
+Alert|| Glucose = 373.07770260260236 || Time(sec)=184
+Alert|| Glucose = 375.4877950785855 || Time(sec)=185
+Alert|| Glucose = 377.87769900500336 || Time(sec)=186
+Alert|| Glucose = 380.2473568199578 || Time(sec)=187
+Alert|| Glucose = 382.59672299846386 || Time(sec)=188
+Alert|| Glucose = 384.92576352143374 || Time(sec)=189
+Alert|| Glucose = 387.2344553597284 || Time(sec)=190
+Alert|| Glucose = 389.5227859732592 || Time(sec)=191
+Alert|| Glucose = 391.79075282508694 || Time(sec)=192
+Alert|| Glucose = 394.0383629104293 || Time(sec)=193
+Alert|| Glucose = 396.2656323004608 || Time(sec)=194
+Alert|| Glucose = 398.47258570075786 || Time(sec)=195
+Alert|| Glucose = 400.6592560242194 || Time(sec)=196
+Alert|| Glucose = 402.8256839782697 || Time(sec)=197
+Alert|| Glucose = 404.97191766612997 || Time(sec)=198
+Alert|| Glucose = 407.0980122019289 || Time(sec)=199
+
+Alerts for fault 125::
+Alert|| Glucose = 250.4203169710636 || Time(sec)=151
+Alert|| Glucose = 253.35837700105878 || Time(sec)=152
+Alert|| Glucose = 256.30114979464287 || Time(sec)=153
+Alert|| Glucose = 259.24738443140507 || Time(sec)=154
+Alert|| Glucose = 262.1958684626455 || Time(sec)=155
+Alert|| Glucose = 265.14542783341443 || Time(sec)=156
+Alert|| Glucose = 268.0949267431883 || Time(sec)=157
+Alert|| Glucose = 271.0432674481692 || Time(sec)=158
+Alert|| Glucose = 273.9893900082329 || Time(sec)=159
+Alert|| Glucose = 276.93227198157854 || Time(sec)=160
+Alert|| Glucose = 279.8709280701585 || Time(sec)=161
+Alert|| Glucose = 282.8044097189766 || Time(sec)=162
+Alert|| Glucose = 285.73180467234556 || Time(sec)=163
+Alert|| Glucose = 288.65223649018367 || Time(sec)=164
+Alert|| Glucose = 291.56486402740853 || Time(sec)=165
+Alert|| Glucose = 294.46888087945155 || Time(sec)=166
+Alert|| Glucose = 297.3635147968717 || Time(sec)=167
+Alert|| Glucose = 300.24802707199217 || Time(sec)=168
+Alert|| Glucose = 303.1217119004165 || Time(sec)=169
+Alert|| Glucose = 305.98389572020744 || Time(sec)=170
+Alert|| Glucose = 308.83393653142787 || Time(sec)=171
+Alert|| Glucose = 311.6712231986549 || Time(sec)=172
+Alert|| Glucose = 314.49517473898027 || Time(sec)=173
+Alert|| Glucose = 317.30523959791117 || Time(sec)=174
+Alert|| Glucose = 320.1008949154789 || Time(sec)=175
+Alert|| Glucose = 322.8816457847549 || Time(sec)=176
+Alert|| Glucose = 325.6470245048632 || Time(sec)=177
+Alert|| Glucose = 328.39658983046536 || Time(sec)=178
+Alert|| Glucose = 331.1299262195809 || Time(sec)=179
+Alert|| Glucose = 333.84664308149394 || Time(sec)=180
+Alert|| Glucose = 336.5463740263832 || Time(sec)=181
+Alert|| Glucose = 339.2287761182022 || Time(sec)=182
+Alert|| Glucose = 341.8935291322254 || Time(sec)=183
+Alert|| Glucose = 344.54033481857147 || Time(sec)=184
+Alert|| Glucose = 347.16891617290634 || Time(sec)=185
+Alert|| Glucose = 349.7790167154306 || Time(sec)=186
+Alert|| Glucose = 352.3703997791547 || Time(sec)=187
+Alert|| Glucose = 354.94284780837125 || Time(sec)=188
+Alert|| Glucose = 357.496161668143 || Time(sec)=189
+Alert|| Glucose = 360.030159965536 || Time(sec)=190
+Alert|| Glucose = 362.54467838324587 || Time(sec)=191
+Alert|| Glucose = 365.03956902618353 || Time(sec)=192
+Alert|| Glucose = 367.51469978151283 || Time(sec)=193
+Alert|| Glucose = 369.96995369256075 || Time(sec)=194
+Alert|| Glucose = 372.4052283469528 || Time(sec)=195
+Alert|| Glucose = 374.8204352792642 || Time(sec)=196
+Alert|| Glucose = 377.215499388417 || Time(sec)=197
+Alert|| Glucose = 379.59035836999936 || Time(sec)=198
+Alert|| Glucose = 381.94496216362893 || Time(sec)=199
+
+Alerts for fault 126::
+
+Alerts for fault 127::
+Alert|| Glucose = 252.04233475891638 || Time(sec)=99
+Alert|| Glucose = 254.99682098773027 || Time(sec)=100
+Alert|| Glucose = 257.95508043319256 || Time(sec)=101
+Alert|| Glucose = 260.91585110204477 || Time(sec)=102
+Alert|| Glucose = 263.87791412124596 || Time(sec)=103
+Alert|| Glucose = 266.8400931907754 || Time(sec)=104
+Alert|| Glucose = 269.8012540125476 || Time(sec)=105
+Alert|| Glucose = 272.7603036954415 || Time(sec)=106
+Alert|| Glucose = 275.7161901367641 || Time(sec)=107
+Alert|| Glucose = 278.6679013807465 || Time(sec)=108
+Alert|| Glucose = 281.61446495491435 || Time(sec)=109
+Alert|| Glucose = 284.5549471853829 || Time(sec)=110
+Alert|| Glucose = 287.48845249230186 || Time(sec)=111
+Alert|| Glucose = 290.41412266682136 || Time(sec)=112
+Alert|| Glucose = 293.3311361310658 || Time(sec)=113
+Alert|| Glucose = 296.238707182695 || Time(sec)=114
+Alert|| Glucose = 299.13608522569643 || Time(sec)=115
+Alert|| Glucose = 302.02255398909966 || Time(sec)=116
+Alert|| Glucose = 304.8974307353273 || Time(sec)=117
+Alert|| Glucose = 307.7600654599068 || Time(sec)=118
+Alert|| Glucose = 310.6098400842577 || Time(sec)=119
+Alert|| Glucose = 313.44616764324934 || Time(sec)=120
+Alert|| Glucose = 316.26849146918914 || Time(sec)=121
+Alert|| Glucose = 319.07628437385927 || Time(sec)=122
+Alert|| Glucose = 321.8690478301665 || Time(sec)=123
+Alert|| Glucose = 324.6463111549107 || Time(sec)=124
+Alert|| Glucose = 327.4076306941121 || Time(sec)=125
+Alert|| Glucose = 330.1525890122668 || Time(sec)=126
+Alert|| Glucose = 332.8807940868269 || Time(sec)=127
+Alert|| Glucose = 335.5918785091237 || Time(sec)=128
+Alert|| Glucose = 338.28549869287644 || Time(sec)=129
+Alert|| Glucose = 340.96133409134677 || Time(sec)=130
+Alert|| Glucose = 343.6190864241229 || Time(sec)=131
+Alert|| Glucose = 346.2584789144357 || Time(sec)=132
+Alert|| Glucose = 348.879255537833 || Time(sec)=133
+Alert|| Glucose = 351.4811802829587 || Time(sec)=134
+Alert|| Glucose = 354.06403642511276 || Time(sec)=135
+Alert|| Glucose = 356.62762581319043 || Time(sec)=136
+Alert|| Glucose = 359.17176817053223 || Time(sec)=137
+Alert|| Glucose = 361.69630041014693 || Time(sec)=138
+Alert|| Glucose = 364.2010759647049 || Time(sec)=139
+Alert|| Glucose = 366.68596413163795 || Time(sec)=140
+Alert|| Glucose = 369.1508494336216 || Time(sec)=141
+Alert|| Glucose = 371.59563099466146 || Time(sec)=142
+Alert|| Glucose = 374.0202219319516 || Time(sec)=143
+Alert|| Glucose = 376.42454876362365 || Time(sec)=144
+Alert|| Glucose = 378.8085508324595 || Time(sec)=145
+Alert|| Glucose = 381.1721797455966 || Time(sec)=146
+Alert|| Glucose = 383.51539883021525 || Time(sec)=147
+Alert|| Glucose = 385.8381826051595 || Time(sec)=148
+Alert|| Glucose = 388.14051626840984 || Time(sec)=149
+Alert|| Glucose = 390.42239520029403 || Time(sec)=150
+Alert|| Glucose = 392.683824482293 || Time(sec)=151
+Alert|| Glucose = 394.9248184312742 || Time(sec)=152
+Alert|| Glucose = 397.1454001489597 || Time(sec)=153
+Alert|| Glucose = 399.3456010864159 || Time(sec)=154
+Alert|| Glucose = 401.52546062333266 || Time(sec)=155
+Alert|| Glucose = 403.6850256618424 || Time(sec)=156
+Alert|| Glucose = 405.8243502346162 || Time(sec)=157
+Alert|| Glucose = 407.9434951269587 || Time(sec)=158
+Alert|| Glucose = 410.0425275126159 || Time(sec)=159
+Alert|| Glucose = 412.1215206029974 || Time(sec)=160
+Alert|| Glucose = 414.18055330950864 || Time(sec)=161
+Alert|| Glucose = 416.21970991868216 || Time(sec)=162
+Alert|| Glucose = 418.23907977979167 || Time(sec)=163
+Alert|| Glucose = 420.2387570046291 || Time(sec)=164
+Alert|| Glucose = 422.2188401791225 || Time(sec)=165
+Alert|| Glucose = 424.1794320864707 || Time(sec)=166
+Alert|| Glucose = 426.12063944147127 || Time(sec)=167
+Alert|| Glucose = 428.04257263571776 || Time(sec)=168
+Alert|| Glucose = 429.9453454933436 || Time(sec)=169
+Alert|| Glucose = 431.8290750369929 || Time(sec)=170
+Alert|| Glucose = 433.6938812636999 || Time(sec)=171
+Alert|| Glucose = 435.53988693036365 || Time(sec)=172
+Alert|| Glucose = 437.3672173485064 || Time(sec)=173
+Alert|| Glucose = 439.17600018801073 || Time(sec)=174
+Alert|| Glucose = 440.96636528953286 || Time(sec)=175
+Alert|| Glucose = 442.73844448529746 || Time(sec)=176
+Alert|| Glucose = 444.4923714279819 || Time(sec)=177
+Alert|| Glucose = 446.22828142740565 || Time(sec)=178
+Alert|| Glucose = 447.9463112947463 || Time(sec)=179
+Alert|| Glucose = 449.646599194008 || Time(sec)=180
+Alert|| Glucose = 451.32928450047757 || Time(sec)=181
+Alert|| Glucose = 452.9945076659073 || Time(sec)=182
+Alert|| Glucose = 454.64241009017115 || Time(sec)=183
+Alert|| Glucose = 456.27313399914806 || Time(sec)=184
+Alert|| Glucose = 457.88682232859185 || Time(sec)=185
+Alert|| Glucose = 459.4836186137546 || Time(sec)=186
+Alert|| Glucose = 461.0636668845367 || Time(sec)=187
+Alert|| Glucose = 462.6271115659443 || Time(sec)=188
+Alert|| Glucose = 464.1740973836393 || Time(sec)=189
+Alert|| Glucose = 465.70476927437744 || Time(sec)=190
+Alert|| Glucose = 467.21927230113187 || Time(sec)=191
+Alert|| Glucose = 468.7177515727107 || Time(sec)=192
+Alert|| Glucose = 470.2003521676797 || Time(sec)=193
+Alert|| Glucose = 471.6672190624094 || Time(sec)=194
+Alert|| Glucose = 473.1184970630725 || Time(sec)=195
+Alert|| Glucose = 474.55433074142144 || Time(sec)=196
+Alert|| Glucose = 475.9748643741841 || Time(sec)=197
+Alert|| Glucose = 477.3802418859202 || Time(sec)=198
+Alert|| Glucose = 478.7706067951868 || Time(sec)=199
+
+Alerts for fault 128::
+Alert|| Glucose = 250.27937053817385 || Time(sec)=99
+Alert|| Glucose = 252.4484366863816 || Time(sec)=100
+Alert|| Glucose = 254.41716686288197 || Time(sec)=101
+Alert|| Glucose = 256.1608872932185 || Time(sec)=102
+Alert|| Glucose = 257.6562444375943 || Time(sec)=103
+Alert|| Glucose = 258.8818238599847 || Time(sec)=104
+Alert|| Glucose = 259.8186589245766 || Time(sec)=105
+Alert|| Glucose = 260.45063513183845 || Time(sec)=106
+Alert|| Glucose = 260.76479501321757 || Time(sec)=107
+Alert|| Glucose = 260.7515483106493 || Time(sec)=108
+Alert|| Glucose = 260.40479249175684 || Time(sec)=109
+Alert|| Glucose = 259.7219493175859 || Time(sec)=110
+Alert|| Glucose = 258.7039240270435 || Time(sec)=111
+Alert|| Glucose = 257.3559955112442 || Time(sec)=112
+Alert|| Glucose = 255.68782824250422 || Time(sec)=113
+Alert|| Glucose = 253.7130673237757 || Time(sec)=114
+Alert|| Glucose = 251.4491201557643 || Time(sec)=115
+
+Alerts for fault 129::
+Alert|| Glucose = 251.74078696926048 || Time(sec)=128
+Alert|| Glucose = 254.70479138955122 || Time(sec)=129
+Alert|| Glucose = 257.67185119544877 || Time(sec)=130
+Alert|| Glucose = 260.6407658398855 || Time(sec)=131
+Alert|| Glucose = 263.6103728362005 || Time(sec)=132
+Alert|| Glucose = 266.5795476145706 || Time(sec)=133
+Alert|| Glucose = 269.54720332238156 || Time(sec)=134
+Alert|| Glucose = 272.5122905712136 || Time(sec)=135
+Alert|| Glucose = 275.473797133191 || Time(sec)=136
+Alert|| Glucose = 278.4307475895104 || Time(sec)=137
+Alert|| Glucose = 281.38220293400815 || Time(sec)=138
+Alert|| Glucose = 284.3272601346586 || Time(sec)=139
+Alert|| Glucose = 287.26505165591294 || Time(sec)=140
+Alert|| Glucose = 290.19474494478635 || Time(sec)=141
+Alert|| Glucose = 293.1155418835899 || Time(sec)=142
+Alert|| Glucose = 296.02667821217386 || Time(sec)=143
+Alert|| Glucose = 298.92742292250887 || Time(sec)=144
+Alert|| Glucose = 301.81707762838 || Time(sec)=145
+Alert|| Glucose = 304.694975912904 || Time(sec)=146
+Alert|| Glucose = 307.56048265650793 || Time(sec)=147
+Alert|| Glucose = 310.41299334792666 || Time(sec)=148
+Alert|| Glucose = 313.2519333806875 || Time(sec)=149
+Alert|| Glucose = 316.07675733745623 || Time(sec)=150
+Alert|| Glucose = 318.88694826451973 || Time(sec)=151
+Alert|| Glucose = 321.68201693857577 || Time(sec)=152
+Alert|| Glucose = 324.4615011278956 || Time(sec)=153
+Alert|| Glucose = 327.22496484981554 || Time(sec)=154
+Alert|| Glucose = 329.97199762640406 || Time(sec)=155
+Alert|| Glucose = 332.70221374004126 || Time(sec)=156
+Alert|| Glucose = 335.4152514905372 || Time(sec)=157
+Alert|| Glucose = 338.1107724553068 || Time(sec)=158
+Alert|| Glucose = 340.78846075401145 || Time(sec)=159
+Alert|| Glucose = 343.4480223189716 || Time(sec)=160
+Alert|| Glucose = 346.08918417255154 || Time(sec)=161
+Alert|| Glucose = 348.71169371261743 || Time(sec)=162
+Alert|| Glucose = 351.3153180070718 || Time(sec)=163
+Alert|| Glucose = 353.8998430983738 || Time(sec)=164
+Alert|| Glucose = 356.465073318864 || Time(sec)=165
+Alert|| Glucose = 359.01083061762614 || Time(sec)=166
+Alert|| Glucose = 361.5369538995354 || Time(sec)=167
+Alert|| Glucose = 364.04329837706194 || Time(sec)=168
+Alert|| Glucose = 366.5297349353274 || Time(sec)=169
+Alert|| Glucose = 368.9961495108362 || Time(sec)=170
+Alert|| Glucose = 371.44244248424104 || Time(sec)=171
+Alert|| Glucose = 373.8685280874361 || Time(sec)=172
+Alert|| Glucose = 376.274333825213 || Time(sec)=173
+Alert|| Glucose = 378.65979991166046 || Time(sec)=174
+Alert|| Glucose = 381.02487872143615 || Time(sec)=175
+Alert|| Glucose = 383.369534255991 || Time(sec)=176
+Alert|| Glucose = 385.6937416247837 || Time(sec)=177
+Alert|| Glucose = 387.9974865414801 || Time(sec)=178
+Alert|| Glucose = 390.28076483509705 || Time(sec)=179
+Alert|| Glucose = 392.54358197601374 || Time(sec)=180
+Alert|| Glucose = 394.7859526167438 || Time(sec)=181
+Alert|| Glucose = 397.00790014733207 || Time(sec)=182
+Alert|| Glucose = 399.2094562652148 || Time(sec)=183
+Alert|| Glucose = 401.39066055935865 || Time(sec)=184
+Alert|| Glucose = 403.5515601084739 || Time(sec)=185
+Alert|| Glucose = 405.69220909307717 || Time(sec)=186
+Alert|| Glucose = 407.81266842116565 || Time(sec)=187
+Alert|| Glucose = 409.9130053672481 || Time(sec)=188
+Alert|| Glucose = 411.99329322446766 || Time(sec)=189
+Alert|| Glucose = 414.0536109695395 || Time(sec)=190
+Alert|| Glucose = 416.0940429402196 || Time(sec)=191
+Alert|| Glucose = 418.1146785250121 || Time(sec)=192
+Alert|| Glucose = 420.11561186481765 || Time(sec)=193
+Alert|| Glucose = 422.09694156622106 || Time(sec)=194
+Alert|| Glucose = 424.05877042611337 || Time(sec)=195
+Alert|| Glucose = 426.0012051673405 || Time(sec)=196
+Alert|| Glucose = 427.9243561850714 || Time(sec)=197
+Alert|| Glucose = 429.82833730357686 || Time(sec)=198
+Alert|| Glucose = 431.71326554311173 || Time(sec)=199
+
+Alerts for fault 130::
+
+Alerts for fault 131::
+
+Alerts for fault 132::
+
+Alerts for fault 133::
+
+Alerts for fault 134::
+Alert|| Glucose = 250.24580529192576 || Time(sec)=189
+Alert|| Glucose = 253.17218214068592 || Time(sec)=190
+Alert|| Glucose = 256.10392716944364 || Time(sec)=191
+Alert|| Glucose = 259.03976364245216 || Time(sec)=192
+Alert|| Glucose = 261.97845422510983 || Time(sec)=193
+Alert|| Glucose = 264.91880086432593 || Time(sec)=194
+Alert|| Glucose = 267.8596446106268 || Time(sec)=195
+Alert|| Glucose = 270.79986538471724 || Time(sec)=196
+Alert|| Glucose = 273.73838169126674 || Time(sec)=197
+Alert|| Glucose = 276.6741502827377 || Time(sec)=198
+Alert|| Glucose = 279.60616577611256 || Time(sec)=199
+
+Alerts for fault 135::
+
+Alerts for fault 136::
+Alert|| Glucose = 251.9573863223138 || Time(sec)=112
+Alert|| Glucose = 254.9360282812324 || Time(sec)=113
+Alert|| Glucose = 257.9171105738952 || Time(sec)=114
+Alert|| Glucose = 260.89943735712774 || Time(sec)=115
+Alert|| Glucose = 263.8818523369875 || Time(sec)=116
+Alert|| Glucose = 266.8632384534045 || Time(sec)=117
+Alert|| Glucose = 269.8425175229023 || Time(sec)=118
+Alert|| Glucose = 272.8186498409402 || Time(sec)=119
+Alert|| Glucose = 275.7906337456028 || Time(sec)=120
+Alert|| Glucose = 278.7575051445212 || Time(sec)=121
+Alert|| Glucose = 281.7183370070402 || Time(sec)=122
+Alert|| Glucose = 284.67223882375373 || Time(sec)=123
+Alert|| Glucose = 287.61835603561093 || Time(sec)=124
+Alert|| Glucose = 290.5558694348557 || Time(sec)=125
+Alert|| Glucose = 293.4839945401014 || Time(sec)=126
+Alert|| Glucose = 296.40198094785967 || Time(sec)=127
+Alert|| Glucose = 299.3091116628462 || Time(sec)=128
+Alert|| Glucose = 302.20470240936817 || Time(sec)=129
+Alert|| Glucose = 305.0881009260727 || Time(sec)=130
+Alert|| Glucose = 307.9586862462906 || Time(sec)=131
+Alert|| Glucose = 310.8158679661586 || Time(sec)=132
+Alert|| Glucose = 313.6590855026394 || Time(sec)=133
+Alert|| Glucose = 316.4878073434891 || Time(sec)=134
+Alert|| Glucose = 319.3015302911419 || Time(sec)=135
+Alert|| Glucose = 322.09977870240067 || Time(sec)=136
+Alert|| Glucose = 324.8821037257324 || Time(sec)=137
+Alert|| Glucose = 327.6480825378763 || Time(sec)=138
+Alert|| Glucose = 330.39731758137987 || Time(sec)=139
+Alert|| Glucose = 333.12943580458136 || Time(sec)=140
+Alert|| Glucose = 335.8440879054621 || Time(sec)=141
+Alert|| Glucose = 338.5409475806961 || Time(sec)=142
+Alert|| Glucose = 341.2197107811283 || Time(sec)=143
+Alert|| Glucose = 343.88009497482005 || Time(sec)=144
+Alert|| Glucose = 346.52183841870726 || Time(sec)=145
+Alert|| Glucose = 349.14469943982596 || Time(sec)=146
+Alert|| Glucose = 351.74845572697393 || Time(sec)=147
+Alert|| Glucose = 354.33290363359026 || Time(sec)=148
+Alert|| Glucose = 356.8978574925544 || Time(sec)=149
+Alert|| Glucose = 359.44314894352675 || Time(sec)=150
+Alert|| Glucose = 361.968626273378 || Time(sec)=151
+Alert|| Glucose = 364.4741537701824 || Time(sec)=152
+Alert|| Glucose = 366.95961109118286 || Time(sec)=153
+Alert|| Glucose = 369.42489264507 || Time(sec)=154
+Alert|| Glucose = 371.8699069888573 || Time(sec)=155
+Alert|| Glucose = 374.2945762395775 || Time(sec)=156
+Alert|| Glucose = 376.69883550097063 || Time(sec)=157
+Alert|| Glucose = 379.08263230528485 || Time(sec)=158
+Alert|| Glucose = 381.44592607026465 || Time(sec)=159
+Alert|| Glucose = 383.7886875713565 || Time(sec)=160
+Alert|| Glucose = 386.1108984291238 || Time(sec)=161
+Alert|| Glucose = 388.4125506118243 || Time(sec)=162
+Alert|| Glucose = 390.69364595307076 || Time(sec)=163
+Alert|| Glucose = 392.9541956844634 || Time(sec)=164
+Alert|| Glucose = 395.1942199830561 || Time(sec)=165
+Alert|| Glucose = 397.41374753349123 || Time(sec)=166
+Alert|| Glucose = 399.61281510461663 || Time(sec)=167
+Alert|| Glucose = 401.7914671403762 || Time(sec)=168
+Alert|| Glucose = 403.9497553647491 || Time(sec)=169
+Alert|| Glucose = 406.0877384004946 || Time(sec)=170
+Alert|| Glucose = 408.2054814014474 || Time(sec)=171
+Alert|| Glucose = 410.3030556980946 || Time(sec)=172
+Alert|| Glucose = 412.380538456156 || Time(sec)=173
+Alert|| Glucose = 414.4380123478802 || Time(sec)=174
+Alert|| Glucose = 416.47556523576276 || Time(sec)=175
+Alert|| Glucose = 418.4932898683848 || Time(sec)=176
+Alert|| Glucose = 420.49128358806877 || Time(sec)=177
+Alert|| Glucose = 422.4696480500425 || Time(sec)=178
+Alert|| Glucose = 424.42848895280235 || Time(sec)=179
+Alert|| Glucose = 426.36791577936344 || Time(sec)=180
+Alert|| Glucose = 428.288041549087 || Time(sec)=181
+Alert|| Glucose = 430.18898257977327 || Time(sec)=182
+Alert|| Glucose = 432.0708582597121 || Time(sec)=183
+Alert|| Glucose = 433.9337908293837 || Time(sec)=184
+Alert|| Glucose = 435.77790517250634 || Time(sec)=185
+Alert|| Glucose = 437.6033286161304 || Time(sec)=186
+Alert|| Glucose = 439.41019073948235 || Time(sec)=187
+Alert|| Glucose = 441.1986231912666 || Time(sec)=188
+Alert|| Glucose = 442.96875951513806 || Time(sec)=189
+Alert|| Glucose = 444.72073498306275 || Time(sec)=190
+Alert|| Glucose = 446.4546864362906 || Time(sec)=191
+Alert|| Glucose = 448.17075213366843 || Time(sec)=192
+Alert|| Glucose = 449.86907160702833 || Time(sec)=193
+Alert|| Glucose = 451.54978552339236 || Time(sec)=194
+Alert|| Glucose = 453.2130355537404 || Time(sec)=195
+Alert|| Glucose = 454.85896424809425 || Time(sec)=196
+Alert|| Glucose = 456.4877149166785 || Time(sec)=197
+Alert|| Glucose = 458.0994315169234 || Time(sec)=198
+Alert|| Glucose = 459.69425854608266 || Time(sec)=199
+
+Alerts for fault 137::
+
+Alerts for fault 138::
+
+Alerts for fault 139::
+
+Alerts for fault 140::
+
+Alerts for fault 141::
+Alert|| Glucose = 252.82348436214843 || Time(sec)=112
+Alert|| Glucose = 255.8030682615009 || Time(sec)=113
+Alert|| Glucose = 258.78473776772626 || Time(sec)=114
+Alert|| Glucose = 261.76730843182645 || Time(sec)=115
+Alert|| Glucose = 264.74963529335406 || Time(sec)=116
+Alert|| Glucose = 267.73061255005854 || Time(sec)=117
+Alert|| Glucose = 270.7091731862693 || Time(sec)=118
+Alert|| Glucose = 273.68428856159323 || Time(sec)=119
+Alert|| Glucose = 276.65496796168344 || Time(sec)=120
+Alert|| Glucose = 279.62025811298764 || Time(sec)=121
+Alert|| Glucose = 282.5792426635096 || Time(sec)=122
+Alert|| Glucose = 285.5310416317185 || Time(sec)=123
+Alert|| Glucose = 288.4748108258158 || Time(sec)=124
+Alert|| Glucose = 291.4097412356255 || Time(sec)=125
+Alert|| Glucose = 294.3350583994058 || Time(sec)=126
+Alert|| Glucose = 297.25002174789483 || Time(sec)=127
+Alert|| Glucose = 300.15392392790136 || Time(sec)=128
+Alert|| Glucose = 303.0460901077319 || Time(sec)=129
+Alert|| Glucose = 305.9258772667138 || Time(sec)=130
+Alert|| Glucose = 308.792673471029 || Time(sec)=131
+Alert|| Glucose = 311.6458971380179 || Time(sec)=132
+Alert|| Glucose = 314.4849962910481 || Time(sec)=133
+Alert|| Glucose = 317.3094478069687 || Time(sec)=134
+Alert|| Glucose = 320.11875665809436 || Time(sec)=135
+Alert|| Glucose = 322.91245515057557 || Time(sec)=136
+Alert|| Glucose = 325.6901021609259 || Time(sec)=137
+Alert|| Glucose = 328.45128237238237 || Time(sec)=138
+Alert|| Glucose = 331.1956055126832 || Time(sec)=139
+Alert|| Glucose = 333.922705594751 || Time(sec)=140
+Alert|| Glucose = 336.63224016167345 || Time(sec)=141
+Alert|| Glucose = 339.3238895372785 || Time(sec)=142
+Alert|| Glucose = 341.99735608350613 || Time(sec)=143
+Alert|| Glucose = 344.65236346568486 || Time(sec)=144
+Alert|| Glucose = 347.2886559267304 || Time(sec)=145
+Alert|| Glucose = 349.90599757119395 || Time(sec)=146
+Alert|| Glucose = 352.5041716600006 || Time(sec)=147
+Alert|| Glucose = 355.08297991663585 || Time(sec)=148
+Alert|| Glucose = 357.64224184545486 || Time(sec)=149
+Alert|| Glucose = 360.1817940627148 || Time(sec)=150
+Alert|| Glucose = 362.70148964085354 || Time(sec)=151
+Alert|| Glucose = 365.20119746646947 || Time(sec)=152
+Alert|| Glucose = 367.68080161238896 || Time(sec)=153
+Alert|| Glucose = 370.14020072414576 || Time(sec)=154
+Alert|| Glucose = 372.5793074211357 || Time(sec)=155
+Alert|| Glucose = 374.9980477126551 || Time(sec)=156
+Alert|| Glucose = 377.39636042897735 || Time(sec)=157
+Alert|| Glucose = 379.7741966675752 || Time(sec)=158
+Alert|| Glucose = 382.13151925454775 || Time(sec)=159
+Alert|| Glucose = 384.4683022212718 || Time(sec)=160
+Alert|| Glucose = 386.78453029625626 || Time(sec)=161
+Alert|| Glucose = 389.0801984121426 || Time(sec)=162
+Alert|| Glucose = 391.3553112277624 || Time(sec)=163
+Alert|| Glucose = 393.60988266513215 || Time(sec)=164
+Alert|| Glucose = 395.8439354612376 || Time(sec)=165
+Alert|| Glucose = 398.05750073443744 || Time(sec)=166
+Alert|| Glucose = 400.2506175652914 || Time(sec)=167
+Alert|| Glucose = 402.4233325915997 || Time(sec)=168
+Alert|| Glucose = 404.57569961742286 || Time(sec)=169
+Alert|| Glucose = 406.70777923583495 || Time(sec)=170
+Alert|| Glucose = 408.8196384651508 || Time(sec)=171
+Alert|| Glucose = 410.91135039835507 || Time(sec)=172
+Alert|| Glucose = 412.9829938654523 || Time(sec)=173
+Alert|| Glucose = 415.0346531084473 || Time(sec)=174
+Alert|| Glucose = 417.06641746866075 || Time(sec)=175
+Alert|| Glucose = 419.07838108607694 || Time(sec)=176
+Alert|| Glucose = 421.0706426104186 || Time(sec)=177
+Alert|| Glucose = 423.0433049236398 || Time(sec)=178
+Alert|| Glucose = 424.99647487352695 || Time(sec)=179
+Alert|| Glucose = 426.9302630180954 || Time(sec)=180
+Alert|| Glucose = 428.84478338047234 || Time(sec)=181
+Alert|| Glucose = 430.7401532139545 || Time(sec)=182
+Alert|| Glucose = 432.6164927769329 || Time(sec)=183
+Alert|| Glucose = 434.4739251173785 || Time(sec)=184
+Alert|| Glucose = 436.31257586658626 || Time(sec)=185
+Alert|| Glucose = 438.1325730418779 || Time(sec)=186
+Alert|| Glucose = 439.9340468579681 || Time(sec)=187
+Alert|| Glucose = 441.7171295467039 || Time(sec)=188
+Alert|| Glucose = 443.481955184891 || Time(sec)=189
+Alert|| Glucose = 445.22865952992635 || Time(sec)=190
+Alert|| Glucose = 446.9573798629624 || Time(sec)=191
+Alert|| Glucose = 448.6682548393328 || Time(sec)=192
+Alert|| Glucose = 450.36142434597684 || Time(sec)=193
+Alert|| Glucose = 452.03702936560484 || Time(sec)=194
+Alert|| Glucose = 453.6952118473534 || Time(sec)=195
+Alert|| Glucose = 455.33611458368574 || Time(sec)=196
+Alert|| Glucose = 456.959881093299 || Time(sec)=197
+Alert|| Glucose = 458.5666555098057 || Time(sec)=198
+Alert|| Glucose = 460.1565824759652 || Time(sec)=199
+
+Alerts for fault 142::
+Alert|| Glucose = 252.82348436214843 || Time(sec)=112
+Alert|| Glucose = 255.8030682615009 || Time(sec)=113
+Alert|| Glucose = 258.78473776772626 || Time(sec)=114
+Alert|| Glucose = 261.76730843182645 || Time(sec)=115
+Alert|| Glucose = 264.74963529335406 || Time(sec)=116
+Alert|| Glucose = 267.73061255005854 || Time(sec)=117
+Alert|| Glucose = 270.7091731862693 || Time(sec)=118
+Alert|| Glucose = 273.68428856159323 || Time(sec)=119
+Alert|| Glucose = 276.65496796168344 || Time(sec)=120
+Alert|| Glucose = 279.62025811298764 || Time(sec)=121
+Alert|| Glucose = 282.5792426635096 || Time(sec)=122
+Alert|| Glucose = 285.5310416317185 || Time(sec)=123
+Alert|| Glucose = 288.4748108258158 || Time(sec)=124
+Alert|| Glucose = 291.4097412356255 || Time(sec)=125
+Alert|| Glucose = 294.3350583994058 || Time(sec)=126
+Alert|| Glucose = 297.25002174789483 || Time(sec)=127
+Alert|| Glucose = 300.15392392790136 || Time(sec)=128
+Alert|| Glucose = 303.0460901077319 || Time(sec)=129
+Alert|| Glucose = 305.9258772667138 || Time(sec)=130
+Alert|| Glucose = 308.792673471029 || Time(sec)=131
+Alert|| Glucose = 311.6458971380179 || Time(sec)=132
+Alert|| Glucose = 314.4849962910481 || Time(sec)=133
+Alert|| Glucose = 317.3094478069687 || Time(sec)=134
+Alert|| Glucose = 320.11875665809436 || Time(sec)=135
+Alert|| Glucose = 322.91245515057557 || Time(sec)=136
+Alert|| Glucose = 325.6901021609259 || Time(sec)=137
+Alert|| Glucose = 328.45128237238237 || Time(sec)=138
+Alert|| Glucose = 331.1956055126832 || Time(sec)=139
+Alert|| Glucose = 333.922705594751 || Time(sec)=140
+Alert|| Glucose = 336.63224016167345 || Time(sec)=141
+Alert|| Glucose = 339.3238895372785 || Time(sec)=142
+Alert|| Glucose = 341.99735608350613 || Time(sec)=143
+Alert|| Glucose = 344.65236346568486 || Time(sec)=144
+Alert|| Glucose = 347.2886559267304 || Time(sec)=145
+Alert|| Glucose = 349.90599757119395 || Time(sec)=146
+Alert|| Glucose = 352.5041716600006 || Time(sec)=147
+Alert|| Glucose = 355.08297991663585 || Time(sec)=148
+Alert|| Glucose = 357.64224184545486 || Time(sec)=149
+Alert|| Glucose = 360.1817940627148 || Time(sec)=150
+Alert|| Glucose = 362.70148964085354 || Time(sec)=151
+Alert|| Glucose = 365.20119746646947 || Time(sec)=152
+Alert|| Glucose = 367.68080161238896 || Time(sec)=153
+Alert|| Glucose = 370.14020072414576 || Time(sec)=154
+Alert|| Glucose = 372.5793074211357 || Time(sec)=155
+Alert|| Glucose = 374.9980477126551 || Time(sec)=156
+Alert|| Glucose = 377.39636042897735 || Time(sec)=157
+Alert|| Glucose = 379.7741966675752 || Time(sec)=158
+Alert|| Glucose = 382.13151925454775 || Time(sec)=159
+Alert|| Glucose = 384.4683022212718 || Time(sec)=160
+Alert|| Glucose = 386.78453029625626 || Time(sec)=161
+Alert|| Glucose = 389.0801984121426 || Time(sec)=162
+Alert|| Glucose = 391.3553112277624 || Time(sec)=163
+Alert|| Glucose = 393.60988266513215 || Time(sec)=164
+Alert|| Glucose = 395.8439354612376 || Time(sec)=165
+Alert|| Glucose = 398.05750073443744 || Time(sec)=166
+Alert|| Glucose = 400.2506175652914 || Time(sec)=167
+Alert|| Glucose = 402.4233325915997 || Time(sec)=168
+Alert|| Glucose = 404.57569961742286 || Time(sec)=169
+Alert|| Glucose = 406.70777923583495 || Time(sec)=170
+Alert|| Glucose = 408.8196384651508 || Time(sec)=171
+Alert|| Glucose = 410.91135039835507 || Time(sec)=172
+Alert|| Glucose = 412.9829938654523 || Time(sec)=173
+Alert|| Glucose = 415.0346531084473 || Time(sec)=174
+Alert|| Glucose = 417.06641746866075 || Time(sec)=175
+Alert|| Glucose = 419.07838108607694 || Time(sec)=176
+Alert|| Glucose = 421.0706426104186 || Time(sec)=177
+Alert|| Glucose = 423.0433049236398 || Time(sec)=178
+Alert|| Glucose = 424.99647487352695 || Time(sec)=179
+Alert|| Glucose = 426.9302630180954 || Time(sec)=180
+Alert|| Glucose = 428.84478338047234 || Time(sec)=181
+Alert|| Glucose = 430.7401532139545 || Time(sec)=182
+Alert|| Glucose = 432.6164927769329 || Time(sec)=183
+Alert|| Glucose = 434.4739251173785 || Time(sec)=184
+Alert|| Glucose = 436.31257586658626 || Time(sec)=185
+Alert|| Glucose = 438.1325730418779 || Time(sec)=186
+Alert|| Glucose = 439.9340468579681 || Time(sec)=187
+Alert|| Glucose = 441.7171295467039 || Time(sec)=188
+Alert|| Glucose = 443.481955184891 || Time(sec)=189
+Alert|| Glucose = 445.22865952992635 || Time(sec)=190
+Alert|| Glucose = 446.9573798629624 || Time(sec)=191
+Alert|| Glucose = 448.6682548393328 || Time(sec)=192
+Alert|| Glucose = 450.36142434597684 || Time(sec)=193
+Alert|| Glucose = 452.03702936560484 || Time(sec)=194
+Alert|| Glucose = 453.6952118473534 || Time(sec)=195
+Alert|| Glucose = 455.33611458368574 || Time(sec)=196
+Alert|| Glucose = 456.959881093299 || Time(sec)=197
+Alert|| Glucose = 458.5666555098057 || Time(sec)=198
+Alert|| Glucose = 460.1565824759652 || Time(sec)=199
+
+Alerts for fault 143::
+Alert|| Glucose = 252.75889853452767 || Time(sec)=198
+Alert|| Glucose = 255.6928452756024 || Time(sec)=199
+
+Alerts for fault 144::
+
+Alerts for fault 145::
+
+Alerts for fault 146::
+Alert|| Glucose = 252.845855032502 || Time(sec)=167
+Alert|| Glucose = 255.78059658135572 || Time(sec)=168
+Alert|| Glucose = 258.71938951054483 || Time(sec)=169
+Alert|| Glucose = 261.6609994190038 || Time(sec)=170
+Alert|| Glucose = 264.6042309155927 || Time(sec)=171
+Alert|| Glucose = 267.54792746173064 || Time(sec)=172
+Alert|| Glucose = 270.4909711571281 || Time(sec)=173
+Alert|| Glucose = 273.43228247147243 || Time(sec)=174
+Alert|| Glucose = 276.370819924964 || Time(sec)=175
+Alert|| Glucose = 279.30557972063446 || Time(sec)=176
+Alert|| Glucose = 282.2355953314032 || Time(sec)=177
+Alert|| Glucose = 285.15993704484055 || Time(sec)=178
+Alert|| Glucose = 288.07771146860796 || Time(sec)=179
+Alert|| Glucose = 290.98806099953435 || Time(sec)=180
+Alert|| Glucose = 293.8901632592643 || Time(sec)=181
+Alert|| Glucose = 296.7832304993787 || Time(sec)=182
+Alert|| Glucose = 299.66650897884324 || Time(sec)=183
+Alert|| Glucose = 302.5392783165815 || Time(sec)=184
+Alert|| Glucose = 305.4008508219049 || Time(sec)=185
+Alert|| Glucose = 308.25057080545554 || Time(sec)=186
+Alert|| Glucose = 311.0878138732354 || Time(sec)=187
+Alert|| Glucose = 313.91198620620554 || Time(sec)=188
+Alert|| Glucose = 316.7225238278438 || Time(sec)=189
+Alert|| Glucose = 319.5188918619493 || Time(sec)=190
+Alert|| Glucose = 322.30058378287833 || Time(sec)=191
+Alert|| Glucose = 325.0671206602883 || Time(sec)=192
+Alert|| Glucose = 327.8180504003601 || Time(sec)=193
+Alert|| Glucose = 330.5529469853558 || Time(sec)=194
+Alert|| Glucose = 333.27140971326133 || Time(sec)=195
+Alert|| Glucose = 335.97306243915176 || Time(sec)=196
+Alert|| Glucose = 338.65755281980745 || Time(sec)=197
+Alert|| Glucose = 341.3245515630023 || Time(sec)=198
+Alert|| Glucose = 343.9737516827786 || Time(sec)=199
+
+Alerts for fault 147::
+
+Alerts for fault 148::
+Alert|| Glucose = 251.7097737392451 || Time(sec)=131
+Alert|| Glucose = 254.67009558477548 || Time(sec)=132
+Alert|| Glucose = 257.63364661078947 || Time(sec)=133
+Alert|| Glucose = 260.5992217021852 || Time(sec)=134
+Alert|| Glucose = 263.5656537751417 || Time(sec)=135
+Alert|| Glucose = 266.53181364760434 || Time(sec)=136
+Alert|| Glucose = 269.49660985244486 || Time(sec)=137
+Alert|| Glucose = 272.45898839607196 || Time(sec)=138
+Alert|| Glucose = 275.41793246533456 || Time(sec)=139
+Alert|| Glucose = 278.3724620856131 || Time(sec)=140
+Alert|| Glucose = 281.3216337330333 || Time(sec)=141
+Alert|| Glucose = 281.3216337330333 || Time(sec)=142
+Alert|| Glucose = 281.3216337330333 || Time(sec)=143
+Alert|| Glucose = 281.3216337330333 || Time(sec)=144
+Alert|| Glucose = 281.3216337330333 || Time(sec)=145
+Alert|| Glucose = 281.3216337330333 || Time(sec)=146
+Alert|| Glucose = 281.3216337330333 || Time(sec)=147
+
+Alerts for fault 149::
+Alert|| Glucose = 250.1718920637428 || Time(sec)=126
+Alert|| Glucose = 253.13590146016614 || Time(sec)=127
+Alert|| Glucose = 256.1035335006251 || Time(sec)=128
+Alert|| Glucose = 259.07356863907773 || Time(sec)=129
+Alert|| Glucose = 262.0448255709853 || Time(sec)=130
+Alert|| Glucose = 265.01616110395855 || Time(sec)=131
+Alert|| Glucose = 267.98646997232476 || Time(sec)=132
+Alert|| Glucose = 270.9546845981358 || Time(sec)=133
+Alert|| Glucose = 273.91977480123086 || Time(sec)=134
+Alert|| Glucose = 276.8807474610479 || Time(sec)=135
+Alert|| Glucose = 279.83664613294235 || Time(sec)=136
+Alert|| Glucose = 282.78655062181633 || Time(sec)=137
+Alert|| Glucose = 285.7295765158946 || Time(sec)=138
+Alert|| Glucose = 288.6648746834963 || Time(sec)=139
+Alert|| Glucose = 291.5916307356498 || Time(sec)=140
+Alert|| Glucose = 294.50906445738394 || Time(sec)=141
+Alert|| Glucose = 297.416429210496 || Time(sec)=142
+Alert|| Glucose = 300.31301131055596 || Time(sec)=143
+Alert|| Glucose = 303.1981293808511 || Time(sec)=144
+Alert|| Glucose = 306.0711336859105 || Time(sec)=145
+Alert|| Glucose = 308.93140544717386 || Time(sec)=146
+Alert|| Glucose = 311.77835614328797 || Time(sec)=147
+Alert|| Glucose = 314.61142679742403 || Time(sec)=148
+Alert|| Glucose = 317.43008725391417 || Time(sec)=149
+Alert|| Glucose = 320.23383544640615 || Time(sec)=150
+Alert|| Glucose = 323.0221966596321 || Time(sec)=151
+Alert|| Glucose = 325.79472278678037 || Time(sec)=152
+Alert|| Glucose = 328.5509915843536 || Time(sec)=153
+Alert|| Glucose = 331.29060592628525 || Time(sec)=154
+Alert|| Glucose = 334.01319305897994 || Time(sec)=155
+Alert|| Glucose = 336.71840385883354 || Time(sec)=156
+Alert|| Glucose = 339.40591209368216 || Time(sec)=157
+Alert|| Glucose = 342.07541368952326 || Time(sec)=158
+Alert|| Glucose = 344.72662600374895 || Time(sec)=159
+Alert|| Glucose = 347.35928710603037 || Time(sec)=160
+Alert|| Glucose = 349.97315506789374 || Time(sec)=161
+Alert|| Glucose = 352.5680072619344 || Time(sec)=162
+Alert|| Glucose = 355.14363967152264 || Time(sec)=163
+Alert|| Glucose = 357.6998662117682 || Time(sec)=164
+Alert|| Glucose = 360.2365180624253 || Time(sec)=165
+Alert|| Glucose = 362.7534430133401 || Time(sec)=166
+Alert|| Glucose = 365.2505048229662 || Time(sec)=167
+Alert|| Glucose = 367.72758259040154 || Time(sec)=168
+Alert|| Glucose = 370.1845701413303 || Time(sec)=169
+Alert|| Glucose = 372.62137542819096 || Time(sec)=170
+Alert|| Glucose = 375.03791994482935 || Time(sec)=171
+Alert|| Glucose = 377.43413815583995 || Time(sec)=172
+Alert|| Glucose = 379.8099769407448 || Time(sec)=173
+Alert|| Glucose = 382.16539505311107 || Time(sec)=174
+Alert|| Glucose = 384.5003625946622 || Time(sec)=175
+Alert|| Glucose = 386.8148605043947 || Time(sec)=176
+Alert|| Glucose = 389.10888006267555 || Time(sec)=177
+Alert|| Glucose = 391.3824224102576 || Time(sec)=178
+Alert|| Glucose = 393.63549808211883 || Time(sec)=179
+Alert|| Glucose = 395.8681265560018 || Time(sec)=180
+Alert|| Glucose = 398.080335815502 || Time(sec)=181
+Alert|| Glucose = 400.2721619275305 || Time(sec)=182
+Alert|| Glucose = 402.44364863395424 || Time(sec)=183
+Alert|| Glucose = 404.59484695719794 || Time(sec)=184
+Alert|| Glucose = 406.72581481957457 || Time(sec)=185
+Alert|| Glucose = 408.836616676097 || Time(sec)=186
+Alert|| Glucose = 410.9273231605093 || Time(sec)=187
+Alert|| Glucose = 412.99801074426665 || Time(sec)=188
+Alert|| Glucose = 415.04876140818186 || Time(sec)=189
+Alert|| Glucose = 417.0796623264495 || Time(sec)=190
+Alert|| Glucose = 419.0908055627526 || Time(sec)=191
+Alert|| Glucose = 421.0822877781512 || Time(sec)=192
+Alert|| Glucose = 423.05420995044915 || Time(sec)=193
+Alert|| Glucose = 425.00667710473215 || Time(sec)=194
+Alert|| Glucose = 426.9397980547699 || Time(sec)=195
+Alert|| Glucose = 428.85368515497305 || Time(sec)=196
+Alert|| Glucose = 430.74845406259794 || Time(sec)=197
+Alert|| Glucose = 432.62422350989186 || Time(sec)=198
+Alert|| Glucose = 434.48111508587436 || Time(sec)=199
+
+Alerts for fault 150::
+Alert|| Glucose = 252.04233475891638 || Time(sec)=99
+Alert|| Glucose = 254.99682098773027 || Time(sec)=100
+Alert|| Glucose = 257.95508043319256 || Time(sec)=101
+Alert|| Glucose = 260.91585110204477 || Time(sec)=102
+Alert|| Glucose = 263.87791412124596 || Time(sec)=103
+Alert|| Glucose = 266.8400931907754 || Time(sec)=104
+Alert|| Glucose = 269.8012540125476 || Time(sec)=105
+Alert|| Glucose = 272.7603036954415 || Time(sec)=106
+Alert|| Glucose = 275.7161901367641 || Time(sec)=107
+Alert|| Glucose = 278.6679013807465 || Time(sec)=108
+Alert|| Glucose = 281.61446495491435 || Time(sec)=109
+Alert|| Glucose = 284.5549471853829 || Time(sec)=110
+Alert|| Glucose = 287.48845249230186 || Time(sec)=111
+Alert|| Glucose = 290.41412266682136 || Time(sec)=112
+Alert|| Glucose = 293.3311361310658 || Time(sec)=113
+Alert|| Glucose = 296.238707182695 || Time(sec)=114
+Alert|| Glucose = 299.13608522569643 || Time(sec)=115
+Alert|| Glucose = 302.02255398909966 || Time(sec)=116
+Alert|| Glucose = 304.8974307353273 || Time(sec)=117
+Alert|| Glucose = 307.7600654599068 || Time(sec)=118
+Alert|| Glucose = 310.6098400842577 || Time(sec)=119
+Alert|| Glucose = 313.44616764324934 || Time(sec)=120
+Alert|| Glucose = 316.26849146918914 || Time(sec)=121
+Alert|| Glucose = 319.07628437385927 || Time(sec)=122
+Alert|| Glucose = 321.8690478301665 || Time(sec)=123
+Alert|| Glucose = 324.6463111549107 || Time(sec)=124
+Alert|| Glucose = 327.4076306941121 || Time(sec)=125
+Alert|| Glucose = 330.1525890122668 || Time(sec)=126
+Alert|| Glucose = 332.8807940868269 || Time(sec)=127
+Alert|| Glucose = 335.5918785091237 || Time(sec)=128
+Alert|| Glucose = 338.28549869287644 || Time(sec)=129
+Alert|| Glucose = 340.96133409134677 || Time(sec)=130
+Alert|| Glucose = 343.6190864241229 || Time(sec)=131
+Alert|| Glucose = 346.2584789144357 || Time(sec)=132
+Alert|| Glucose = 348.879255537833 || Time(sec)=133
+Alert|| Glucose = 351.4811802829587 || Time(sec)=134
+Alert|| Glucose = 354.06403642511276 || Time(sec)=135
+Alert|| Glucose = 356.62762581319043 || Time(sec)=136
+Alert|| Glucose = 359.17176817053223 || Time(sec)=137
+Alert|| Glucose = 361.69630041014693 || Time(sec)=138
+Alert|| Glucose = 364.2010759647049 || Time(sec)=139
+Alert|| Glucose = 366.68596413163795 || Time(sec)=140
+Alert|| Glucose = 369.1508494336216 || Time(sec)=141
+Alert|| Glucose = 371.59563099466146 || Time(sec)=142
+Alert|| Glucose = 374.0202219319516 || Time(sec)=143
+Alert|| Glucose = 376.42454876362365 || Time(sec)=144
+Alert|| Glucose = 378.8085508324595 || Time(sec)=145
+Alert|| Glucose = 381.1721797455966 || Time(sec)=146
+Alert|| Glucose = 383.51539883021525 || Time(sec)=147
+Alert|| Glucose = 385.8381826051595 || Time(sec)=148
+Alert|| Glucose = 388.14051626840984 || Time(sec)=149
+Alert|| Glucose = 390.42239520029403 || Time(sec)=150
+Alert|| Glucose = 392.683824482293 || Time(sec)=151
+Alert|| Glucose = 394.9248184312742 || Time(sec)=152
+Alert|| Glucose = 397.1454001489597 || Time(sec)=153
+Alert|| Glucose = 399.3456010864159 || Time(sec)=154
+Alert|| Glucose = 401.52546062333266 || Time(sec)=155
+Alert|| Glucose = 403.6850256618424 || Time(sec)=156
+Alert|| Glucose = 405.8243502346162 || Time(sec)=157
+Alert|| Glucose = 407.9434951269587 || Time(sec)=158
+Alert|| Glucose = 410.0425275126159 || Time(sec)=159
+Alert|| Glucose = 412.1215206029974 || Time(sec)=160
+Alert|| Glucose = 414.18055330950864 || Time(sec)=161
+Alert|| Glucose = 416.21970991868216 || Time(sec)=162
+Alert|| Glucose = 418.23907977979167 || Time(sec)=163
+Alert|| Glucose = 420.2387570046291 || Time(sec)=164
+Alert|| Glucose = 422.2188401791225 || Time(sec)=165
+Alert|| Glucose = 424.1794320864707 || Time(sec)=166
+Alert|| Glucose = 426.12063944147127 || Time(sec)=167
+Alert|| Glucose = 428.04257263571776 || Time(sec)=168
+Alert|| Glucose = 429.9453454933436 || Time(sec)=169
+Alert|| Glucose = 431.8290750369929 || Time(sec)=170
+Alert|| Glucose = 433.6938812636999 || Time(sec)=171
+Alert|| Glucose = 435.53988693036365 || Time(sec)=172
+Alert|| Glucose = 437.3672173485064 || Time(sec)=173
+Alert|| Glucose = 439.17600018801073 || Time(sec)=174
+Alert|| Glucose = 440.96636528953286 || Time(sec)=175
+Alert|| Glucose = 442.73844448529746 || Time(sec)=176
+Alert|| Glucose = 444.4923714279819 || Time(sec)=177
+Alert|| Glucose = 446.22828142740565 || Time(sec)=178
+Alert|| Glucose = 447.9463112947463 || Time(sec)=179
+Alert|| Glucose = 449.646599194008 || Time(sec)=180
+Alert|| Glucose = 451.32928450047757 || Time(sec)=181
+Alert|| Glucose = 452.9945076659073 || Time(sec)=182
+Alert|| Glucose = 454.64241009017115 || Time(sec)=183
+Alert|| Glucose = 456.27313399914806 || Time(sec)=184
+Alert|| Glucose = 457.88682232859185 || Time(sec)=185
+Alert|| Glucose = 459.4836186137546 || Time(sec)=186
+Alert|| Glucose = 461.0636668845367 || Time(sec)=187
+Alert|| Glucose = 462.6271115659443 || Time(sec)=188
+Alert|| Glucose = 464.1740973836393 || Time(sec)=189
+Alert|| Glucose = 465.70476927437744 || Time(sec)=190
+Alert|| Glucose = 467.21927230113187 || Time(sec)=191
+Alert|| Glucose = 468.7177515727107 || Time(sec)=192
+Alert|| Glucose = 470.2003521676797 || Time(sec)=193
+Alert|| Glucose = 471.6672190624094 || Time(sec)=194
+Alert|| Glucose = 473.1184970630725 || Time(sec)=195
+Alert|| Glucose = 474.55433074142144 || Time(sec)=196
+Alert|| Glucose = 475.9748643741841 || Time(sec)=197
+Alert|| Glucose = 477.3802418859202 || Time(sec)=198
+Alert|| Glucose = 478.7706067951868 || Time(sec)=199
+
+Alerts for fault 151::
+Alert|| Glucose = 412.1215206029974 || Time(sec)=160
+Alert|| Glucose = 414.18055330950864 || Time(sec)=161
+Alert|| Glucose = 416.21970991868216 || Time(sec)=162
+Alert|| Glucose = 418.23907977979167 || Time(sec)=163
+Alert|| Glucose = 420.2387570046291 || Time(sec)=164
+Alert|| Glucose = 422.2188401791225 || Time(sec)=165
+Alert|| Glucose = 424.1794320864707 || Time(sec)=166
+Alert|| Glucose = 426.12063944147127 || Time(sec)=167
+Alert|| Glucose = 428.04257263571776 || Time(sec)=168
+Alert|| Glucose = 429.9453454933436 || Time(sec)=169
+Alert|| Glucose = 431.8290750369929 || Time(sec)=170
+Alert|| Glucose = 433.6938812636999 || Time(sec)=171
+Alert|| Glucose = 435.53988693036365 || Time(sec)=172
+Alert|| Glucose = 437.3672173485064 || Time(sec)=173
+Alert|| Glucose = 439.17600018801073 || Time(sec)=174
+Alert|| Glucose = 440.96636528953286 || Time(sec)=175
+Alert|| Glucose = 442.73844448529746 || Time(sec)=176
+Alert|| Glucose = 444.4923714279819 || Time(sec)=177
+Alert|| Glucose = 446.22828142740565 || Time(sec)=178
+Alert|| Glucose = 447.9463112947463 || Time(sec)=179
+Alert|| Glucose = 449.646599194008 || Time(sec)=180
+Alert|| Glucose = 451.32928450047757 || Time(sec)=181
+Alert|| Glucose = 452.9945076659073 || Time(sec)=182
+Alert|| Glucose = 454.64241009017115 || Time(sec)=183
+Alert|| Glucose = 456.27313399914806 || Time(sec)=184
+Alert|| Glucose = 457.88682232859185 || Time(sec)=185
+Alert|| Glucose = 459.4836186137546 || Time(sec)=186
+Alert|| Glucose = 461.0636668845367 || Time(sec)=187
+Alert|| Glucose = 462.6271115659443 || Time(sec)=188
+Alert|| Glucose = 464.1740973836393 || Time(sec)=189
+Alert|| Glucose = 465.70476927437744 || Time(sec)=190
+Alert|| Glucose = 467.21927230113187 || Time(sec)=191
+Alert|| Glucose = 468.7177515727107 || Time(sec)=192
+Alert|| Glucose = 470.2003521676797 || Time(sec)=193
+Alert|| Glucose = 471.6672190624094 || Time(sec)=194
+Alert|| Glucose = 473.1184970630725 || Time(sec)=195
+Alert|| Glucose = 474.55433074142144 || Time(sec)=196
+Alert|| Glucose = 475.9748643741841 || Time(sec)=197
+Alert|| Glucose = 477.3802418859202 || Time(sec)=198
+Alert|| Glucose = 478.7706067951868 || Time(sec)=199
+
+Alerts for fault 152::
+Alert|| Glucose = 250.1947477499405 || Time(sec)=182
+Alert|| Glucose = 253.12351134211028 || Time(sec)=183
+Alert|| Glucose = 256.05754694164654 || Time(sec)=184
+Alert|| Glucose = 258.9955811867889 || Time(sec)=185
+Alert|| Glucose = 261.93638001779556 || Time(sec)=186
+Alert|| Glucose = 264.87874855990157 || Time(sec)=187
+Alert|| Glucose = 267.8215309479099 || Time(sec)=188
+Alert|| Glucose = 270.7636100951347 || Time(sec)=189
+Alert|| Glucose = 273.70390740947363 || Time(sec)=190
+Alert|| Glucose = 276.6413824594322 || Time(sec)=191
+Alert|| Glucose = 279.57503259296533 || Time(sec)=192
+Alert|| Glucose = 282.50389251202915 || Time(sec)=193
+Alert|| Glucose = 285.4270338057541 || Time(sec)=194
+Alert|| Glucose = 288.34356444515527 || Time(sec)=195
+Alert|| Glucose = 291.2526282422886 || Time(sec)=196
+Alert|| Glucose = 294.15340427674124 || Time(sec)=197
+Alert|| Glucose = 297.04510629231214 || Time(sec)=198
+Alert|| Glucose = 299.9269820666957 || Time(sec)=199
+
+Alerts for fault 153::
+Alert|| Glucose = 250.9788922714188 || Time(sec)=103
+Alert|| Glucose = 253.94803873617164 || Time(sec)=104
+Alert|| Glucose = 256.9205757621336 || Time(sec)=105
+Alert|| Glucose = 259.89526133439546 || Time(sec)=106
+Alert|| Glucose = 262.87089524840286 || Time(sec)=107
+Alert|| Glucose = 265.8463186514841 || Time(sec)=108
+Alert|| Glucose = 268.82041355441896 || Time(sec)=109
+Alert|| Glucose = 271.7921023134759 || Time(sec)=110
+Alert|| Glucose = 274.7603470836331 || Time(sec)=111
+Alert|| Glucose = 277.7241492439482 || Time(sec)=112
+Alert|| Glucose = 280.6825487962577 || Time(sec)=113
+Alert|| Glucose = 283.6346237385726 || Time(sec)=114
+Alert|| Glucose = 286.57948941468675 || Time(sec)=115
+Alert|| Glucose = 289.5162978416414 || Time(sec)=116
+Alert|| Glucose = 292.4442370167847 || Time(sec)=117
+Alert|| Glucose = 295.3625302062382 || Time(sec)=118
+Alert|| Glucose = 298.2704352166327 || Time(sec)=119
+Alert|| Glucose = 301.167243652005 || Time(sec)=120
+Alert|| Glucose = 304.05228015775884 || Time(sec)=121
+Alert|| Glucose = 306.92490165358623 || Time(sec)=122
+Alert|| Glucose = 309.78449655722864 || Time(sec)=123
+Alert|| Glucose = 312.6304840009217 || Time(sec)=124
+Alert|| Glucose = 315.46231304232487 || Time(sec)=125
+Alert|| Glucose = 318.2794618716844 || Time(sec)=126
+Alert|| Glucose = 321.08143701691574 || Time(sec)=127
+Alert|| Glucose = 323.8677725482247 || Time(sec)=128
+Alert|| Glucose = 326.6380292838128 || Time(sec)=129
+Alert|| Glucose = 329.39179399813503 || Time(sec)=130
+Alert|| Glucose = 332.12867863409804 || Time(sec)=131
+Alert|| Glucose = 334.8483195205032 || Time(sec)=132
+Alert|| Glucose = 337.5503765959563 || Time(sec)=133
+Alert|| Glucose = 340.23453264037994 || Time(sec)=134
+Alert|| Glucose = 342.9004925151804 || Time(sec)=135
+Alert|| Glucose = 345.54798241303814 || Time(sec)=136
+Alert|| Glucose = 348.17674911820694 || Time(sec)=137
+Alert|| Glucose = 350.7865592781275 || Time(sec)=138
+Alert|| Glucose = 353.3771986870813 || Time(sec)=139
+Alert|| Glucose = 355.94847158253526 || Time(sec)=140
+Alert|| Glucose = 358.5001999547536 || Time(sec)=141
+Alert|| Glucose = 361.0322228701823 || Time(sec)=142
+Alert|| Glucose = 363.54439580904403 || Time(sec)=143
+Alert|| Glucose = 366.0365900175174 || Time(sec)=144
+Alert|| Glucose = 368.50869187481146 || Time(sec)=145
+Alert|| Glucose = 370.9606022753896 || Time(sec)=146
+Alert|| Glucose = 373.3922360265423 || Time(sec)=147
+Alert|| Glucose = 375.8035212614555 || Time(sec)=148
+Alert|| Glucose = 378.19439886787376 || Time(sec)=149
+Alert|| Glucose = 380.56482193241357 || Time(sec)=150
+Alert|| Glucose = 382.91475520053785 || Time(sec)=151
+Alert|| Glucose = 385.2441745521667 || Time(sec)=152
+Alert|| Glucose = 387.55306649286166 || Time(sec)=153
+Alert|| Glucose = 389.84142766048893 || Time(sec)=154
+Alert|| Glucose = 392.1092643472377 || Time(sec)=155
+Alert|| Glucose = 394.35659203684 || Time(sec)=156
+Alert|| Glucose = 396.5834349568174 || Time(sec)=157
+Alert|| Glucose = 398.7898256455538 || Time(sec)=158
+Alert|| Glucose = 400.97580453397654 || Time(sec)=159
+Alert|| Glucose = 403.14141954160954 || Time(sec)=160
+Alert|| Glucose = 405.2867256867449 || Time(sec)=161
+Alert|| Glucose = 407.41178471046885 || Time(sec)=162
+Alert|| Glucose = 409.5166647142637 || Time(sec)=163
+Alert|| Glucose = 411.6014398108979 || Time(sec)=164
+Alert|| Glucose = 413.6661897883087 || Time(sec)=165
+Alert|| Glucose = 415.7109997861748 || Time(sec)=166
+Alert|| Glucose = 417.7359599848692 || Time(sec)=167
+Alert|| Glucose = 419.7411653064816 || Time(sec)=168
+Alert|| Glucose = 421.7267151275929 || Time(sec)=169
+Alert|| Glucose = 423.6927130034858 || Time(sec)=170
+Alert|| Glucose = 425.63926640347177 || Time(sec)=171
+Alert|| Glucose = 427.5664864570178 || Time(sec)=172
+Alert|| Glucose = 429.47448771035357 || Time(sec)=173
+Alert|| Glucose = 431.36338789324554 || Time(sec)=174
+Alert|| Glucose = 433.2333076956227 || Time(sec)=175
+Alert|| Glucose = 435.08437055374526 || Time(sec)=176
+Alert|| Glucose = 436.91670244560856 || Time(sec)=177
+Alert|| Glucose = 438.7304316952804 || Time(sec)=178
+Alert|| Glucose = 440.5256887858731 || Time(sec)=179
+Alert|| Glucose = 442.3026061808577 || Time(sec)=180
+Alert|| Glucose = 444.06131815343167 || Time(sec)=181
+Alert|| Glucose = 445.80196062365883 || Time(sec)=182
+Alert|| Glucose = 447.52467100310406 || Time(sec)=183
+Alert|| Glucose = 449.2295880466927 || Time(sec)=184
+Alert|| Glucose = 450.91685171153 || Time(sec)=185
+Alert|| Glucose = 452.5866030224232 || Time(sec)=186
+Alert|| Glucose = 454.2389839438542 || Time(sec)=187
+Alert|| Glucose = 455.87413725815736 || Time(sec)=188
+Alert|| Glucose = 457.49220644966545 || Time(sec)=189
+Alert|| Glucose = 459.0933355945897 || Time(sec)=190
+Alert|| Glucose = 460.67766925641075 || Time(sec)=191
+Alert|| Glucose = 462.2453523865602 || Time(sec)=192
+Alert|| Glucose = 463.7965302301818 || Time(sec)=193
+Alert|| Glucose = 465.3313482367655 || Time(sec)=194
+Alert|| Glucose = 466.8499519754566 || Time(sec)=195
+Alert|| Glucose = 468.35248705484565 || Time(sec)=196
+Alert|| Glucose = 469.83909904705416 || Time(sec)=197
+Alert|| Glucose = 471.30993341593444 || Time(sec)=198
+Alert|| Glucose = 472.76513544921033 || Time(sec)=199
+
+Alerts for fault 154::
+Alert|| Glucose = 250.28273295404296 || Time(sec)=78
+Alert|| Glucose = 253.03013053230288 || Time(sec)=79
+Alert|| Glucose = 255.7918508389657 || Time(sec)=80
+Alert|| Glucose = 258.566265885037 || Time(sec)=81
+Alert|| Glucose = 261.35180017983936 || Time(sec)=82
+Alert|| Glucose = 264.1469300039627 || Time(sec)=83
+Alert|| Glucose = 266.9501826663452 || Time(sec)=84
+Alert|| Glucose = 269.7601357450794 || Time(sec)=85
+Alert|| Glucose = 272.57541631169505 || Time(sec)=86
+Alert|| Glucose = 275.39470013884244 || Time(sec)=87
+Alert|| Glucose = 278.21671089148526 || Time(sec)=88
+Alert|| Glucose = 281.0402193018945 || Time(sec)=89
+Alert|| Glucose = 283.86404232891584 || Time(sec)=90
+Alert|| Glucose = 286.68704230215207 || Time(sec)=91
+Alert|| Glucose = 289.5081260518613 || Time(sec)=92
+Alert|| Glucose = 292.3262440255129 || Time(sec)=93
+Alert|| Glucose = 295.1403893920691 || Time(sec)=94
+Alert|| Glucose = 297.9495971351708 || Time(sec)=95
+Alert|| Glucose = 300.7529431364949 || Time(sec)=96
+Alert|| Glucose = 303.5495432506251 || Time(sec)=97
+Alert|| Glucose = 306.33855237283547 || Time(sec)=98
+Alert|| Glucose = 309.11916350122397 || Time(sec)=99
+Alert|| Glucose = 311.89060679466104 || Time(sec)=100
+Alert|| Glucose = 314.65214862802634 || Time(sec)=101
+Alert|| Glucose = 317.40309064620595 || Time(sec)=102
+Alert|| Glucose = 320.14276881830693 || Time(sec)=103
+Alert|| Glucose = 322.8705524935214 || Time(sec)=104
+Alert|| Glucose = 325.5858434600383 || Time(sec)=105
+Alert|| Glucose = 328.2880750083569 || Time(sec)=106
+Alert|| Glucose = 330.97671100030806 || Time(sec)=107
+Alert|| Glucose = 333.65124494503175 || Time(sec)=108
+Alert|| Glucose = 336.31119908309967 || Time(sec)=109
+Alert|| Glucose = 338.9561234799071 || Time(sec)=110
+Alert|| Glucose = 341.58559512939 || Time(sec)=111
+Alert|| Glucose = 344.19921706905455 || Time(sec)=112
+Alert|| Glucose = 346.7966175072333 || Time(sec)=113
+Alert|| Glucose = 349.3774489634125 || Time(sec)=114
+Alert|| Glucose = 351.94138742240176 || Time(sec)=115
+Alert|| Glucose = 354.4881315030449 || Time(sec)=116
+Alert|| Glucose = 357.01740164210275 || Time(sec)=117
+Alert|| Glucose = 359.5289392938668 || Time(sec)=118
+Alert|| Glucose = 362.02250614599615 || Time(sec)=119
+Alert|| Glucose = 364.49788335200515 || Time(sec)=120
+Alert|| Glucose = 366.9548707807652 || Time(sec)=121
+Alert|| Glucose = 369.3932862833232 || Time(sec)=122
+Alert|| Glucose = 371.8129649772822 || Time(sec)=123
+Alert|| Glucose = 374.21375854893313 || Time(sec)=124
+Alert|| Glucose = 376.5955345732751 || Time(sec)=125
+Alert|| Glucose = 378.9581758520117 || Time(sec)=126
+Alert|| Glucose = 381.3015797695648 || Time(sec)=127
+Alert|| Glucose = 383.62565766710185 || Time(sec)=128
+Alert|| Glucose = 385.93033423453574 || Time(sec)=129
+Alert|| Glucose = 388.2155469204144 || Time(sec)=130
+Alert|| Glucose = 390.4812453595854 || Time(sec)=131
+Alert|| Glucose = 392.7273908184873 || Time(sec)=132
+Alert|| Glucose = 394.9539556578908 || Time(sec)=133
+Alert|| Glucose = 397.16092281288525 || Time(sec)=134
+Alert|| Glucose = 399.3482852898834 || Time(sec)=135
+Alert|| Glucose = 401.5160456803932 || Time(sec)=136
+Alert|| Glucose = 403.66421569128795 || Time(sec)=137
+Alert|| Glucose = 405.79281569128847 || Time(sec)=138
+Alert|| Glucose = 407.90187427335457 || Time(sec)=139
+Alert|| Glucose = 409.9914278326716 || Time(sec)=140
+Alert|| Glucose = 412.06152015990585 || Time(sec)=141
+Alert|| Glucose = 414.1122020493923 || Time(sec)=142
+Alert|| Glucose = 416.1435309219121 || Time(sec)=143
+Alert|| Glucose = 418.1555704617089 || Time(sec)=144
+Alert|| Glucose = 420.14839026738997 || Time(sec)=145
+Alert|| Glucose = 422.1220655163528 || Time(sec)=146
+Alert|| Glucose = 424.07667664237744 || Time(sec)=147
+Alert|| Glucose = 426.0123090260218 || Time(sec)=148
+Alert|| Glucose = 427.9290526974586 || Time(sec)=149
+Alert|| Glucose = 429.82700205139207 || Time(sec)=150
+Alert|| Glucose = 431.7062555736956 || Time(sec)=151
+Alert|| Glucose = 433.5669155794128 || Time(sec)=152
+Alert|| Glucose = 435.40908796176836 || Time(sec)=153
+Alert|| Glucose = 437.2328819518391 || Time(sec)=154
+Alert|| Glucose = 439.0384098885393 || Time(sec)=155
+Alert|| Glucose = 440.8257869985803 || Time(sec)=156
+Alert|| Glucose = 442.59513118606884 || Time(sec)=157
+Alert|| Glucose = 444.34656283141504 || Time(sec)=158
+Alert|| Glucose = 446.08020459922756 || Time(sec)=159
+Alert|| Glucose = 447.79618125487826 || Time(sec)=160
+Alert|| Glucose = 449.49461948942746 || Time(sec)=161
+Alert|| Glucose = 451.1756477526062 || Time(sec)=162
+Alert|| Glucose = 452.83939609356 || Time(sec)=163
+Alert|| Glucose = 454.48599600906556 || Time(sec)=164
+Alert|| Glucose = 456.1155802989386 || Time(sec)=165
+Alert|| Glucose = 457.72828292836 || Time(sec)=166
+Alert|| Glucose = 459.32423889685253 || Time(sec)=167
+Alert|| Glucose = 460.9035841136507 || Time(sec)=168
+Alert|| Glucose = 462.4664552792108 || Time(sec)=169
+Alert|| Glucose = 464.01298977261825 || Time(sec)=170
+Alert|| Glucose = 465.54332554465543 || Time(sec)=171
+Alert|| Glucose = 467.0576010163 || Time(sec)=172
+Alert|| Glucose = 468.5559549824328 || Time(sec)=173
+Alert|| Glucose = 470.03852652053985 || Time(sec)=174
+Alert|| Glucose = 471.5054549042005 || Time(sec)=175
+Alert|| Glucose = 472.95687952116197 || Time(sec)=176
+Alert|| Glucose = 474.3929397958048 || Time(sec)=177
+Alert|| Glucose = 475.8137751158137 || Time(sec)=178
+Alert|| Glucose = 477.2195247628717 || Time(sec)=179
+Alert|| Glucose = 478.61032784720413 || Time(sec)=180
+Alert|| Glucose = 479.98632324580456 || Time(sec)=181
+Alert|| Glucose = 481.3476495441806 || Time(sec)=182
+Alert|| Glucose = 482.694444981464 || Time(sec)=183
+Alert|| Glucose = 484.0268473987348 || Time(sec)=184
+Alert|| Glucose = 485.34499419041583 || Time(sec)=185
+Alert|| Glucose = 486.64902225859834 || Time(sec)=186
+Alert|| Glucose = 487.93906797016547 || Time(sec)=187
+Alert|| Glucose = 489.21526711658566 || Time(sec)=188
+Alert|| Glucose = 490.4777548762526 || Time(sec)=189
+Alert|| Glucose = 491.72666577925355 || Time(sec)=190
+Alert|| Glucose = 492.96213367445273 || Time(sec)=191
+Alert|| Glucose = 494.1842916987809 || Time(sec)=192
+Alert|| Glucose = 495.3932722486266 || Time(sec)=193
+Alert|| Glucose = 496.58920695322877 || Time(sec)=194
+Alert|| Glucose = 497.77222664997504 || Time(sec)=195
+Alert|| Glucose = 498.9424613615138 || Time(sec)=196
+Alert|| Glucose = 500.1000402745915 || Time(sec)=197
+Alert|| Glucose = 501.2450917205311 || Time(sec)=198
+Alert|| Glucose = 502.377743157271 || Time(sec)=199
+
+Alerts for fault 155::
+
+Alerts for fault 156::
+Alert|| Glucose = 250.60168325141692 || Time(sec)=169
+Alert|| Glucose = 253.52941539792786 || Time(sec)=170
+Alert|| Glucose = 256.4623058293266 || Time(sec)=171
+Alert|| Glucose = 259.39908660361056 || Time(sec)=172
+Alert|| Glucose = 262.33852886025295 || Time(sec)=173
+Alert|| Glucose = 265.2794427176148 || Time(sec)=174
+Alert|| Glucose = 268.22067711046 || Time(sec)=175
+Alert|| Glucose = 271.16111957046076 || Time(sec)=176
+Alert|| Glucose = 274.09969595262123 || Time(sec)=177
+Alert|| Glucose = 277.0353701105785 || Time(sec)=178
+Alert|| Glucose = 279.96714352376864 || Time(sec)=179
+Alert|| Glucose = 282.8940548794608 || Time(sec)=180
+Alert|| Glucose = 285.81517961266945 || Time(sec)=181
+Alert|| Glucose = 288.72962940694964 || Time(sec)=182
+Alert|| Glucose = 291.63655165906187 || Time(sec)=183
+Alert|| Glucose = 294.5351289104664 || Time(sec)=184
+Alert|| Glucose = 297.42457824856615 || Time(sec)=185
+Alert|| Glucose = 300.30415068056544 || Time(sec)=186
+Alert|| Glucose = 303.1731304827536 || Time(sec)=187
+Alert|| Glucose = 306.03083452794993 || Time(sec)=188
+Alert|| Glucose = 308.87661159376955 || Time(sec)=189
+Alert|| Glucose = 311.70984165428365 || Time(sec)=190
+Alert|| Glucose = 314.52993515755537 || Time(sec)=191
+Alert|| Glucose = 317.3363322914352 || Time(sec)=192
+Alert|| Glucose = 320.1285022398975 || Time(sec)=193
+Alert|| Glucose = 322.9059424320947 || Time(sec)=194
+Alert|| Glucose = 325.6681777861971 || Time(sec)=195
+Alert|| Glucose = 328.4147599499762 || Time(sec)=196
+Alert|| Glucose = 331.14526653997996 || Time(sec)=197
+Alert|| Glucose = 333.85930038103487 || Time(sec)=198
+Alert|| Glucose = 336.5564887477009 || Time(sec)=199
+
+Alerts for fault 157::
+Alert|| Glucose = 252.5796360419844 || Time(sec)=81
+Alert|| Glucose = 255.36887327564037 || Time(sec)=82
+Alert|| Glucose = 258.169682181245 || Time(sec)=83
+Alert|| Glucose = 260.9805232082171 || Time(sec)=84
+Alert|| Glucose = 263.7999078667876 || Time(sec)=85
+Alert|| Glucose = 266.6263979715492 || Time(sec)=86
+Alert|| Glucose = 269.458604871885 || Time(sec)=87
+Alert|| Glucose = 272.29518866857603 || Time(sec)=88
+Alert|| Glucose = 275.13485741614113 || Time(sec)=89
+Alert|| Glucose = 277.9763663107087 || Time(sec)=90
+Alert|| Glucose = 280.81851686345806 || Time(sec)=91
+Alert|| Glucose = 283.6601560598894 || Time(sec)=92
+Alert|| Glucose = 286.5001755053898 || Time(sec)=93
+Alert|| Glucose = 289.33751055774565 || Time(sec)=94
+Alert|| Glucose = 292.1711394474214 || Time(sec)=95
+Alert|| Glucose = 295.0000823865663 || Time(sec)=96
+Alert|| Glucose = 297.8234006678369 || Time(sec)=97
+Alert|| Glucose = 300.6401957542242 || Time(sec)=98
+Alert|| Glucose = 303.44960836115905 || Time(sec)=99
+Alert|| Glucose = 306.2508175322315 || Time(sec)=100
+Alert|| Glucose = 309.04303970990765 || Time(sec)=101
+Alert|| Glucose = 311.8255278026553 || Time(sec)=102
+Alert|| Glucose = 314.5975702499053 || Time(sec)=103
+Alert|| Glucose = 317.35849008627474 || Time(sec)=104
+Alert|| Glucose = 320.1076440064662 || Time(sec)=105
+Alert|| Glucose = 322.84442143223407 || Time(sec)=106
+Alert|| Glucose = 325.5682435827757 || Time(sec)=107
+Alert|| Glucose = 328.2785625498638 || Time(sec)=108
+Alert|| Glucose = 330.9748603789875 || Time(sec)=109
+Alert|| Glucose = 333.6566481577153 || Time(sec)=110
+Alert|| Glucose = 336.32346511243276 || Time(sec)=111
+Alert|| Glucose = 338.97487771454445 || Time(sec)=112
+Alert|| Glucose = 341.61047879716386 || Time(sec)=113
+Alert|| Glucose = 344.22988668324473 || Time(sec)=114
+Alert|| Glucose = 346.83274432603855 || Time(sec)=115
+Alert|| Glucose = 349.41871846269174 || Time(sec)=116
+Alert|| Glucose = 351.98749878172504 || Time(sec)=117
+Alert|| Glucose = 354.53879710506766 || Time(sec)=118
+Alert|| Glucose = 357.07234658524953 || Time(sec)=119
+Alert|| Glucose = 359.58790091828655 || Time(sec)=120
+Alert|| Glucose = 362.08523357272844 || Time(sec)=121
+Alert|| Glucose = 364.5641370352736 || Time(sec)=122
+Alert|| Glucose = 367.0244220732946 || Time(sec)=123
+Alert|| Glucose = 369.4659170145583 || Time(sec)=124
+Alert|| Glucose = 371.8884670443666 || Time(sec)=125
+Alert|| Glucose = 374.2919335202933 || Time(sec)=126
+Alert|| Glucose = 376.67619330463657 || Time(sec)=127
+Alert|| Glucose = 379.04113811466334 || Time(sec)=128
+Alert|| Glucose = 381.38667389067325 || Time(sec)=129
+Alert|| Glucose = 383.71272018186875 || Time(sec)=130
+Alert|| Glucose = 386.01920954997877 || Time(sec)=131
+Alert|| Glucose = 388.30608699054625 || Time(sec)=132
+Alert|| Glucose = 390.57330937175647 || Time(sec)=133
+Alert|| Glucose = 392.82084489065215 || Time(sec)=134
+Alert|| Glucose = 395.0486725465524 || Time(sec)=135
+Alert|| Glucose = 397.25678163146756 || Time(sec)=136
+Alert|| Glucose = 399.44517123727854 || Time(sec)=137
+Alert|| Glucose = 401.61384977942777 || Time(sec)=138
+Alert|| Glucose = 403.7628345368511 || Time(sec)=139
+Alert|| Glucose = 405.8921512078626 || Time(sec)=140
+Alert|| Glucose = 408.0018334816907 || Time(sec)=141
+Alert|| Glucose = 410.0919226253509 || Time(sec)=142
+Alert|| Glucose = 412.16246708552944 || Time(sec)=143
+Alert|| Glucose = 414.21352210514476 || Time(sec)=144
+Alert|| Glucose = 416.24514935424384 || Time(sec)=145
+Alert|| Glucose = 418.25741657488715 || Time(sec)=146
+Alert|| Glucose = 420.25039723966967 || Time(sec)=147
+Alert|| Glucose = 422.224170223523 || Time(sec)=148
+Alert|| Glucose = 424.17881948844166 || Time(sec)=149
+Alert|| Glucose = 426.1144337807755 || Time(sec)=150
+Alert|| Glucose = 428.03110634073033 || Time(sec)=151
+Alert|| Glucose = 429.92893462372 || Time(sec)=152
+Alert|| Glucose = 431.80802003321577 || Time(sec)=153
+Alert|| Glucose = 433.6684676647393 || Time(sec)=154
+Alert|| Glucose = 435.5103860606521 || Time(sec)=155
+Alert|| Glucose = 437.3338869753955 || Time(sec)=156
+Alert|| Glucose = 439.13908515084114 || Time(sec)=157
+Alert|| Glucose = 440.92609810141687 || Time(sec)=158
+Alert|| Glucose = 442.6950459086782 || Time(sec)=159
+Alert|| Glucose = 444.44605102500105 || Time(sec)=160
+Alert|| Glucose = 446.17923808607856 || Time(sec)=161
+Alert|| Glucose = 447.8947337319102 || Time(sec)=162
+Alert|| Glucose = 449.59266643597874 || Time(sec)=163
+Alert|| Glucose = 451.2731663423175 || Time(sec)=164
+Alert|| Glucose = 452.93636511017695 || Time(sec)=165
+Alert|| Glucose = 454.5823957660075 || Time(sec)=166
+Alert|| Glucose = 456.21139256248193 || Time(sec)=167
+Alert|| Glucose = 457.82349084428915 || Time(sec)=168
+Alert|| Glucose = 459.4188269204371 || Time(sec)=169
+Alert|| Glucose = 460.9975379428112 || Time(sec)=170
+Alert|| Glucose = 462.55976179074185 || Time(sec)=171
+Alert|| Glucose = 464.1056369613406 || Time(sec)=172
+Alert|| Glucose = 465.63530246537437 || Time(sec)=173
+Alert|| Glucose = 467.14889772845163 || Time(sec)=174
+Alert|| Glucose = 468.64656249730365 || Time(sec)=175
+Alert|| Glucose = 470.12843675095 || Time(sec)=176
+Alert|| Glucose = 471.5946606165445 || Time(sec)=177
+Alert|| Glucose = 473.045374289705 || Time(sec)=178
+Alert|| Glucose = 474.4807179591373 || Time(sec)=179
+Alert|| Glucose = 475.90083173536885 || Time(sec)=180
+Alert|| Glucose = 477.30585558341636 || Time(sec)=181
+Alert|| Glucose = 478.69592925921575 || Time(sec)=182
+Alert|| Glucose = 480.0711922496505 || Time(sec)=183
+Alert|| Glucose = 481.43178371602005 || Time(sec)=184
+Alert|| Glucose = 482.77784244079504 || Time(sec)=185
+Alert|| Glucose = 484.1095067775134 || Time(sec)=186
+Alert|| Glucose = 485.42691460367547 || Time(sec)=187
+Alert|| Glucose = 486.7302032765027 || Time(sec)=188
+Alert|| Glucose = 488.0195095914291 || Time(sec)=189
+Alert|| Glucose = 489.29496974319983 || Time(sec)=190
+Alert|| Glucose = 490.55671928945753 || Time(sec)=191
+Alert|| Glucose = 491.80489311669896 || Time(sec)=192
+Alert|| Glucose = 493.03962540849255 || Time(sec)=193
+Alert|| Glucose = 494.2610496158493 || Time(sec)=194
+Alert|| Glucose = 495.4692984296452 || Time(sec)=195
+Alert|| Glucose = 496.66450375499767 || Time(sec)=196
+Alert|| Glucose = 497.8467966875009 || Time(sec)=197
+Alert|| Glucose = 499.01630749123154 || Time(sec)=198
+Alert|| Glucose = 500.1731655784377 || Time(sec)=199
+
+Alerts for fault 158::
+Alert|| Glucose = 250.18885848964268 || Time(sec)=196
+Alert|| Glucose = 253.1251105038093 || Time(sec)=197
+Alert|| Glucose = 256.06624498648245 || Time(sec)=198
+Alert|| Glucose = 259.01100526947647 || Time(sec)=199
+
+Alerts for fault 159::
+Alert|| Glucose = 250.26087060023139 || Time(sec)=196
+Alert|| Glucose = 253.18955162374428 || Time(sec)=197
+Alert|| Glucose = 256.12348824950277 || Time(sec)=198
+Alert|| Glucose = 259.0614073025942 || Time(sec)=199
+
+Alerts for fault 160::
+Alert|| Glucose = 250.98302701395633 || Time(sec)=141
+Alert|| Glucose = 253.92750277336327 || Time(sec)=142
+Alert|| Glucose = 256.8761646356764 || Time(sec)=143
+Alert|| Glucose = 259.82778121011035 || Time(sec)=144
+Alert|| Glucose = 262.78115904637474 || Time(sec)=145
+Alert|| Glucose = 265.7351425718722 || Time(sec)=146
+Alert|| Glucose = 268.6886139662168 || Time(sec)=147
+Alert|| Glucose = 271.6404929762109 || Time(sec)=148
+Alert|| Glucose = 274.5897366744466 || Time(sec)=149
+Alert|| Glucose = 277.5353391647181 || Time(sec)=150
+Alert|| Glucose = 280.47633123744373 || Time(sec)=151
+Alert|| Glucose = 283.4117799782976 || Time(sec)=152
+Alert|| Glucose = 286.3407883332428 || Time(sec)=153
+Alert|| Glucose = 289.26249463313644 || Time(sec)=154
+Alert|| Glucose = 292.176072081046 || Time(sec)=155
+Alert|| Glucose = 295.0807282053729 || Time(sec)=156
+Alert|| Glucose = 297.97570428182496 || Time(sec)=157
+Alert|| Glucose = 300.8602747272168 || Time(sec)=158
+Alert|| Glucose = 303.7337464680023 || Time(sec)=159
+Alert|| Glucose = 306.5954582863634 || Time(sec)=160
+Alert|| Glucose = 309.4447801465886 || Time(sec)=161
+Alert|| Glucose = 312.2811125043805 || Time(sec)=162
+Alert|| Glucose = 315.1038856016292 || Time(sec)=163
+Alert|| Glucose = 317.9125587490834 || Time(sec)=164
+Alert|| Glucose = 320.70661959924075 || Time(sec)=165
+Alert|| Glucose = 323.48558341166745 || Time(sec)=166
+Alert|| Glucose = 326.2489923128429 || Time(sec)=167
+Alert|| Glucose = 328.99641455250895 || Time(sec)=168
+Alert|| Glucose = 331.7274437583892 || Time(sec)=169
+Alert|| Glucose = 334.44169819102706 || Time(sec)=170
+Alert|| Glucose = 337.1388200003781 || Time(sec)=171
+Alert|| Glucose = 339.8184744856784 || Time(sec)=172
+Alert|| Glucose = 342.4803493600008 || Time(sec)=173
+Alert|| Glucose = 345.12415402080137 || Time(sec)=174
+Alert|| Glucose = 347.7496188276542 || Time(sec)=175
+Alert|| Glucose = 350.3564943882694 || Time(sec)=176
+Alert|| Glucose = 352.9445508537901 || Time(sec)=177
+Alert|| Glucose = 355.5135772242694 || Time(sec)=178
+Alert|| Glucose = 358.06338066513746 || Time(sec)=179
+Alert|| Glucose = 360.5937858353789 || Time(sec)=180
+Alert|| Glucose = 363.1046342280605 || Time(sec)=181
+Alert|| Glucose = 365.5957835237671 || Time(sec)=182
+Alert|| Glucose = 368.06710695743055 || Time(sec)=183
+Alert|| Glucose = 370.5184926989632 || Time(sec)=184
+Alert|| Glucose = 372.9498432480433 || Time(sec)=185
+Alert|| Glucose = 375.3610748433341 || Time(sec)=186
+Alert|| Glucose = 377.7521168863617 || Time(sec)=187
+Alert|| Glucose = 380.12291138022005 || Time(sec)=188
+Alert|| Glucose = 382.473412383222 || Time(sec)=189
+Alert|| Glucose = 384.80358547756674 || Time(sec)=190
+Alert|| Glucose = 387.1134072530501 || Time(sec)=191
+Alert|| Glucose = 389.40286480580545 || Time(sec)=192
+Alert|| Glucose = 391.67195525202266 || Time(sec)=193
+Alert|| Glucose = 393.920685256563 || Time(sec)=194
+Alert|| Glucose = 396.1490705763527 || Time(sec)=195
+Alert|| Glucose = 398.35713561841334 || Time(sec)=196
+Alert|| Glucose = 400.54491301235964 || Time(sec)=197
+Alert|| Glucose = 402.7124431971745 || Time(sec)=198
+Alert|| Glucose = 404.8597740220493 || Time(sec)=199
+
+Alerts for fault 161::
+Alert|| Glucose = 250.25232557979447 || Time(sec)=150
+Alert|| Glucose = 253.20487560794416 || Time(sec)=151
+Alert|| Glucose = 256.1615493796295 || Time(sec)=152
+Alert|| Glucose = 259.12111207339166 || Time(sec)=153
+Alert|| Glucose = 262.08236729459054 || Time(sec)=154
+Alert|| Glucose = 265.0441569648841 || Time(sec)=155
+Alert|| Glucose = 268.0053611533345 || Time(sec)=156
+Alert|| Glucose = 270.9648978518915 || Time(sec)=157
+Alert|| Glucose = 273.9217226980673 || Time(sec)=158
+Alert|| Glucose = 276.87482864767065 || Time(sec)=159
+Alert|| Glucose = 279.8232456005108 || Time(sec)=160
+Alert|| Glucose = 282.7660399820093 || Time(sec)=161
+Alert|| Glucose = 285.7023142836741 || Time(sec)=162
+Alert|| Glucose = 288.6312065653905 || Time(sec)=163
+Alert|| Glucose = 291.55188992247224 || Time(sec)=164
+Alert|| Glucose = 294.46357192039 || Time(sec)=165
+Alert|| Glucose = 297.3654940000572 || Time(sec)=166
+Alert|| Glucose = 300.2569308565024 || Time(sec)=167
+Alert|| Glucose = 303.13718979369895 || Time(sec)=168
+Alert|| Glucose = 306.0056100582517 || Time(sec)=169
+Alert|| Glucose = 308.86156215456174 || Time(sec)=170
+Alert|| Glucose = 311.70444714400526 || Time(sec)=171
+Alert|| Glucose = 314.5336959305693 || Time(sec)=172
+Alert|| Glucose = 317.3487685352897 || Time(sec)=173
+Alert|| Glucose = 320.14915336173357 || Time(sec)=174
+Alert|| Glucose = 322.9343664546643 || Time(sec)=175
+Alert|| Glucose = 325.70395075391815 || Time(sec)=176
+Alert|| Glucose = 328.4574753454108 || Time(sec)=177
+Alert|| Glucose = 331.19453471108426 || Time(sec)=178
+Alert|| Glucose = 333.91474797949104 || Time(sec)=179
+Alert|| Glucose = 336.617758178604 || Time(sec)=180
+Alert|| Glucose = 339.3032314923312 || Time(sec)=181
+Alert|| Glucose = 341.9708565221072 || Time(sec)=182
+Alert|| Glucose = 344.62034355482825 || Time(sec)=183
+Alert|| Glucose = 347.2514238382943 || Time(sec)=184
+Alert|| Glucose = 349.863848865224 || Time(sec)=185
+Alert|| Glucose = 352.4573896668102 || Time(sec)=186
+Alert|| Glucose = 355.03183611669084 || Time(sec)=187
+Alert|| Glucose = 357.58699624612217 || Time(sec)=188
+Alert|| Glucose = 360.12269557105384 || Time(sec)=189
+Alert|| Glucose = 362.6387764317253 || Time(sec)=190
+Alert|| Glucose = 365.13509734532477 || Time(sec)=191
+Alert|| Glucose = 367.6115323721775 || Time(sec)=192
+Alert|| Glucose = 370.0679704958629 || Time(sec)=193
+Alert|| Glucose = 372.5043150175909 || Time(sec)=194
+Alert|| Glucose = 374.92048296511035 || Time(sec)=195
+Alert|| Glucose = 374.92048296511035 || Time(sec)=196
+Alert|| Glucose = 374.92048296511035 || Time(sec)=197
+Alert|| Glucose = 374.92048296511035 || Time(sec)=198
+Alert|| Glucose = 374.92048296511035 || Time(sec)=199
+
+Alerts for fault 162::
+Alert|| Glucose = 251.74204064493296 || Time(sec)=193
+Alert|| Glucose = 254.6456365765977 || Time(sec)=194
+Alert|| Glucose = 257.55503371784755 || Time(sec)=195
+Alert|| Glucose = 260.4689513053098 || Time(sec)=196
+Alert|| Glucose = 263.38614729886365 || Time(sec)=197
+Alert|| Glucose = 266.30541835238125 || Time(sec)=198
+Alert|| Glucose = 269.2255997175969 || Time(sec)=199
+
+Alerts for fault 163::
+Alert|| Glucose = 250.43369274469785 || Time(sec)=124
+Alert|| Glucose = 253.4009369434299 || Time(sec)=125
+Alert|| Glucose = 256.3715680809199 || Time(sec)=126
+Alert|| Glucose = 259.34437325481974 || Time(sec)=127
+Alert|| Glucose = 262.3181778197977 || Time(sec)=128
+Alert|| Glucose = 265.2918452425239 || Time(sec)=129
+Alert|| Glucose = 268.2642769017749 || Time(sec)=130
+Alert|| Glucose = 271.23441183610225 || Time(sec)=131
+Alert|| Glucose = 274.2012264416138 || Time(sec)=132
+Alert|| Glucose = 277.1637341225023 || Time(sec)=133
+Alert|| Glucose = 280.12098489702464 || Time(sec)=134
+Alert|| Glucose = 283.0720649616867 || Time(sec)=135
+Alert|| Glucose = 286.01609621642274 || Time(sec)=136
+Alert|| Glucose = 288.95223575357556 || Time(sec)=137
+Alert|| Glucose = 291.87967531348465 || Time(sec)=138
+Alert|| Glucose = 294.7976407094749 || Time(sec)=139
+Alert|| Glucose = 297.7053912250111 || Time(sec)=140
+Alert|| Glucose = 300.6022189857412 || Time(sec)=141
+Alert|| Glucose = 303.48744830909743 || Time(sec)=142
+Alert|| Glucose = 306.36043503406205 || Time(sec)=143
+Alert|| Glucose = 309.22056583362985 || Time(sec)=144
+Alert|| Glucose = 312.0672575124185 || Time(sec)=145
+Alert|| Glucose = 314.89995629178986 || Time(sec)=146
+Alert|| Glucose = 317.7181370847506 || Time(sec)=147
+Alert|| Glucose = 320.5213027628023 || Time(sec)=148
+Alert|| Glucose = 323.3089834168087 || Time(sec)=149
+Alert|| Glucose = 326.08073561384197 || Time(sec)=150
+Alert|| Glucose = 328.8361416518643 || Time(sec)=151
+Alert|| Glucose = 331.57480881399255 || Time(sec)=152
+Alert|| Glucose = 334.2963686239855 || Time(sec)=153
+Alert|| Glucose = 337.00047610448655 || Time(sec)=154
+Alert|| Glucose = 339.68680903944863 || Time(sec)=155
+Alert|| Glucose = 342.3550672420616 || Time(sec)=156
+Alert|| Glucose = 345.0049718294023 || Time(sec)=157
+Alert|| Glucose = 347.63626450492575 || Time(sec)=158
+Alert|| Glucose = 350.2487068498192 || Time(sec)=159
+Alert|| Glucose = 352.84207962414695 || Time(sec)=160
+Alert|| Glucose = 355.4161820786232 || Time(sec)=161
+Alert|| Glucose = 357.97083127776295 || Time(sec)=162
+Alert|| Glucose = 360.50586143507815 || Time(sec)=163
+Alert|| Glucose = 363.021123260906 || Time(sec)=164
+Alert|| Glucose = 365.5164833233822 || Time(sec)=165
+Alert|| Glucose = 367.9918234229986 || Time(sec)=166
+Alert|| Glucose = 370.4470399811188 || Time(sec)=167
+Alert|| Glucose = 372.88204344276033 || Time(sec)=168
+Alert|| Glucose = 375.29675769389286 || Time(sec)=169
+Alert|| Glucose = 377.6911194934455 || Time(sec)=170
+Alert|| Glucose = 380.0650779201649 || Time(sec)=171
+Alert|| Glucose = 382.4185938344158 || Time(sec)=172
+Alert|| Glucose = 384.75163935497244 || Time(sec)=173
+Alert|| Glucose = 387.06419735080635 || Time(sec)=174
+Alert|| Glucose = 389.3562609478383 || Time(sec)=175
+Alert|| Glucose = 391.6278330505869 || Time(sec)=176
+Alert|| Glucose = 393.8789258786152 || Time(sec)=177
+Alert|| Glucose = 396.10956051764543 || Time(sec)=178
+Alert|| Glucose = 398.3197664851887 || Time(sec)=179
+Alert|| Glucose = 400.5095813105098 || Time(sec)=180
+Alert|| Glucose = 402.67905012872774 || Time(sec)=181
+Alert|| Glucose = 404.82822528883355 || Time(sec)=182
+Alert|| Glucose = 406.95716597538996 || Time(sec)=183
+Alert|| Glucose = 409.0659378436627 || Time(sec)=184
+Alert|| Glucose = 411.15461266792147 || Time(sec)=185
+Alert|| Glucose = 413.22326800263676 || Time(sec)=186
+Alert|| Glucose = 415.27198685629014 || Time(sec)=187
+Alert|| Glucose = 417.3008573775086 || Time(sec)=188
+Alert|| Glucose = 419.3099725532257 || Time(sec)=189
+Alert|| Glucose = 421.2994299185703 || Time(sec)=190
+Alert|| Glucose = 423.2693312781773 || Time(sec)=191
+Alert|| Glucose = 425.2197824386146 || Time(sec)=192
+Alert|| Glucose = 427.1508929516182 || Time(sec)=193
+Alert|| Glucose = 429.06277586782767 || Time(sec)=194
+Alert|| Glucose = 430.9555475007138 || Time(sec)=195
+Alert|| Glucose = 432.829327200393 || Time(sec)=196
+Alert|| Glucose = 434.68423713702384 || Time(sec)=197
+Alert|| Glucose = 436.5204020934848 || Time(sec)=198
+Alert|| Glucose = 438.33794926703473 || Time(sec)=199
+
+Alerts for fault 164::
+Alert|| Glucose = 250.94470070501885 || Time(sec)=160
+Alert|| Glucose = 253.87630265069933 || Time(sec)=161
+Alert|| Glucose = 256.81275129142523 || Time(sec)=162
+Alert|| Glucose = 259.7527895790662 || Time(sec)=163
+Alert|| Glucose = 262.6951993077651 || Time(sec)=164
+Alert|| Glucose = 265.6388010143551 || Time(sec)=165
+Alert|| Glucose = 268.5824538185055 || Time(sec)=166
+Alert|| Glucose = 271.5250552055474 || Time(sec)=167
+Alert|| Glucose = 274.46554075496533 || Time(sec)=168
+Alert|| Glucose = 277.40288381757017 || Time(sec)=169
+Alert|| Glucose = 280.3360951443911 || Time(sec)=170
+Alert|| Glucose = 283.26422247033634 || Time(sec)=171
+Alert|| Glucose = 286.18635005567364 || Time(sec)=172
+Alert|| Glucose = 289.10159818837184 || Time(sec)=173
+Alert|| Glucose = 292.0091226503232 || Time(sec)=174
+Alert|| Glucose = 294.90811415043333 || Time(sec)=175
+Alert|| Glucose = 297.79779772752096 || Time(sec)=176
+Alert|| Glucose = 300.67743212591597 || Time(sec)=177
+Alert|| Glucose = 303.54630914657884 || Time(sec)=178
+Alert|| Glucose = 306.40375297649166 || Time(sec)=179
+Alert|| Glucose = 309.24911949898933 || Time(sec)=180
+Alert|| Glucose = 312.08179558761094 || Time(sec)=181
+Alert|| Glucose = 314.90119838595666 || Time(sec)=182
+Alert|| Glucose = 317.70677457593575 || Time(sec)=183
+Alert|| Glucose = 320.4979996366869 || Time(sec)=184
+Alert|| Glucose = 323.2743770963456 || Time(sec)=185
+Alert|| Glucose = 326.0354377787223 || Time(sec)=186
+Alert|| Glucose = 328.7807390468463 || Time(sec)=187
+Alert|| Glucose = 331.50986404521404 || Time(sec)=188
+Alert|| Glucose = 334.2224209424744 || Time(sec)=189
+Alert|| Glucose = 336.9180421761658 || Time(sec)=190
+Alert|| Glucose = 339.5963837010145 || Time(sec)=191
+Alert|| Glucose = 342.2571242421924 || Time(sec)=192
+Alert|| Glucose = 344.89996455482657 || Time(sec)=193
+Alert|| Glucose = 347.5246266909492 || Time(sec)=194
+Alert|| Glucose = 350.1308532749759 || Time(sec)=195
+Alert|| Glucose = 352.7184067887014 || Time(sec)=196
+Alert|| Glucose = 355.2870688667094 || Time(sec)=197
+Alert|| Glucose = 357.8366396030003 || Time(sec)=198
+Alert|| Glucose = 360.36693686955596 || Time(sec)=199
+
+Alerts for fault 165::
+Alert|| Glucose = 250.94470070501885 || Time(sec)=160
+Alert|| Glucose = 253.87630265069933 || Time(sec)=161
+Alert|| Glucose = 256.81275129142523 || Time(sec)=162
+Alert|| Glucose = 259.7527895790662 || Time(sec)=163
+Alert|| Glucose = 262.6951993077651 || Time(sec)=164
+Alert|| Glucose = 265.6388010143551 || Time(sec)=165
+Alert|| Glucose = 268.5824538185055 || Time(sec)=166
+Alert|| Glucose = 271.5250552055474 || Time(sec)=167
+Alert|| Glucose = 274.46554075496533 || Time(sec)=168
+Alert|| Glucose = 277.40288381757017 || Time(sec)=169
+Alert|| Glucose = 280.3360951443911 || Time(sec)=170
+Alert|| Glucose = 283.26422247033634 || Time(sec)=171
+Alert|| Glucose = 286.18635005567364 || Time(sec)=172
+Alert|| Glucose = 289.10159818837184 || Time(sec)=173
+Alert|| Glucose = 292.0091226503232 || Time(sec)=174
+Alert|| Glucose = 294.90811415043333 || Time(sec)=175
+Alert|| Glucose = 297.79779772752096 || Time(sec)=176
+Alert|| Glucose = 300.67743212591597 || Time(sec)=177
+Alert|| Glucose = 303.54630914657884 || Time(sec)=178
+Alert|| Glucose = 306.40375297649166 || Time(sec)=179
+Alert|| Glucose = 309.24911949898933 || Time(sec)=180
+Alert|| Glucose = 312.08179558761094 || Time(sec)=181
+Alert|| Glucose = 314.90119838595666 || Time(sec)=182
+Alert|| Glucose = 317.70677457593575 || Time(sec)=183
+Alert|| Glucose = 320.4979996366869 || Time(sec)=184
+Alert|| Glucose = 323.2743770963456 || Time(sec)=185
+Alert|| Glucose = 326.0354377787223 || Time(sec)=186
+Alert|| Glucose = 328.7807390468463 || Time(sec)=187
+Alert|| Glucose = 331.50986404521404 || Time(sec)=188
+Alert|| Glucose = 334.2224209424744 || Time(sec)=189
+Alert|| Glucose = 336.9180421761658 || Time(sec)=190
+Alert|| Glucose = 339.5963837010145 || Time(sec)=191
+Alert|| Glucose = 342.2571242421924 || Time(sec)=192
+Alert|| Glucose = 344.89996455482657 || Time(sec)=193
+Alert|| Glucose = 347.5246266909492 || Time(sec)=194
+Alert|| Glucose = 350.1308532749759 || Time(sec)=195
+Alert|| Glucose = 352.7184067887014 || Time(sec)=196
+Alert|| Glucose = 355.2870688667094 || Time(sec)=197
+Alert|| Glucose = 357.8366396030003 || Time(sec)=198
+Alert|| Glucose = 360.36693686955596 || Time(sec)=199
+
+Alerts for fault 166::
+
+Alerts for fault 167::
+
+Alerts for fault 168::
+
+Alerts for fault 169::
+
+Alerts for fault 170::
+Alert|| Glucose = 251.48992554229423 || Time(sec)=118
+Alert|| Glucose = 254.4651687557486 || Time(sec)=119
+Alert|| Glucose = 257.4431045717069 || Time(sec)=120
+Alert|| Glucose = 260.42253656845367 || Time(sec)=121
+Alert|| Glucose = 263.4023070418618 || Time(sec)=122
+Alert|| Glucose = 266.3812967787279 || Time(sec)=123
+Alert|| Glucose = 269.3584247812779 || Time(sec)=124
+Alert|| Glucose = 272.3326479449029 || Time(sec)=125
+Alert|| Glucose = 275.3029606913247 || Time(sec)=126
+Alert|| Glucose = 278.268394559505 || Time(sec)=127
+Alert|| Glucose = 281.22801775670774 || Time(sec)=128
+Alert|| Glucose = 284.18093467219796 || Time(sec)=129
+Alert|| Glucose = 287.126285356112 || Time(sec)=130
+Alert|| Glucose = 290.06324496606965 || Time(sec)=131
+Alert|| Glucose = 292.9910231841115 || Time(sec)=132
+Alert|| Glucose = 295.9088636065457 || Time(sec)=133
+Alert|| Glucose = 298.8160431092682 || Time(sec)=134
+Alert|| Glucose = 301.71187119109084 || Time(sec)=135
+Alert|| Glucose = 304.59568929756625 || Time(sec)=136
+Alert|| Glucose = 307.4668701277429 || Time(sec)=137
+Alert|| Glucose = 310.3248169262171 || Time(sec)=138
+Alert|| Glucose = 313.1689627627761 || Time(sec)=139
+Alert|| Glucose = 315.99876980184126 || Time(sec)=140
+Alert|| Glucose = 318.8137285638366 || Time(sec)=141
+Alert|| Glucose = 321.6133571805117 || Time(sec)=142
+Alert|| Glucose = 324.39720064615244 || Time(sec)=143
+Alert|| Glucose = 327.164830066515 || Time(sec)=144
+Alert|| Glucose = 329.915841907214 || Time(sec)=145
+Alert|| Glucose = 332.64985724319683 || Time(sec)=146
+Alert|| Glucose = 335.36652101083104 || Time(sec)=147
+Alert|| Glucose = 338.0655012640296 || Time(sec)=148
+Alert|| Glucose = 340.7464884357391 || Time(sec)=149
+Alert|| Glucose = 343.4091946060144 || Time(sec)=150
+Alert|| Glucose = 346.05335277780665 || Time(sec)=151
+Alert|| Glucose = 348.67871616149563 || Time(sec)=152
+Alert|| Glucose = 351.2850574691054 || Time(sec)=153
+Alert|| Glucose = 353.8721682190527 || Time(sec)=154
+Alert|| Glucose = 356.4398580521902 || Time(sec)=155
+Alert|| Glucose = 358.9879540598264 || Time(sec)=156
+Alert|| Glucose = 361.5163001243224 || Time(sec)=157
+Alert|| Glucose = 364.02475627279136 || Time(sec)=158
+Alert|| Glucose = 366.5131980443554 || Time(sec)=159
+Alert|| Glucose = 368.98151587134623 || Time(sec)=160
+Alert|| Glucose = 371.4296144747714 || Time(sec)=161
+Alert|| Glucose = 373.8574122743094 || Time(sec)=162
+Alert|| Glucose = 376.26484081303806 || Time(sec)=163
+Alert|| Glucose = 378.65184419705065 || Time(sec)=164
+Alert|| Glucose = 381.01837855006244 || Time(sec)=165
+Alert|| Glucose = 383.36441148306653 || Time(sec)=166
+Alert|| Glucose = 385.6899215790545 || Time(sec)=167
+Alert|| Glucose = 387.9948978927793 || Time(sec)=168
+Alert|| Glucose = 390.2793394655015 || Time(sec)=169
+Alert|| Glucose = 392.5432548546271 || Time(sec)=170
+Alert|| Glucose = 394.7866616781162 || Time(sec)=171
+Alert|| Glucose = 397.0095861735138 || Time(sec)=172
+Alert|| Glucose = 399.21206277143006 || Time(sec)=173
+Alert|| Glucose = 401.3941336832757 || Time(sec)=174
+Alert|| Glucose = 403.55584850303853 || Time(sec)=175
+Alert|| Glucose = 405.6972638228694 || Time(sec)=176
+Alert|| Glucose = 407.81844286223117 || Time(sec)=177
+Alert|| Glucose = 409.9194551103517 || Time(sec)=178
+Alert|| Glucose = 412.000375981709 || Time(sec)=179
+Alert|| Glucose = 414.06128648426835 || Time(sec)=180
+Alert|| Glucose = 416.1022729001829 || Time(sec)=181
+Alert|| Glucose = 418.12342647866257 || Time(sec)=182
+Alert|| Glucose = 420.1248431407108 || Time(sec)=183
+Alert|| Glucose = 422.1066231954258 || Time(sec)=184
+Alert|| Glucose = 424.0688710675585 || Time(sec)=185
+Alert|| Glucose = 426.01169503602 || Time(sec)=186
+Alert|| Glucose = 427.93520698302893 || Time(sec)=187
+Alert|| Glucose = 429.8395221535904 || Time(sec)=188
+Alert|| Glucose = 431.72475892499904 || Time(sec)=189
+Alert|| Glucose = 433.5910385860603 || Time(sec)=190
+Alert|| Glucose = 435.4384851257272 || Time(sec)=191
+Alert|| Glucose = 437.26722503085256 || Time(sec)=192
+Alert|| Glucose = 439.0773870927602 || Time(sec)=193
+Alert|| Glucose = 440.86910222234326 || Time(sec)=194
+Alert|| Glucose = 442.6425032734016 || Time(sec)=195
+Alert|| Glucose = 444.3977248739362 || Time(sec)=196
+Alert|| Glucose = 446.13490326512294 || Time(sec)=197
+Alert|| Glucose = 447.85417614769324 || Time(sec)=198
+Alert|| Glucose = 449.55568253545647 || Time(sec)=199
