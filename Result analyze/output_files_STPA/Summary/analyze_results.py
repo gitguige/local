@@ -66,6 +66,8 @@ with open(result_file, 'r') as readfile:
     tmp_fault = 0
     for line in readfile:
         total_fault += 1
+        tmp_fault += 1.0
+
         line_seg = line.split(',')
         ind_offset = len(line_seg)-8
         if 'N/A' in line_seg[t1_ind + ind_offset]:
@@ -136,7 +138,6 @@ with open(result_file, 'r') as readfile:
             scene_fault.append(tmp_fault)
             tmp_fault = 0.0
 
-        tmp_fault += 1.0
         if 'N/A' not in line_seg[alert_ind + ind_offset]:
             if '||' not in line_seg[alert_ind + ind_offset]:
                 temp_timeAl = float(line_seg[t2_ind + ind_offset])
